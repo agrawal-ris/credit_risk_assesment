@@ -1,0 +1,1001 @@
+ExistingAccountStatus,Duration,CreditHistory,Purpose,CreditAmount,SavingsAccount,CurrentEmplymentStatus,InstallmentRate,PersonalStatusAndSex,OtherGuarantors,DurationInCurrentResidence,Property,Age,OtherInstallment,Housing,ExistingCredits,Job,PeopleLiable,Telephone,ForeignWorker,Sex,Marital_Status,ClassificationStatus
+None,6,critical account/ other credits existing (not at this bank),Radio/TV,1169,None,Above 7 Years,4,"Male, Single",None,4,Real Estate,67,None,Own,2,Skilled,1,yes,yes,Male,Single,1
+Below 200 DM,48,existing credits paid back duly till now ,Radio/TV,5951,Below 100 DM,"[1, 4) Years",2,"Female, Divorced",None,2,Real Estate,22,None,Own,1,Skilled,1,no,yes,Female,Divorced,0
+No Account,12,critical account/ other credits existing (not at this bank),Education,2096,Below 100 DM,"[4, 7) Years",2,"Male, Single",None,3,Real Estate,49,None,Own,1,Unskilled Resident,2,no,yes,Male,Single,1
+None,42,existing credits paid back duly till now ,Furniture,7882,Below 100 DM,"[4, 7) Years",2,"Male, Single",Guarantor,4,Life Insurance,45,None,Free,1,Skilled,2,no,yes,Male,Single,1
+None,24,delay in paying off in the past ,Car (New),4870,Below 100 DM,"[1, 4) Years",3,"Male, Single",None,4,None,53,None,Free,2,Skilled,2,no,yes,Male,Single,0
+No Account,36,existing credits paid back duly till now ,Education,9055,None,"[1, 4) Years",2,"Male, Single",None,4,None,35,None,Free,1,Unskilled Resident,2,yes,yes,Male,Single,1
+No Account,24,existing credits paid back duly till now ,Furniture,2835,"[500, 1000) DM",Above 7 Years,3,"Male, Single",None,4,Life Insurance,53,None,Own,1,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,36,existing credits paid back duly till now ,Car (Used),6948,Below 100 DM,"[1, 4) Years",2,"Male, Single",None,2,Car,35,None,Rent,1,Executive,1,yes,yes,Male,Single,1
+No Account,12,existing credits paid back duly till now ,Radio/TV,3059,Above 1000 DM,"[4, 7) Years",2,"Male, Divorced",None,4,Real Estate,61,None,Own,1,Unskilled Resident,1,no,yes,Male,Divorced,1
+Below 200 DM,30,critical account/ other credits existing (not at this bank),Car (New),5234,Below 100 DM,Unemployed,4,"Male, Married/Widowed",None,2,Car,28,None,Own,2,Executive,1,no,yes,Male,Married/Widowed,0
+Below 200 DM,12,existing credits paid back duly till now ,Car (New),1295,Below 100 DM,<1 Year,3,"Female, Divorced",None,1,Car,25,None,Rent,1,Skilled,1,no,yes,Female,Divorced,0
+None,48,existing credits paid back duly till now ,Business,4308,Below 100 DM,<1 Year,3,"Female, Divorced",None,4,Life Insurance,24,None,Rent,1,Skilled,1,no,yes,Female,Divorced,0
+Below 200 DM,12,existing credits paid back duly till now ,Radio/TV,1567,Below 100 DM,"[1, 4) Years",1,"Female, Divorced",None,1,Car,22,None,Own,1,Skilled,1,yes,yes,Female,Divorced,1
+None,24,critical account/ other credits existing (not at this bank),Car (New),1199,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Car,60,None,Own,2,Unskilled Resident,1,no,yes,Male,Single,0
+None,15,existing credits paid back duly till now ,Car (New),1403,Below 100 DM,"[1, 4) Years",2,"Female, Divorced",None,4,Car,28,None,Rent,1,Skilled,1,no,yes,Female,Divorced,1
+None,24,existing credits paid back duly till now ,Radio/TV,1282,"[100, 500) DM","[1, 4) Years",4,"Female, Divorced",None,2,Car,32,None,Own,1,Unskilled Resident,1,no,yes,Female,Divorced,0
+No Account,24,critical account/ other credits existing (not at this bank),Radio/TV,2424,None,Above 7 Years,4,"Male, Single",None,4,Life Insurance,53,None,Own,2,Skilled,1,no,yes,Male,Single,1
+None,30,no credits taken/ all credits paid back duly ,Business,8072,None,<1 Year,2,"Male, Single",None,3,Car,25,Bank,Own,3,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,24,existing credits paid back duly till now ,Car (Used),12579,Below 100 DM,Above 7 Years,4,"Female, Divorced",None,2,None,44,None,Free,1,Executive,1,yes,yes,Female,Divorced,0
+No Account,24,existing credits paid back duly till now ,Radio/TV,3430,"[500, 1000) DM",Above 7 Years,3,"Male, Single",None,2,Car,31,None,Own,1,Skilled,2,yes,yes,Male,Single,1
+No Account,9,critical account/ other credits existing (not at this bank),Car (New),2134,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,4,Car,48,None,Own,3,Skilled,1,yes,yes,Male,Single,1
+None,6,existing credits paid back duly till now ,Radio/TV,2647,"[500, 1000) DM","[1, 4) Years",2,"Male, Single",None,3,Real Estate,44,None,Rent,1,Skilled,2,no,yes,Male,Single,1
+None,10,critical account/ other credits existing (not at this bank),Car (New),2241,Below 100 DM,<1 Year,1,"Male, Single",None,3,Real Estate,48,None,Rent,2,Unskilled Resident,2,no,no,Male,Single,1
+Below 200 DM,12,critical account/ other credits existing (not at this bank),Car (Used),1804,"[100, 500) DM",<1 Year,3,"Male, Single",None,4,Life Insurance,44,None,Own,1,Skilled,1,no,yes,Male,Single,1
+No Account,10,critical account/ other credits existing (not at this bank),Furniture,2069,None,"[1, 4) Years",2,"Male, Married/Widowed",None,1,Car,26,None,Own,2,Skilled,1,no,no,Male,Married/Widowed,1
+None,6,existing credits paid back duly till now ,Furniture,1374,Below 100 DM,"[1, 4) Years",1,"Male, Single",None,2,Real Estate,36,Bank,Own,1,Unskilled Resident,1,yes,yes,Male,Single,1
+No Account,6,no credits taken/ all credits paid back duly ,Radio/TV,426,Below 100 DM,Above 7 Years,4,"Male, Married/Widowed",None,4,Car,39,None,Own,1,Unskilled Resident,1,no,yes,Male,Married/Widowed,1
+Above 200 DM,12,all credits at this bank paid back duly ,Radio/TV,409,Above 1000 DM,"[1, 4) Years",3,"Female, Divorced",None,3,Real Estate,42,None,Rent,2,Skilled,1,no,yes,Female,Divorced,1
+Below 200 DM,7,existing credits paid back duly till now ,Radio/TV,2415,Below 100 DM,"[1, 4) Years",3,"Male, Single",Guarantor,2,Real Estate,34,None,Own,1,Skilled,1,no,yes,Male,Single,1
+None,60,delay in paying off in the past ,Business,6836,Below 100 DM,Above 7 Years,3,"Male, Single",None,4,None,63,None,Own,2,Skilled,1,yes,yes,Male,Single,0
+Below 200 DM,18,existing credits paid back duly till now ,Business,1913,Above 1000 DM,<1 Year,3,"Male, Married/Widowed",None,3,Real Estate,36,Bank,Own,1,Skilled,1,yes,yes,Male,Married/Widowed,1
+None,24,existing credits paid back duly till now ,Furniture,4020,Below 100 DM,"[1, 4) Years",2,"Male, Single",None,2,Car,27,Stores,Own,1,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,18,existing credits paid back duly till now ,Car (New),5866,"[100, 500) DM","[1, 4) Years",2,"Male, Single",None,2,Car,30,None,Own,2,Skilled,1,yes,yes,Male,Single,1
+No Account,12,critical account/ other credits existing (not at this bank),Business,1264,None,Above 7 Years,4,"Male, Single",None,4,None,57,None,Rent,1,Unskilled Resident,1,no,yes,Male,Single,1
+Above 200 DM,12,existing credits paid back duly till now ,Furniture,1474,Below 100 DM,<1 Year,4,"Female, Divorced",None,1,Life Insurance,33,Bank,Own,1,Executive,1,yes,yes,Female,Divorced,1
+Below 200 DM,45,critical account/ other credits existing (not at this bank),Radio/TV,4746,Below 100 DM,<1 Year,4,"Male, Single",None,2,Life Insurance,25,None,Own,2,Unskilled Resident,1,no,yes,Male,Single,0
+No Account,48,critical account/ other credits existing (not at this bank),Education,6110,Below 100 DM,"[1, 4) Years",1,"Male, Single",None,3,None,31,Bank,Free,1,Skilled,1,yes,yes,Male,Single,1
+Above 200 DM,18,existing credits paid back duly till now ,Radio/TV,2100,Below 100 DM,"[1, 4) Years",4,"Male, Single",Co-Applicant,2,Real Estate,37,Stores,Own,1,Skilled,1,no,yes,Male,Single,0
+Above 200 DM,10,existing credits paid back duly till now ,Appliances,1225,Below 100 DM,"[1, 4) Years",2,"Male, Single",None,2,Car,37,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+Below 200 DM,9,existing credits paid back duly till now ,Radio/TV,458,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,3,Real Estate,24,None,Own,1,Skilled,1,no,yes,Male,Single,1
+No Account,30,existing credits paid back duly till now ,Radio/TV,2333,"[500, 1000) DM",Above 7 Years,4,"Male, Single",None,2,Car,30,Bank,Own,1,Executive,1,no,yes,Male,Single,1
+Below 200 DM,12,existing credits paid back duly till now ,Radio/TV,1158,"[500, 1000) DM","[1, 4) Years",3,"Male, Divorced",None,1,Car,26,None,Own,1,Skilled,1,yes,yes,Male,Divorced,1
+Below 200 DM,18,delay in paying off in the past ,Repairs,6204,Below 100 DM,"[1, 4) Years",2,"Male, Single",None,4,Real Estate,44,None,Own,1,Unskilled Resident,2,yes,yes,Male,Single,1
+None,30,critical account/ other credits existing (not at this bank),Car (Used),6187,"[100, 500) DM","[4, 7) Years",1,"Male, Married/Widowed",None,4,Car,24,None,Rent,2,Skilled,1,no,yes,Male,Married/Widowed,1
+None,48,critical account/ other credits existing (not at this bank),Car (Used),6143,Below 100 DM,Above 7 Years,4,"Female, Divorced",None,4,None,58,Stores,Free,2,Unskilled Resident,1,no,yes,Female,Divorced,0
+No Account,11,critical account/ other credits existing (not at this bank),Car (New),1393,Below 100 DM,<1 Year,4,"Female, Divorced",None,4,Car,35,None,Own,2,Executive,1,no,yes,Female,Divorced,1
+No Account,36,existing credits paid back duly till now ,Radio/TV,2299,"[500, 1000) DM",Above 7 Years,4,"Male, Single",None,4,Car,39,None,Own,1,Skilled,1,no,yes,Male,Single,1
+None,6,existing credits paid back duly till now ,Car (Used),1352,"[500, 1000) DM",Unemployed,1,"Female, Divorced",None,2,Life Insurance,23,None,Rent,1,"Unemployed, Unskilled",1,yes,yes,Female,Divorced,1
+No Account,11,critical account/ other credits existing (not at this bank),Car (New),7228,Below 100 DM,"[1, 4) Years",1,"Male, Single",None,4,Life Insurance,39,None,Own,2,Unskilled Resident,1,no,yes,Male,Single,1
+No Account,12,existing credits paid back duly till now ,Radio/TV,2073,"[100, 500) DM","[1, 4) Years",4,"Female, Divorced",Co-Applicant,2,Real Estate,28,None,Own,1,Skilled,1,no,yes,Female,Divorced,1
+Below 200 DM,24,delay in paying off in the past ,Furniture,2333,None,<1 Year,4,"Male, Single",None,2,Life Insurance,29,Bank,Own,1,Unskilled Resident,1,no,yes,Male,Single,1
+Below 200 DM,27,delay in paying off in the past ,Car (Used),5965,Below 100 DM,Above 7 Years,1,"Male, Single",None,2,Car,30,None,Own,2,Executive,1,yes,yes,Male,Single,1
+No Account,12,existing credits paid back duly till now ,Radio/TV,1262,Below 100 DM,"[1, 4) Years",3,"Male, Single",None,2,Car,25,None,Own,1,Skilled,1,no,yes,Male,Single,1
+No Account,18,existing credits paid back duly till now ,Car (Used),3378,None,"[1, 4) Years",2,"Male, Single",None,1,Life Insurance,31,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+Below 200 DM,36,delay in paying off in the past ,Car (New),2225,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,None,57,Bank,Free,2,Skilled,1,yes,yes,Male,Single,0
+No Account,6,all credits at this bank paid back duly ,Car (New),783,None,"[1, 4) Years",1,"Male, Single",Guarantor,2,Real Estate,26,Stores,Own,1,Unskilled Resident,2,no,yes,Male,Single,1
+Below 200 DM,12,existing credits paid back duly till now ,Radio/TV,6468,None,Unemployed,2,"Male, Single",None,1,None,52,None,Own,1,Executive,1,yes,yes,Male,Single,0
+No Account,36,critical account/ other credits existing (not at this bank),Radio/TV,9566,Below 100 DM,"[1, 4) Years",2,"Female, Divorced",None,2,Car,31,Stores,Own,2,Skilled,1,no,yes,Female,Divorced,1
+Above 200 DM,18,existing credits paid back duly till now ,Car (New),1961,Below 100 DM,Above 7 Years,3,"Female, Divorced",None,2,Car,23,None,Own,1,Executive,1,no,yes,Female,Divorced,1
+None,36,critical account/ other credits existing (not at this bank),Furniture,6229,Below 100 DM,<1 Year,4,"Female, Divorced",Co-Applicant,4,None,23,None,Rent,2,Unskilled Resident,1,yes,yes,Female,Divorced,0
+Below 200 DM,9,existing credits paid back duly till now ,Business,1391,Below 100 DM,"[1, 4) Years",2,"Male, Married/Widowed",None,1,Real Estate,27,Bank,Own,1,Skilled,1,yes,yes,Male,Married/Widowed,1
+Below 200 DM,15,critical account/ other credits existing (not at this bank),Radio/TV,1537,None,Above 7 Years,4,"Male, Single",Guarantor,4,Real Estate,50,None,Own,2,Skilled,1,yes,yes,Male,Single,1
+Below 200 DM,36,no credits taken/ all credits paid back duly ,Business,1953,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,None,61,None,Free,1,Executive,1,yes,yes,Male,Single,0
+Below 200 DM,48,no credits taken/ all credits paid back duly ,Business,14421,Below 100 DM,"[1, 4) Years",2,"Male, Single",None,2,Car,25,None,Own,1,Skilled,1,yes,yes,Male,Single,0
+No Account,24,existing credits paid back duly till now ,Radio/TV,3181,Below 100 DM,<1 Year,4,"Female, Divorced",None,4,Life Insurance,26,None,Own,1,Skilled,1,yes,yes,Female,Divorced,1
+No Account,27,existing credits paid back duly till now ,Repairs,5190,None,Above 7 Years,4,"Male, Single",None,4,Life Insurance,48,None,Own,4,Skilled,2,yes,yes,Male,Single,1
+No Account,12,existing credits paid back duly till now ,Radio/TV,2171,Below 100 DM,<1 Year,2,"Female, Divorced",None,2,Car,29,Bank,Own,1,Skilled,1,no,yes,Female,Divorced,1
+Below 200 DM,12,existing credits paid back duly till now ,Car (New),1007,Above 1000 DM,"[1, 4) Years",4,"Male, Married/Widowed",None,1,Real Estate,22,None,Own,1,Skilled,1,no,yes,Male,Married/Widowed,1
+No Account,36,existing credits paid back duly till now ,Education,1819,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,4,None,37,Stores,Free,1,Skilled,1,yes,yes,Male,Single,0
+No Account,36,existing credits paid back duly till now ,Radio/TV,2394,None,"[1, 4) Years",4,"Female, Divorced",None,4,Car,25,None,Own,1,Skilled,1,no,yes,Female,Divorced,1
+No Account,36,existing credits paid back duly till now ,Car (Used),8133,Below 100 DM,"[1, 4) Years",1,"Female, Divorced",None,2,Life Insurance,30,Bank,Own,1,Skilled,1,no,yes,Female,Divorced,1
+No Account,7,critical account/ other credits existing (not at this bank),Radio/TV,730,None,Above 7 Years,4,"Male, Single",None,2,Life Insurance,46,None,Rent,2,Unskilled Resident,1,yes,yes,Male,Single,1
+None,8,critical account/ other credits existing (not at this bank),Others,1164,Below 100 DM,Above 7 Years,3,"Male, Single",None,4,None,51,Bank,Free,2,Executive,2,yes,yes,Male,Single,1
+Below 200 DM,42,critical account/ other credits existing (not at this bank),Business,5954,Below 100 DM,"[4, 7) Years",2,"Female, Divorced",None,1,Real Estate,41,Bank,Own,2,Unskilled Resident,1,no,yes,Female,Divorced,1
+None,36,existing credits paid back duly till now ,Education,1977,None,Above 7 Years,4,"Male, Single",None,4,None,40,None,Own,1,Executive,1,yes,yes,Male,Single,0
+None,12,critical account/ other credits existing (not at this bank),Car (Used),1526,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,None,66,None,Free,2,Executive,1,no,yes,Male,Single,1
+None,42,existing credits paid back duly till now ,Radio/TV,3965,Below 100 DM,<1 Year,4,"Male, Single",None,3,Car,34,None,Own,1,Skilled,1,no,yes,Male,Single,0
+Below 200 DM,11,delay in paying off in the past ,Radio/TV,4771,Below 100 DM,"[4, 7) Years",2,"Male, Single",None,4,Life Insurance,51,None,Own,1,Skilled,1,no,yes,Male,Single,1
+No Account,54,no credits taken/ all credits paid back duly ,Car (Used),9436,None,"[1, 4) Years",2,"Male, Single",None,2,Life Insurance,39,None,Own,1,Unskilled Resident,2,no,yes,Male,Single,1
+Below 200 DM,30,existing credits paid back duly till now ,Furniture,3832,Below 100 DM,<1 Year,2,"Male, Married/Widowed",None,1,Life Insurance,22,None,Own,1,Skilled,1,no,yes,Male,Married/Widowed,1
+No Account,24,existing credits paid back duly till now ,Radio/TV,5943,None,<1 Year,1,"Female, Divorced",None,1,Car,44,None,Own,2,Skilled,1,yes,yes,Female,Divorced,0
+No Account,15,existing credits paid back duly till now ,Radio/TV,1213,"[500, 1000) DM",Above 7 Years,4,"Male, Single",None,3,Life Insurance,47,Stores,Own,1,Skilled,1,yes,yes,Male,Single,1
+No Account,18,existing credits paid back duly till now ,Business,1568,"[100, 500) DM","[1, 4) Years",3,"Female, Divorced",None,4,Life Insurance,24,None,Rent,1,Unskilled Resident,1,no,yes,Female,Divorced,1
+None,24,existing credits paid back duly till now ,Others,1755,Below 100 DM,Above 7 Years,4,"Female, Divorced",Guarantor,4,Real Estate,58,None,Own,1,Unskilled Resident,1,yes,yes,Female,Divorced,1
+None,10,existing credits paid back duly till now ,Radio/TV,2315,Below 100 DM,Above 7 Years,3,"Male, Single",None,4,Real Estate,52,None,Own,1,Unskilled Resident,1,no,yes,Male,Single,1
+No Account,12,critical account/ other credits existing (not at this bank),Business,1412,Below 100 DM,"[1, 4) Years",4,"Female, Divorced",Guarantor,2,Real Estate,29,None,Own,2,Executive,1,yes,yes,Female,Divorced,1
+Below 200 DM,18,critical account/ other credits existing (not at this bank),Furniture,1295,Below 100 DM,<1 Year,4,"Female, Divorced",None,1,Life Insurance,27,None,Own,2,Skilled,1,no,yes,Female,Divorced,1
+Below 200 DM,36,existing credits paid back duly till now ,Education,12612,"[100, 500) DM","[1, 4) Years",1,"Male, Single",None,4,None,47,None,Free,1,Skilled,2,yes,yes,Male,Single,0
+None,18,existing credits paid back duly till now ,Car (New),2249,"[100, 500) DM","[4, 7) Years",4,"Male, Single",None,3,Car,30,None,Own,1,Executive,2,yes,yes,Male,Single,1
+None,12,no credits taken/ all credits paid back duly ,Repairs,1108,Below 100 DM,"[4, 7) Years",4,"Male, Single",None,3,Real Estate,28,None,Own,2,Skilled,1,no,yes,Male,Single,0
+No Account,12,critical account/ other credits existing (not at this bank),Radio/TV,618,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Real Estate,56,None,Own,1,Skilled,1,no,yes,Male,Single,1
+None,12,critical account/ other credits existing (not at this bank),Car (Used),1409,Below 100 DM,Above 7 Years,4,"Male, Single",None,3,Real Estate,54,None,Own,1,Skilled,1,no,yes,Male,Single,1
+No Account,12,critical account/ other credits existing (not at this bank),Radio/TV,797,None,Above 7 Years,4,"Female, Divorced",None,3,Life Insurance,33,Bank,Own,1,Unskilled Resident,2,no,yes,Female,Divorced,0
+Above 200 DM,24,critical account/ other credits existing (not at this bank),Furniture,3617,None,Above 7 Years,4,"Male, Single",Co-Applicant,4,None,20,None,Rent,2,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,12,existing credits paid back duly till now ,Car (New),1318,Above 1000 DM,Above 7 Years,4,"Male, Single",None,4,Real Estate,54,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+Below 200 DM,54,no credits taken/ all credits paid back duly ,Business,15945,Below 100 DM,<1 Year,3,"Male, Single",None,4,None,58,None,Rent,1,Skilled,1,yes,yes,Male,Single,0
+No Account,12,critical account/ other credits existing (not at this bank),Education,2012,None,"[4, 7) Years",4,"Female, Divorced",None,2,Car,61,None,Own,1,Skilled,1,no,yes,Female,Divorced,1
+Below 200 DM,18,existing credits paid back duly till now ,Business,2622,"[100, 500) DM","[1, 4) Years",4,"Male, Single",None,4,Car,34,None,Own,1,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,36,critical account/ other credits existing (not at this bank),Radio/TV,2337,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Real Estate,36,None,Own,1,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,20,delay in paying off in the past ,Car (Used),7057,None,"[4, 7) Years",3,"Male, Single",None,4,Life Insurance,36,Bank,Rent,2,Executive,2,yes,yes,Male,Single,1
+No Account,24,existing credits paid back duly till now ,Car (New),1469,"[100, 500) DM",Above 7 Years,4,"Male, Married/Widowed",None,4,Real Estate,41,None,Rent,1,Unskilled Resident,1,no,yes,Male,Married/Widowed,1
+Below 200 DM,36,existing credits paid back duly till now ,Radio/TV,2323,Below 100 DM,"[4, 7) Years",4,"Male, Single",None,4,Car,24,None,Rent,1,Skilled,1,no,yes,Male,Single,1
+No Account,6,delay in paying off in the past ,Radio/TV,932,Below 100 DM,"[1, 4) Years",3,"Female, Divorced",None,2,Real Estate,24,None,Own,1,Skilled,1,no,yes,Female,Divorced,1
+Below 200 DM,9,critical account/ other credits existing (not at this bank),Furniture,1919,Below 100 DM,"[4, 7) Years",4,"Male, Single",None,3,Car,35,None,Rent,1,Skilled,1,yes,yes,Male,Single,1
+No Account,12,existing credits paid back duly till now ,Car (Used),2445,None,<1 Year,2,"Male, Married/Widowed",None,4,Car,26,None,Rent,1,Skilled,1,yes,yes,Male,Married/Widowed,1
+Below 200 DM,24,critical account/ other credits existing (not at this bank),Others,11938,Below 100 DM,"[1, 4) Years",2,"Male, Single",Co-Applicant,3,Car,39,None,Own,2,Executive,2,yes,yes,Male,Single,0
+No Account,18,all credits at this bank paid back duly ,Car (New),6458,Below 100 DM,Above 7 Years,2,"Male, Single",None,4,None,39,Bank,Own,2,Executive,2,yes,yes,Male,Single,0
+Below 200 DM,12,existing credits paid back duly till now ,Car (New),6078,Below 100 DM,"[4, 7) Years",2,"Male, Single",None,2,Car,32,None,Own,1,Skilled,1,no,yes,Male,Single,1
+None,24,existing credits paid back duly till now ,Furniture,7721,None,<1 Year,1,"Female, Divorced",None,2,Life Insurance,30,None,Own,1,Skilled,1,yes,no,Female,Divorced,1
+Below 200 DM,14,existing credits paid back duly till now ,Business,1410,"[500, 1000) DM",Above 7 Years,1,"Male, Married/Widowed",None,2,Real Estate,35,None,Own,1,Skilled,1,yes,yes,Male,Married/Widowed,1
+Below 200 DM,6,delay in paying off in the past ,Business,1449,"[100, 500) DM",Above 7 Years,1,"Male, Divorced",None,2,Car,31,Bank,Own,2,Skilled,2,no,yes,Male,Divorced,1
+Above 200 DM,15,existing credits paid back duly till now ,Education,392,Below 100 DM,<1 Year,4,"Female, Divorced",None,4,Life Insurance,23,None,Rent,1,Skilled,1,yes,yes,Female,Divorced,1
+Below 200 DM,18,existing credits paid back duly till now ,Car (New),6260,Below 100 DM,"[4, 7) Years",3,"Male, Single",None,3,Real Estate,28,None,Rent,1,Unskilled Resident,1,no,yes,Male,Single,1
+No Account,36,critical account/ other credits existing (not at this bank),Car (New),7855,Below 100 DM,"[1, 4) Years",4,"Female, Divorced",None,2,Real Estate,25,Stores,Own,2,Skilled,1,yes,yes,Female,Divorced,0
+None,12,existing credits paid back duly till now ,Radio/TV,1680,"[500, 1000) DM",Above 7 Years,3,"Male, Married/Widowed",None,1,Real Estate,35,None,Own,1,Skilled,1,no,yes,Male,Married/Widowed,1
+No Account,48,critical account/ other credits existing (not at this bank),Radio/TV,3578,None,Above 7 Years,4,"Male, Single",None,1,Real Estate,47,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+None,42,existing credits paid back duly till now ,Radio/TV,7174,None,"[4, 7) Years",4,"Female, Divorced",None,3,Car,30,None,Own,1,Executive,1,yes,yes,Female,Divorced,0
+None,10,critical account/ other credits existing (not at this bank),Furniture,2132,None,<1 Year,2,"Female, Divorced",Co-Applicant,3,Real Estate,27,None,Rent,2,Skilled,1,no,no,Female,Divorced,1
+None,33,critical account/ other credits existing (not at this bank),Furniture,4281,"[500, 1000) DM","[1, 4) Years",1,"Female, Divorced",None,4,Car,23,None,Own,2,Skilled,1,no,yes,Female,Divorced,0
+Below 200 DM,12,critical account/ other credits existing (not at this bank),Car (New),2366,"[500, 1000) DM","[4, 7) Years",3,"Male, Divorced",None,3,Car,36,None,Own,1,Executive,1,yes,yes,Male,Divorced,1
+None,21,existing credits paid back duly till now ,Radio/TV,1835,Below 100 DM,"[1, 4) Years",3,"Female, Divorced",None,2,Real Estate,25,None,Own,2,Skilled,1,yes,yes,Female,Divorced,0
+No Account,24,critical account/ other credits existing (not at this bank),Car (Used),3868,Below 100 DM,Above 7 Years,4,"Female, Divorced",None,2,Car,41,None,Rent,2,Executive,1,yes,yes,Female,Divorced,1
+No Account,12,existing credits paid back duly till now ,Furniture,1768,Below 100 DM,"[1, 4) Years",3,"Male, Single",None,2,Real Estate,24,None,Rent,1,Unskilled Resident,1,no,yes,Male,Single,1
+Above 200 DM,10,critical account/ other credits existing (not at this bank),Car (New),781,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,None,63,None,Free,2,Skilled,1,yes,yes,Male,Single,1
+Below 200 DM,18,existing credits paid back duly till now ,Furniture,1924,None,<1 Year,4,"Female, Divorced",None,3,Real Estate,27,None,Rent,1,Skilled,1,no,yes,Female,Divorced,0
+None,12,critical account/ other credits existing (not at this bank),Car (New),2121,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,2,Life Insurance,30,None,Own,2,Skilled,1,no,yes,Male,Single,1
+None,12,existing credits paid back duly till now ,Radio/TV,701,Below 100 DM,"[1, 4) Years",4,"Male, Married/Widowed",None,2,Real Estate,40,None,Own,1,Unskilled Resident,1,no,yes,Male,Married/Widowed,1
+Below 200 DM,12,existing credits paid back duly till now ,Repairs,639,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,2,Car,30,None,Own,1,Skilled,1,no,yes,Male,Single,0
+Below 200 DM,12,critical account/ other credits existing (not at this bank),Car (Used),1860,Below 100 DM,Unemployed,4,"Male, Single",None,2,Car,34,None,Own,2,Executive,1,yes,yes,Male,Single,1
+None,12,critical account/ other credits existing (not at this bank),Car (New),3499,Below 100 DM,"[1, 4) Years",3,"Female, Divorced",Co-Applicant,2,Real Estate,29,None,Own,2,Skilled,1,no,yes,Female,Divorced,0
+Below 200 DM,48,existing credits paid back duly till now ,Car (New),8487,None,"[4, 7) Years",1,"Female, Divorced",None,2,Car,24,None,Own,1,Skilled,1,no,yes,Female,Divorced,1
+None,36,delay in paying off in the past ,Education,6887,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,3,Life Insurance,29,Stores,Own,1,Skilled,1,yes,yes,Male,Single,0
+No Account,15,existing credits paid back duly till now ,Furniture,2708,Below 100 DM,<1 Year,2,"Male, Single",None,3,Life Insurance,27,Bank,Own,2,Unskilled Resident,1,no,yes,Male,Single,1
+No Account,18,existing credits paid back duly till now ,Furniture,1984,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,4,None,47,Bank,Free,2,Skilled,1,no,yes,Male,Single,1
+No Account,60,existing credits paid back duly till now ,Radio/TV,10144,"[100, 500) DM","[4, 7) Years",2,"Female, Divorced",None,4,Real Estate,21,None,Own,1,Skilled,1,yes,yes,Female,Divorced,1
+No Account,12,critical account/ other credits existing (not at this bank),Radio/TV,1240,None,Above 7 Years,4,"Female, Divorced",None,2,Real Estate,38,None,Own,2,Skilled,1,yes,yes,Female,Divorced,1
+No Account,27,delay in paying off in the past ,Car (Used),8613,Above 1000 DM,"[1, 4) Years",2,"Male, Single",None,2,Car,27,None,Own,2,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,12,existing credits paid back duly till now ,Radio/TV,766,"[500, 1000) DM","[1, 4) Years",4,"Male, Single",None,3,Real Estate,66,None,Own,1,Unskilled Resident,1,no,yes,Male,Single,0
+Below 200 DM,15,critical account/ other credits existing (not at this bank),Radio/TV,2728,None,"[4, 7) Years",4,"Male, Single",Guarantor,2,Real Estate,35,Bank,Own,3,Skilled,1,yes,yes,Male,Single,1
+Above 200 DM,12,existing credits paid back duly till now ,Radio/TV,1881,Below 100 DM,"[1, 4) Years",2,"Female, Divorced",None,2,Car,44,None,Rent,1,Unskilled Resident,1,yes,yes,Female,Divorced,1
+Above 200 DM,6,existing credits paid back duly till now ,Car (New),709,Above 1000 DM,<1 Year,2,"Male, Married/Widowed",None,2,Real Estate,27,None,Own,1,"Unemployed, Unskilled",1,no,no,Male,Married/Widowed,1
+Below 200 DM,36,existing credits paid back duly till now ,Radio/TV,4795,Below 100 DM,<1 Year,4,"Female, Divorced",None,1,None,30,None,Own,1,Executive,1,yes,yes,Female,Divorced,1
+None,27,existing credits paid back duly till now ,Radio/TV,3416,Below 100 DM,"[1, 4) Years",3,"Male, Single",None,2,Car,27,None,Own,1,Executive,1,no,yes,Male,Single,1
+None,18,existing credits paid back duly till now ,Furniture,2462,Below 100 DM,"[1, 4) Years",2,"Male, Single",None,2,Car,22,None,Own,1,Skilled,1,no,yes,Male,Single,0
+No Account,21,critical account/ other credits existing (not at this bank),Furniture,2288,Below 100 DM,<1 Year,4,"Female, Divorced",None,4,Life Insurance,23,None,Own,1,Skilled,1,yes,yes,Female,Divorced,1
+Below 200 DM,48,all credits at this bank paid back duly ,Business,3566,"[100, 500) DM","[4, 7) Years",4,"Male, Single",None,2,Car,30,None,Own,1,Skilled,1,no,yes,Male,Single,1
+None,6,critical account/ other credits existing (not at this bank),Car (New),860,Below 100 DM,Above 7 Years,1,"Female, Divorced",None,4,None,39,None,Own,2,Skilled,1,yes,yes,Female,Divorced,1
+No Account,12,critical account/ other credits existing (not at this bank),Car (New),682,"[100, 500) DM","[4, 7) Years",4,"Female, Divorced",None,3,Car,51,None,Own,2,Skilled,1,yes,yes,Female,Divorced,1
+None,36,critical account/ other credits existing (not at this bank),Furniture,5371,Below 100 DM,"[1, 4) Years",3,"Male, Single",Guarantor,2,Life Insurance,28,None,Own,2,Skilled,1,no,yes,Male,Single,1
+No Account,18,critical account/ other credits existing (not at this bank),Radio/TV,1582,Above 1000 DM,Above 7 Years,4,"Male, Single",None,4,Car,46,None,Own,2,Skilled,1,no,yes,Male,Single,1
+No Account,6,existing credits paid back duly till now ,Radio/TV,1346,"[100, 500) DM",Above 7 Years,2,"Male, Single",None,4,None,42,Bank,Free,1,Skilled,2,yes,yes,Male,Single,1
+No Account,10,existing credits paid back duly till now ,Radio/TV,1924,Below 100 DM,"[1, 4) Years",1,"Male, Single",None,4,Life Insurance,38,None,Own,1,Skilled,1,yes,no,Male,Single,1
+Above 200 DM,36,existing credits paid back duly till now ,Radio/TV,5848,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,1,Car,24,None,Own,1,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,24,critical account/ other credits existing (not at this bank),Car (Used),7758,Above 1000 DM,Above 7 Years,2,"Female, Divorced",None,4,None,29,None,Rent,1,Skilled,1,no,yes,Female,Divorced,1
+Below 200 DM,24,delay in paying off in the past ,Business,6967,"[100, 500) DM","[4, 7) Years",4,"Male, Single",None,4,Car,36,None,Rent,1,Executive,1,yes,yes,Male,Single,1
+None,12,existing credits paid back duly till now ,Furniture,1282,Below 100 DM,"[1, 4) Years",2,"Female, Divorced",None,4,Car,20,None,Rent,1,Skilled,1,no,yes,Female,Divorced,0
+None,9,critical account/ other credits existing (not at this bank),Repairs,1288,"[100, 500) DM",Above 7 Years,3,"Male, Single",Guarantor,4,Real Estate,48,None,Own,2,Skilled,2,no,no,Male,Single,1
+None,12,all credits at this bank paid back duly ,Retraining,339,Below 100 DM,Above 7 Years,4,"Male, Married/Widowed",None,1,Car,45,Bank,Own,1,Unskilled Resident,1,no,yes,Male,Married/Widowed,1
+Below 200 DM,24,existing credits paid back duly till now ,Car (New),3512,"[100, 500) DM","[4, 7) Years",2,"Male, Single",None,3,Car,38,Bank,Own,2,Skilled,1,yes,yes,Male,Single,1
+No Account,6,critical account/ other credits existing (not at this bank),Radio/TV,1898,None,"[1, 4) Years",1,"Male, Single",None,2,Real Estate,34,None,Own,2,Unskilled Resident,2,no,yes,Male,Single,1
+No Account,24,critical account/ other credits existing (not at this bank),Radio/TV,2872,"[100, 500) DM",Above 7 Years,3,"Male, Single",None,4,Real Estate,36,None,Own,1,Skilled,2,yes,yes,Male,Single,1
+No Account,18,critical account/ other credits existing (not at this bank),Car (New),1055,Below 100 DM,<1 Year,4,"Female, Divorced",None,1,Life Insurance,30,None,Own,2,Skilled,1,no,yes,Female,Divorced,1
+No Account,15,existing credits paid back duly till now ,Appliances,1262,"[500, 1000) DM","[4, 7) Years",4,"Male, Single",None,3,Life Insurance,36,None,Own,2,Skilled,1,yes,yes,Male,Single,1
+Below 200 DM,10,existing credits paid back duly till now ,Car (New),7308,Below 100 DM,Unemployed,2,"Male, Single",None,4,None,70,Bank,Free,1,Executive,1,yes,yes,Male,Single,1
+No Account,36,existing credits paid back duly till now ,Car (New),909,"[500, 1000) DM",Above 7 Years,4,"Male, Single",None,4,Life Insurance,36,None,Own,1,Skilled,1,no,yes,Male,Single,1
+No Account,6,existing credits paid back duly till now ,Furniture,2978,"[500, 1000) DM","[1, 4) Years",1,"Male, Single",None,2,Car,32,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+None,18,existing credits paid back duly till now ,Furniture,1131,Below 100 DM,Unemployed,4,"Female, Divorced",None,2,Car,33,None,Own,1,Skilled,1,no,yes,Female,Divorced,0
+Below 200 DM,11,existing credits paid back duly till now ,Furniture,1577,Above 1000 DM,<1 Year,4,"Female, Divorced",None,1,Real Estate,20,None,Own,1,Skilled,1,no,yes,Female,Divorced,1
+No Account,24,existing credits paid back duly till now ,Furniture,3972,Below 100 DM,"[4, 7) Years",2,"Female, Divorced",None,4,Life Insurance,25,None,Rent,1,Skilled,1,yes,yes,Female,Divorced,1
+Below 200 DM,24,critical account/ other credits existing (not at this bank),Business,1935,Below 100 DM,Above 7 Years,4,"Male, Divorced",None,4,Real Estate,31,None,Own,2,Skilled,1,yes,yes,Male,Divorced,0
+None,15,no credits taken/ all credits paid back duly ,Car (New),950,Below 100 DM,Above 7 Years,4,"Male, Single",None,3,Car,33,None,Rent,2,Skilled,2,no,yes,Male,Single,0
+No Account,12,existing credits paid back duly till now ,Furniture,763,Below 100 DM,"[1, 4) Years",4,"Female, Divorced",None,1,Real Estate,26,None,Own,1,Skilled,1,yes,yes,Female,Divorced,1
+Below 200 DM,24,delay in paying off in the past ,Furniture,2064,Below 100 DM,Unemployed,3,"Female, Divorced",None,2,Life Insurance,34,None,Own,1,Executive,1,yes,yes,Female,Divorced,0
+Below 200 DM,8,existing credits paid back duly till now ,Radio/TV,1414,Below 100 DM,"[1, 4) Years",4,"Male, Single",Guarantor,2,Real Estate,33,None,Own,1,Skilled,1,no,no,Male,Single,1
+None,21,delay in paying off in the past ,Education,3414,Below 100 DM,<1 Year,2,"Male, Single",None,1,Life Insurance,26,None,Own,2,Skilled,1,no,yes,Male,Single,0
+No Account,30,all credits at this bank paid back duly ,Car (Used),7485,None,Unemployed,4,"Female, Divorced",None,1,Real Estate,53,Bank,Own,1,Executive,1,yes,yes,Female,Divorced,0
+None,12,existing credits paid back duly till now ,Furniture,2577,Below 100 DM,"[1, 4) Years",2,"Male, Divorced",None,1,Car,42,None,Own,1,Skilled,1,no,yes,Male,Divorced,1
+None,6,critical account/ other credits existing (not at this bank),Radio/TV,338,"[500, 1000) DM",Above 7 Years,4,"Male, Single",None,4,Car,52,None,Own,2,Skilled,1,no,yes,Male,Single,1
+No Account,12,existing credits paid back duly till now ,Radio/TV,1963,Below 100 DM,"[4, 7) Years",4,"Male, Single",None,2,Car,31,None,Rent,2,Executive,2,yes,yes,Male,Single,1
+None,21,critical account/ other credits existing (not at this bank),Car (New),571,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Real Estate,65,None,Own,2,Skilled,1,no,yes,Male,Single,1
+No Account,36,delay in paying off in the past ,Business,9572,Below 100 DM,<1 Year,1,"Male, Divorced",None,1,Car,28,None,Own,2,Skilled,1,no,yes,Male,Divorced,0
+Below 200 DM,36,delay in paying off in the past ,Business,4455,Below 100 DM,"[1, 4) Years",2,"Male, Divorced",None,2,Real Estate,30,Stores,Own,2,Executive,1,yes,yes,Male,Divorced,0
+None,21,all credits at this bank paid back duly ,Car (New),1647,None,"[1, 4) Years",4,"Male, Single",None,2,Life Insurance,40,None,Own,2,Unskilled Resident,2,no,yes,Male,Single,0
+No Account,24,critical account/ other credits existing (not at this bank),Furniture,3777,Above 1000 DM,"[1, 4) Years",4,"Male, Single",None,4,Real Estate,50,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+Below 200 DM,18,critical account/ other credits existing (not at this bank),Car (New),884,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Car,36,Bank,Own,1,Skilled,2,yes,yes,Male,Single,0
+No Account,15,critical account/ other credits existing (not at this bank),Radio/TV,1360,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,2,Life Insurance,31,None,Own,2,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,9,all credits at this bank paid back duly ,Car (Used),5129,Below 100 DM,Above 7 Years,2,"Female, Divorced",None,4,None,74,Bank,Free,1,Executive,2,yes,yes,Female,Divorced,0
+Below 200 DM,16,critical account/ other credits existing (not at this bank),Car (New),1175,Below 100 DM,Unemployed,2,"Male, Single",None,3,Car,68,None,Free,3,"Unemployed, Unskilled",1,yes,yes,Male,Single,1
+None,12,existing credits paid back duly till now ,Radio/TV,674,"[100, 500) DM","[4, 7) Years",4,"Male, Married/Widowed",None,1,Life Insurance,20,None,Own,1,Skilled,1,no,yes,Male,Married/Widowed,0
+Below 200 DM,18,no credits taken/ all credits paid back duly ,Furniture,3244,Below 100 DM,"[1, 4) Years",1,"Female, Divorced",None,4,Car,33,Bank,Own,2,Skilled,1,yes,yes,Female,Divorced,1
+No Account,24,existing credits paid back duly till now ,Business,4591,Above 1000 DM,"[1, 4) Years",2,"Male, Single",None,3,Life Insurance,54,None,Own,3,Executive,1,yes,yes,Male,Single,0
+Below 200 DM,48,no credits taken/ all credits paid back duly ,Business,3844,"[100, 500) DM","[4, 7) Years",4,"Male, Single",None,4,None,34,None,Free,1,Unskilled Resident,2,no,yes,Male,Single,0
+Below 200 DM,27,existing credits paid back duly till now ,Business,3915,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,2,Car,36,None,Own,1,Skilled,2,yes,yes,Male,Single,0
+No Account,6,existing credits paid back duly till now ,Radio/TV,2108,Below 100 DM,"[4, 7) Years",2,"Male, Married/Widowed",None,2,Real Estate,29,None,Rent,1,Skilled,1,no,yes,Male,Married/Widowed,1
+Below 200 DM,45,existing credits paid back duly till now ,Radio/TV,3031,"[100, 500) DM","[1, 4) Years",4,"Male, Single",Guarantor,4,Life Insurance,21,None,Rent,1,Skilled,1,no,yes,Male,Single,0
+Below 200 DM,9,critical account/ other credits existing (not at this bank),Education,1501,Below 100 DM,Above 7 Years,2,"Female, Divorced",None,3,Car,34,None,Own,2,Executive,1,yes,yes,Female,Divorced,0
+No Account,6,critical account/ other credits existing (not at this bank),Radio/TV,1382,Below 100 DM,"[1, 4) Years",1,"Female, Divorced",None,1,Car,28,None,Own,2,Skilled,1,yes,yes,Female,Divorced,1
+Below 200 DM,12,existing credits paid back duly till now ,Furniture,951,"[100, 500) DM",<1 Year,4,"Female, Divorced",None,4,Car,27,Bank,Rent,4,Skilled,1,no,yes,Female,Divorced,0
+Below 200 DM,24,existing credits paid back duly till now ,Car (Used),2760,None,Above 7 Years,4,"Male, Single",None,4,None,36,Bank,Free,1,Skilled,1,yes,yes,Male,Single,1
+Below 200 DM,18,delay in paying off in the past ,Furniture,4297,Below 100 DM,Above 7 Years,4,"Male, Divorced",None,3,None,40,None,Own,1,Executive,1,yes,yes,Male,Divorced,0
+No Account,9,critical account/ other credits existing (not at this bank),Education,936,"[500, 1000) DM",Above 7 Years,4,"Male, Single",None,2,Car,52,None,Own,2,Skilled,1,yes,yes,Male,Single,1
+None,12,existing credits paid back duly till now ,Car (New),1168,Below 100 DM,"[1, 4) Years",4,"Male, Married/Widowed",None,3,Real Estate,27,None,Own,1,Unskilled Resident,1,no,yes,Male,Married/Widowed,1
+No Account,27,delay in paying off in the past ,Business,5117,Below 100 DM,"[4, 7) Years",3,"Male, Single",None,4,Car,26,None,Own,2,Skilled,1,no,yes,Male,Single,1
+None,12,existing credits paid back duly till now ,Retraining,902,Below 100 DM,"[4, 7) Years",4,"Male, Married/Widowed",None,4,Life Insurance,21,None,Rent,1,Skilled,1,no,yes,Male,Married/Widowed,0
+No Account,12,critical account/ other credits existing (not at this bank),Car (New),1495,Below 100 DM,Above 7 Years,4,"Male, Single",None,1,Real Estate,38,None,Own,2,Unskilled Resident,2,no,yes,Male,Single,1
+None,30,critical account/ other credits existing (not at this bank),Car (Used),10623,Below 100 DM,Above 7 Years,3,"Male, Single",None,4,None,38,None,Free,3,Executive,2,yes,yes,Male,Single,1
+No Account,12,critical account/ other credits existing (not at this bank),Furniture,1935,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Real Estate,43,None,Own,3,Skilled,1,yes,yes,Male,Single,1
+Below 200 DM,12,critical account/ other credits existing (not at this bank),Appliances,1424,Below 100 DM,"[4, 7) Years",4,"Male, Single",None,3,Life Insurance,26,None,Own,1,Skilled,1,no,yes,Male,Single,1
+None,24,existing credits paid back duly till now ,Business,6568,Below 100 DM,"[1, 4) Years",2,"Male, Married/Widowed",None,2,Car,21,Stores,Own,1,Unskilled Resident,1,no,yes,Male,Married/Widowed,1
+No Account,12,existing credits paid back duly till now ,Car (Used),1413,Above 1000 DM,"[4, 7) Years",3,"Male, Single",None,2,Life Insurance,55,None,Own,1,Skilled,1,no,no,Male,Single,1
+No Account,9,critical account/ other credits existing (not at this bank),Radio/TV,3074,None,"[1, 4) Years",1,"Male, Single",None,2,Real Estate,33,None,Own,2,Skilled,2,no,yes,Male,Single,1
+No Account,36,existing credits paid back duly till now ,Radio/TV,3835,None,Above 7 Years,2,"Female, Divorced",None,4,Real Estate,45,None,Own,1,Unskilled Resident,1,yes,yes,Female,Divorced,1
+None,27,no credits taken/ all credits paid back duly ,Business,5293,Below 100 DM,Unemployed,2,"Male, Single",None,4,Life Insurance,50,Stores,Own,2,Skilled,1,yes,yes,Male,Single,0
+Above 200 DM,30,delay in paying off in the past ,Business,1908,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Real Estate,66,None,Own,1,Executive,1,yes,yes,Male,Single,0
+No Account,36,critical account/ other credits existing (not at this bank),Radio/TV,3342,None,Above 7 Years,4,"Male, Single",None,2,Car,51,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+Below 200 DM,6,critical account/ other credits existing (not at this bank),Retraining,932,None,"[4, 7) Years",1,"Female, Divorced",None,3,Life Insurance,39,None,Own,2,Unskilled Resident,1,no,yes,Female,Divorced,1
+None,18,no credits taken/ all credits paid back duly ,Business,3104,Below 100 DM,"[4, 7) Years",3,"Male, Single",None,1,Life Insurance,31,Bank,Own,1,Skilled,1,yes,yes,Male,Single,1
+Above 200 DM,36,existing credits paid back duly till now ,Radio/TV,3913,Below 100 DM,"[1, 4) Years",2,"Male, Single",None,2,Real Estate,23,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+None,24,existing credits paid back duly till now ,Furniture,3021,Below 100 DM,"[1, 4) Years",2,"Male, Divorced",None,2,Real Estate,24,None,Rent,1,Unskilled Resident,1,no,yes,Male,Divorced,1
+No Account,10,existing credits paid back duly till now ,Car (New),1364,Below 100 DM,"[1, 4) Years",2,"Female, Divorced",None,4,Car,64,None,Own,1,Skilled,1,yes,yes,Female,Divorced,1
+Below 200 DM,12,existing credits paid back duly till now ,Radio/TV,625,Below 100 DM,<1 Year,4,"Male, Married/Widowed",Guarantor,1,Real Estate,26,Bank,Own,1,Unskilled Resident,1,no,yes,Male,Married/Widowed,1
+None,12,existing credits paid back duly till now ,Education,1200,None,"[1, 4) Years",4,"Female, Divorced",None,4,Life Insurance,23,Bank,Rent,1,Skilled,1,yes,yes,Female,Divorced,1
+No Account,12,existing credits paid back duly till now ,Radio/TV,707,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,2,Real Estate,30,Bank,Own,2,Skilled,1,no,yes,Male,Single,1
+No Account,24,delay in paying off in the past ,Business,2978,None,"[1, 4) Years",4,"Male, Single",None,4,Real Estate,32,None,Own,2,Skilled,2,yes,yes,Male,Single,1
+No Account,15,existing credits paid back duly till now ,Car (Used),4657,Below 100 DM,"[1, 4) Years",3,"Male, Single",None,2,Car,30,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+No Account,36,no credits taken/ all credits paid back duly ,Repairs,2613,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,2,Car,27,None,Own,2,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,48,existing credits paid back duly till now ,Radio/TV,10961,Above 1000 DM,"[4, 7) Years",1,"Male, Single",Co-Applicant,2,None,27,Bank,Own,2,Skilled,1,yes,yes,Male,Single,0
+None,12,existing credits paid back duly till now ,Furniture,7865,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,None,53,None,Free,1,Executive,1,yes,yes,Male,Single,0
+No Account,9,existing credits paid back duly till now ,Radio/TV,1478,Below 100 DM,"[4, 7) Years",4,"Male, Single",None,2,Car,22,None,Own,1,Skilled,1,no,yes,Male,Single,0
+None,24,existing credits paid back duly till now ,Furniture,3149,Below 100 DM,<1 Year,4,"Male, Single",None,1,None,22,Bank,Free,1,Skilled,1,no,yes,Male,Single,1
+Above 200 DM,36,existing credits paid back duly till now ,Radio/TV,4210,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,2,Car,26,None,Own,1,Skilled,1,no,yes,Male,Single,0
+No Account,9,existing credits paid back duly till now ,Car (New),2507,"[500, 1000) DM",Above 7 Years,2,"Male, Single",None,4,None,51,None,Free,1,Unskilled Resident,1,no,yes,Male,Single,1
+No Account,12,existing credits paid back duly till now ,Radio/TV,2141,"[100, 500) DM","[4, 7) Years",3,"Male, Single",None,1,None,35,None,Own,1,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,18,existing credits paid back duly till now ,Radio/TV,866,Below 100 DM,"[1, 4) Years",4,"Male, Married/Widowed",Guarantor,2,Real Estate,25,None,Own,1,Unskilled Resident,1,no,yes,Male,Married/Widowed,1
+No Account,4,critical account/ other credits existing (not at this bank),Radio/TV,1544,Below 100 DM,"[4, 7) Years",2,"Male, Single",None,1,Real Estate,42,None,Own,3,Unskilled Resident,2,no,yes,Male,Single,1
+None,24,existing credits paid back duly till now ,Radio/TV,1823,Below 100 DM,Unemployed,4,"Male, Single",None,2,Car,30,Stores,Own,1,Executive,2,no,yes,Male,Single,0
+Below 200 DM,6,existing credits paid back duly till now ,Car (New),14555,None,Unemployed,1,"Male, Single",None,2,Life Insurance,23,None,Own,1,"Unemployed, Unskilled",1,yes,yes,Male,Single,0
+Below 200 DM,21,existing credits paid back duly till now ,Business,2767,"[100, 500) DM",Above 7 Years,4,"Male, Divorced",None,2,Car,61,Bank,Rent,2,Unskilled Resident,1,no,yes,Male,Divorced,0
+No Account,12,critical account/ other credits existing (not at this bank),Radio/TV,1291,Below 100 DM,"[1, 4) Years",4,"Female, Divorced",None,2,Life Insurance,35,None,Own,2,Skilled,1,no,yes,Female,Divorced,1
+None,30,existing credits paid back duly till now ,Radio/TV,2522,Below 100 DM,Above 7 Years,1,"Male, Single",Guarantor,3,Life Insurance,39,None,Own,1,Skilled,2,no,yes,Male,Single,1
+None,24,existing credits paid back duly till now ,Car (New),915,None,Above 7 Years,4,"Female, Divorced",None,2,Car,29,Bank,Own,1,Skilled,1,no,yes,Female,Divorced,0
+No Account,6,existing credits paid back duly till now ,Radio/TV,1595,Below 100 DM,"[4, 7) Years",3,"Male, Single",None,2,Life Insurance,51,None,Own,1,Skilled,2,no,yes,Male,Single,1
+None,48,no credits taken/ all credits paid back duly ,Car (Used),4605,Below 100 DM,Above 7 Years,3,"Male, Single",None,4,None,24,None,Free,2,Skilled,2,no,yes,Male,Single,0
+No Account,12,critical account/ other credits existing (not at this bank),Business,1185,Below 100 DM,"[1, 4) Years",3,"Female, Divorced",None,2,Real Estate,27,None,Own,2,Skilled,1,no,yes,Female,Divorced,1
+No Account,12,all credits at this bank paid back duly ,Retraining,3447,"[500, 1000) DM","[1, 4) Years",4,"Female, Divorced",None,3,Real Estate,35,None,Own,1,Unskilled Resident,2,no,yes,Female,Divorced,1
+No Account,24,existing credits paid back duly till now ,Business,1258,Below 100 DM,"[4, 7) Years",4,"Male, Single",None,1,Real Estate,25,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+No Account,12,critical account/ other credits existing (not at this bank),Radio/TV,717,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Real Estate,52,None,Own,3,Skilled,1,no,yes,Male,Single,1
+No Account,6,no credits taken/ all credits paid back duly ,Car (New),1204,"[100, 500) DM","[1, 4) Years",4,"Male, Single",None,1,None,35,Bank,Rent,1,Skilled,1,no,no,Male,Single,1
+Above 200 DM,24,existing credits paid back duly till now ,Furniture,1925,Below 100 DM,"[1, 4) Years",2,"Male, Single",None,2,Real Estate,26,None,Own,1,Skilled,1,no,yes,Male,Single,1
+No Account,18,existing credits paid back duly till now ,Radio/TV,433,Below 100 DM,Unemployed,3,"Female, Divorced",Co-Applicant,4,Real Estate,22,None,Rent,1,Skilled,1,no,yes,Female,Divorced,0
+None,6,critical account/ other credits existing (not at this bank),Car (New),666,Above 1000 DM,"[4, 7) Years",3,"Female, Divorced",None,4,Real Estate,39,None,Own,2,Unskilled Resident,1,yes,yes,Female,Divorced,1
+Above 200 DM,12,existing credits paid back duly till now ,Furniture,2251,Below 100 DM,"[1, 4) Years",1,"Female, Divorced",None,2,Car,46,None,Own,1,Unskilled Resident,1,no,yes,Female,Divorced,1
+Below 200 DM,30,existing credits paid back duly till now ,Car (New),2150,Below 100 DM,"[1, 4) Years",4,"Female, Divorced",Guarantor,2,None,24,Bank,Own,1,Skilled,1,no,yes,Female,Divorced,0
+No Account,24,delay in paying off in the past ,Furniture,4151,"[100, 500) DM","[1, 4) Years",2,"Male, Single",None,3,Life Insurance,35,None,Own,2,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,9,existing credits paid back duly till now ,Furniture,2030,None,"[4, 7) Years",2,"Male, Single",None,1,Car,24,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+Below 200 DM,60,delay in paying off in the past ,Radio/TV,7418,None,"[1, 4) Years",1,"Male, Single",None,1,Real Estate,27,None,Own,1,Unskilled Resident,1,no,yes,Male,Single,1
+No Account,24,critical account/ other credits existing (not at this bank),Radio/TV,2684,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,2,Real Estate,35,None,Own,2,Unskilled Resident,1,no,yes,Male,Single,1
+None,12,all credits at this bank paid back duly ,Radio/TV,2149,Below 100 DM,"[1, 4) Years",4,"Male, Divorced",None,1,None,29,None,Free,1,Skilled,1,no,yes,Male,Divorced,0
+No Account,15,existing credits paid back duly till now ,Car (Used),3812,"[100, 500) DM",<1 Year,1,"Female, Divorced",None,4,Car,23,None,Own,1,Skilled,1,yes,yes,Female,Divorced,1
+No Account,11,critical account/ other credits existing (not at this bank),Radio/TV,1154,"[100, 500) DM",Unemployed,4,"Female, Divorced",None,4,Real Estate,57,None,Own,3,Unskilled Resident,1,no,yes,Female,Divorced,1
+None,12,existing credits paid back duly till now ,Furniture,1657,Below 100 DM,"[1, 4) Years",2,"Male, Single",None,2,Real Estate,27,None,Own,1,Skilled,1,no,yes,Male,Single,1
+None,24,existing credits paid back duly till now ,Radio/TV,1603,Below 100 DM,Above 7 Years,4,"Female, Divorced",None,4,Car,55,None,Own,1,Skilled,1,no,yes,Female,Divorced,1
+None,18,critical account/ other credits existing (not at this bank),Car (New),5302,Below 100 DM,Above 7 Years,2,"Male, Single",None,4,None,36,None,Free,3,Executive,1,yes,yes,Male,Single,1
+No Account,12,critical account/ other credits existing (not at this bank),Education,2748,Below 100 DM,Above 7 Years,2,"Female, Divorced",None,4,None,57,Bank,Free,3,Unskilled Resident,1,no,yes,Female,Divorced,1
+No Account,10,critical account/ other credits existing (not at this bank),Car (New),1231,Below 100 DM,Above 7 Years,3,"Male, Single",None,4,Real Estate,32,None,Own,2,Unskilled Resident,2,no,no,Male,Single,1
+Below 200 DM,15,existing credits paid back duly till now ,Radio/TV,802,Below 100 DM,Above 7 Years,4,"Male, Single",None,3,Car,37,None,Own,1,Skilled,2,no,yes,Male,Single,0
+No Account,36,critical account/ other credits existing (not at this bank),Business,6304,None,Above 7 Years,4,"Male, Single",None,4,Real Estate,36,None,Own,2,Skilled,1,no,yes,Male,Single,1
+No Account,24,existing credits paid back duly till now ,Radio/TV,1533,Below 100 DM,<1 Year,4,"Female, Divorced",None,3,Car,38,Stores,Own,1,Skilled,1,yes,yes,Female,Divorced,1
+None,14,existing credits paid back duly till now ,Car (New),8978,Below 100 DM,Above 7 Years,1,"Male, Divorced",None,4,Life Insurance,45,None,Own,1,Executive,1,yes,no,Male,Divorced,0
+No Account,24,existing credits paid back duly till now ,Radio/TV,999,None,Above 7 Years,4,"Male, Single",None,2,Car,25,None,Own,2,Skilled,1,no,yes,Male,Single,1
+No Account,18,existing credits paid back duly till now ,Car (New),2662,None,"[4, 7) Years",4,"Male, Single",None,3,Life Insurance,32,None,Own,1,Skilled,1,no,no,Male,Single,1
+No Account,12,critical account/ other credits existing (not at this bank),Furniture,1402,"[500, 1000) DM","[4, 7) Years",3,"Female, Divorced",None,4,Car,37,None,Rent,1,Skilled,1,yes,yes,Female,Divorced,1
+Below 200 DM,48,all credits at this bank paid back duly ,Car (New),12169,None,Unemployed,4,"Male, Single",Co-Applicant,4,None,36,None,Free,1,Executive,1,yes,yes,Male,Single,1
+Below 200 DM,48,existing credits paid back duly till now ,Radio/TV,3060,Below 100 DM,"[4, 7) Years",4,"Male, Single",None,4,Real Estate,28,None,Own,2,Skilled,1,no,yes,Male,Single,0
+None,30,existing credits paid back duly till now ,Repairs,11998,Below 100 DM,<1 Year,1,"Male, Divorced",None,1,None,34,None,Own,1,Unskilled Resident,1,yes,yes,Male,Divorced,0
+No Account,9,existing credits paid back duly till now ,Radio/TV,2697,Below 100 DM,"[1, 4) Years",1,"Male, Single",None,2,Real Estate,32,None,Own,1,Skilled,2,no,yes,Male,Single,1
+No Account,18,critical account/ other credits existing (not at this bank),Radio/TV,2404,Below 100 DM,"[1, 4) Years",2,"Female, Divorced",None,2,Car,26,None,Own,2,Skilled,1,no,yes,Female,Divorced,1
+None,12,existing credits paid back duly till now ,Furniture,1262,None,Above 7 Years,2,"Male, Divorced",None,4,Life Insurance,49,None,Own,1,Unskilled Resident,1,yes,yes,Male,Divorced,1
+No Account,6,existing credits paid back duly till now ,Furniture,4611,Below 100 DM,<1 Year,1,"Female, Divorced",None,4,Life Insurance,32,None,Own,1,Skilled,1,no,yes,Female,Divorced,0
+No Account,24,existing credits paid back duly till now ,Radio/TV,1901,"[100, 500) DM","[1, 4) Years",4,"Male, Single",None,4,Car,29,None,Rent,1,Executive,1,yes,yes,Male,Single,1
+No Account,15,critical account/ other credits existing (not at this bank),Car (Used),3368,Above 1000 DM,Above 7 Years,3,"Male, Single",None,4,None,23,None,Rent,2,Skilled,1,yes,yes,Male,Single,1
+No Account,12,existing credits paid back duly till now ,Furniture,1574,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,2,Real Estate,50,None,Own,1,Skilled,1,no,yes,Male,Single,1
+Above 200 DM,18,all credits at this bank paid back duly ,Radio/TV,1445,None,"[4, 7) Years",4,"Male, Single",None,4,Car,49,Bank,Own,1,Unskilled Resident,1,no,yes,Male,Single,1
+No Account,15,critical account/ other credits existing (not at this bank),Furniture,1520,None,Above 7 Years,4,"Male, Single",None,4,Life Insurance,63,None,Own,1,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,24,critical account/ other credits existing (not at this bank),Car (New),3878,"[100, 500) DM",<1 Year,4,"Male, Divorced",None,2,Car,37,None,Own,1,Skilled,1,yes,yes,Male,Divorced,1
+None,47,existing credits paid back duly till now ,Car (New),10722,Below 100 DM,<1 Year,1,"Female, Divorced",None,1,Real Estate,35,None,Own,1,Unskilled Resident,1,yes,yes,Female,Divorced,1
+None,48,existing credits paid back duly till now ,Car (Used),4788,Below 100 DM,"[4, 7) Years",4,"Male, Single",None,3,Life Insurance,26,None,Own,1,Skilled,2,no,yes,Male,Single,1
+Below 200 DM,48,delay in paying off in the past ,Others,7582,"[100, 500) DM",Unemployed,2,"Male, Single",None,4,None,31,None,Free,1,Executive,1,yes,yes,Male,Single,1
+Below 200 DM,12,existing credits paid back duly till now ,Radio/TV,1092,Below 100 DM,"[1, 4) Years",4,"Female, Divorced",Guarantor,4,Real Estate,49,None,Own,2,Skilled,1,yes,yes,Female,Divorced,1
+None,24,delay in paying off in the past ,Radio/TV,1024,Below 100 DM,<1 Year,4,"Male, Married/Widowed",None,4,Real Estate,48,Stores,Own,1,Skilled,1,no,yes,Male,Married/Widowed,0
+No Account,12,existing credits paid back duly till now ,Business,1076,Below 100 DM,"[1, 4) Years",2,"Male, Married/Widowed",None,2,Real Estate,26,None,Own,1,Skilled,1,yes,no,Male,Married/Widowed,1
+Below 200 DM,36,existing credits paid back duly till now ,Car (Used),9398,Below 100 DM,<1 Year,1,"Male, Married/Widowed",None,4,Car,28,None,Rent,1,Executive,1,yes,yes,Male,Married/Widowed,0
+None,24,critical account/ other credits existing (not at this bank),Car (Used),6419,Below 100 DM,Above 7 Years,2,"Female, Divorced",None,4,None,44,None,Free,2,Executive,2,yes,yes,Female,Divorced,1
+Above 200 DM,42,critical account/ other credits existing (not at this bank),Car (Used),4796,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,None,56,None,Free,1,Skilled,1,no,yes,Male,Single,1
+No Account,48,critical account/ other credits existing (not at this bank),Business,7629,None,Above 7 Years,4,"Male, Divorced",None,2,Car,46,Bank,Own,2,Executive,2,no,yes,Male,Divorced,1
+Below 200 DM,48,existing credits paid back duly till now ,Furniture,9960,Below 100 DM,<1 Year,1,"Female, Divorced",None,2,Car,26,None,Own,1,Skilled,1,yes,yes,Female,Divorced,0
+No Account,12,existing credits paid back duly till now ,Car (Used),4675,None,<1 Year,1,"Female, Divorced",None,4,Car,20,None,Rent,1,Skilled,1,no,yes,Female,Divorced,1
+No Account,10,existing credits paid back duly till now ,Car (New),1287,None,Above 7 Years,4,"Male, Single",Co-Applicant,2,Life Insurance,45,None,Own,1,Unskilled Resident,1,no,no,Male,Single,1
+No Account,18,existing credits paid back duly till now ,Furniture,2515,Below 100 DM,"[1, 4) Years",3,"Male, Single",None,4,Real Estate,43,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+Below 200 DM,21,critical account/ other credits existing (not at this bank),Furniture,2745,Above 1000 DM,"[4, 7) Years",3,"Male, Single",None,2,Car,32,None,Own,2,Skilled,1,yes,yes,Male,Single,1
+No Account,6,existing credits paid back duly till now ,Car (New),672,Below 100 DM,Unemployed,1,"Female, Divorced",None,4,Real Estate,54,None,Own,1,"Unemployed, Unskilled",1,yes,yes,Female,Divorced,1
+Below 200 DM,36,no credits taken/ all credits paid back duly ,Radio/TV,3804,Below 100 DM,"[1, 4) Years",4,"Female, Divorced",None,1,Car,42,None,Own,1,Skilled,1,yes,yes,Female,Divorced,0
+Above 200 DM,24,critical account/ other credits existing (not at this bank),Car (New),1344,None,"[4, 7) Years",4,"Male, Single",None,2,Real Estate,37,Bank,Own,2,Unskilled Resident,2,no,yes,Male,Single,0
+None,10,critical account/ other credits existing (not at this bank),Car (New),1038,Below 100 DM,"[4, 7) Years",4,"Male, Single",Co-Applicant,3,Life Insurance,49,None,Own,2,Skilled,1,yes,yes,Male,Single,1
+No Account,48,critical account/ other credits existing (not at this bank),Car (New),10127,"[500, 1000) DM","[1, 4) Years",2,"Male, Single",None,2,None,44,Bank,Free,1,Skilled,1,no,yes,Male,Single,0
+No Account,6,existing credits paid back duly till now ,Furniture,1543,Above 1000 DM,"[1, 4) Years",4,"Male, Divorced",None,2,Real Estate,33,None,Own,1,Skilled,1,no,yes,Male,Divorced,1
+No Account,30,existing credits paid back duly till now ,Car (Used),4811,None,"[4, 7) Years",2,"Female, Divorced",None,4,Life Insurance,24,Stores,Rent,1,Unskilled Resident,1,no,yes,Female,Divorced,1
+None,12,existing credits paid back duly till now ,Radio/TV,727,"[100, 500) DM",<1 Year,4,"Male, Married/Widowed",None,3,None,33,None,Own,1,Unskilled Resident,1,yes,yes,Male,Married/Widowed,0
+Below 200 DM,8,existing credits paid back duly till now ,Furniture,1237,Below 100 DM,"[1, 4) Years",3,"Female, Divorced",None,4,Real Estate,24,None,Own,1,Skilled,1,no,yes,Female,Divorced,0
+Below 200 DM,9,existing credits paid back duly till now ,Car (New),276,Below 100 DM,"[1, 4) Years",4,"Male, Married/Widowed",None,4,Real Estate,22,None,Rent,1,Unskilled Resident,1,no,yes,Male,Married/Widowed,1
+Below 200 DM,48,existing credits paid back duly till now ,Others,5381,None,Unemployed,3,"Male, Single",None,4,None,40,Bank,Free,1,"Unemployed, Unskilled",1,yes,yes,Male,Single,1
+No Account,24,existing credits paid back duly till now ,Furniture,5511,"[100, 500) DM","[1, 4) Years",4,"Male, Single",None,1,Car,25,Stores,Own,1,Skilled,1,no,yes,Male,Single,1
+Above 200 DM,24,existing credits paid back duly till now ,Furniture,3749,Below 100 DM,<1 Year,2,"Female, Divorced",None,4,Car,26,None,Own,1,Skilled,1,no,yes,Female,Divorced,1
+Below 200 DM,12,existing credits paid back duly till now ,Car (New),685,Below 100 DM,"[4, 7) Years",2,"Male, Married/Widowed",None,3,Car,25,Bank,Own,1,Unskilled Resident,1,no,yes,Male,Married/Widowed,0
+Above 200 DM,4,existing credits paid back duly till now ,Car (New),1494,None,<1 Year,1,"Male, Single",None,2,Real Estate,29,None,Own,1,Unskilled Resident,2,no,no,Male,Single,1
+None,36,all credits at this bank paid back duly ,Furniture,2746,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Car,31,Bank,Own,1,Skilled,1,no,yes,Male,Single,0
+None,12,existing credits paid back duly till now ,Furniture,708,Below 100 DM,"[1, 4) Years",2,"Male, Single",Guarantor,3,Life Insurance,38,None,Own,1,Unskilled Resident,2,no,yes,Male,Single,1
+Below 200 DM,24,existing credits paid back duly till now ,Furniture,4351,None,"[1, 4) Years",1,"Female, Divorced",None,4,Life Insurance,48,None,Own,1,Unskilled Resident,1,yes,yes,Female,Divorced,1
+No Account,12,critical account/ other credits existing (not at this bank),Education,701,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,2,Car,32,None,Own,2,Skilled,1,no,yes,Male,Single,1
+None,15,delay in paying off in the past ,Furniture,3643,Below 100 DM,Above 7 Years,1,"Female, Divorced",None,4,Life Insurance,27,None,Own,2,Unskilled Resident,1,no,yes,Female,Divorced,1
+Below 200 DM,30,critical account/ other credits existing (not at this bank),Car (New),4249,Below 100 DM,Unemployed,4,"Male, Married/Widowed",None,2,Car,28,None,Own,2,Executive,1,no,yes,Male,Married/Widowed,0
+None,24,existing credits paid back duly till now ,Radio/TV,1938,Below 100 DM,<1 Year,4,"Male, Divorced",None,3,Life Insurance,32,None,Own,1,Skilled,1,no,yes,Male,Divorced,0
+None,24,existing credits paid back duly till now ,Car (Used),2910,Below 100 DM,"[4, 7) Years",2,"Male, Single",None,1,None,34,None,Free,1,Executive,1,yes,yes,Male,Single,1
+None,18,existing credits paid back duly till now ,Furniture,2659,Above 1000 DM,"[1, 4) Years",4,"Male, Single",None,2,Car,28,None,Own,1,Skilled,1,no,yes,Male,Single,1
+No Account,18,critical account/ other credits existing (not at this bank),Car (New),1028,Below 100 DM,"[1, 4) Years",4,"Female, Divorced",None,3,Real Estate,36,None,Own,2,Skilled,1,no,yes,Female,Divorced,1
+None,8,critical account/ other credits existing (not at this bank),Car (New),3398,Below 100 DM,"[4, 7) Years",1,"Male, Single",None,4,Real Estate,39,None,Own,2,Unskilled Resident,1,no,no,Male,Single,1
+No Account,12,critical account/ other credits existing (not at this bank),Furniture,5801,None,Above 7 Years,2,"Male, Single",None,4,Life Insurance,49,None,Rent,1,Skilled,1,yes,yes,Male,Single,1
+No Account,24,existing credits paid back duly till now ,Car (New),1525,Above 1000 DM,"[4, 7) Years",4,"Female, Divorced",None,3,Car,34,None,Own,1,Skilled,2,yes,yes,Female,Divorced,1
+Above 200 DM,36,existing credits paid back duly till now ,Radio/TV,4473,Below 100 DM,Above 7 Years,4,"Male, Single",None,2,Car,31,None,Own,1,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,6,existing credits paid back duly till now ,Radio/TV,1068,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Car,28,None,Own,1,Skilled,2,no,yes,Male,Single,1
+None,24,critical account/ other credits existing (not at this bank),Car (Used),6615,Below 100 DM,Unemployed,2,"Male, Single",None,4,None,75,None,Free,2,Executive,1,yes,yes,Male,Single,1
+No Account,18,critical account/ other credits existing (not at this bank),Education,1864,"[100, 500) DM","[1, 4) Years",4,"Female, Divorced",None,2,Real Estate,30,None,Own,2,Skilled,1,no,yes,Female,Divorced,0
+Below 200 DM,60,existing credits paid back duly till now ,Car (New),7408,"[100, 500) DM",<1 Year,4,"Female, Divorced",None,2,Life Insurance,24,None,Own,1,Executive,1,no,yes,Female,Divorced,0
+No Account,48,critical account/ other credits existing (not at this bank),Car (Used),11590,"[100, 500) DM","[1, 4) Years",2,"Female, Divorced",None,4,Car,24,Bank,Rent,2,Unskilled Resident,1,no,yes,Female,Divorced,0
+None,24,no credits taken/ all credits paid back duly ,Furniture,4110,Below 100 DM,Above 7 Years,3,"Male, Single",None,4,None,23,Bank,Rent,2,Skilled,2,no,yes,Male,Single,0
+None,6,critical account/ other credits existing (not at this bank),Furniture,3384,Below 100 DM,"[1, 4) Years",1,"Male, Divorced",None,4,Real Estate,44,None,Rent,1,Executive,1,yes,yes,Male,Divorced,0
+Below 200 DM,13,existing credits paid back duly till now ,Radio/TV,2101,Below 100 DM,<1 Year,2,"Female, Divorced",Guarantor,4,Life Insurance,23,None,Own,1,Unskilled Resident,1,no,yes,Female,Divorced,1
+None,15,existing credits paid back duly till now ,Appliances,1275,None,"[1, 4) Years",4,"Female, Divorced",None,2,Car,24,None,Rent,1,Skilled,1,no,yes,Female,Divorced,0
+None,24,existing credits paid back duly till now ,Furniture,4169,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,4,Life Insurance,28,None,Own,1,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,10,existing credits paid back duly till now ,Furniture,1521,Below 100 DM,"[1, 4) Years",4,"Male, Divorced",None,2,Car,31,None,Own,1,Unskilled Resident,1,no,yes,Male,Divorced,1
+Below 200 DM,24,critical account/ other credits existing (not at this bank),Education,5743,Below 100 DM,<1 Year,2,"Female, Divorced",None,4,None,24,None,Free,2,Skilled,1,yes,yes,Female,Divorced,1
+None,21,existing credits paid back duly till now ,Furniture,3599,Below 100 DM,"[4, 7) Years",1,"Female, Divorced",None,4,Car,26,None,Rent,1,Unskilled Resident,1,no,yes,Female,Divorced,1
+Below 200 DM,18,existing credits paid back duly till now ,Radio/TV,3213,"[500, 1000) DM",<1 Year,1,"Male, Married/Widowed",None,3,Real Estate,25,None,Rent,1,Skilled,1,no,yes,Male,Married/Widowed,1
+Below 200 DM,18,existing credits paid back duly till now ,Business,4439,Below 100 DM,Above 7 Years,1,"Male, Single",Co-Applicant,1,Real Estate,33,Bank,Own,1,Executive,1,yes,yes,Male,Single,1
+Above 200 DM,10,existing credits paid back duly till now ,Car (New),3949,Below 100 DM,<1 Year,1,"Male, Single",Guarantor,1,Life Insurance,37,None,Own,1,Unskilled Resident,2,no,yes,Male,Single,1
+No Account,15,critical account/ other credits existing (not at this bank),Radio/TV,1459,Below 100 DM,"[1, 4) Years",4,"Female, Divorced",None,2,Car,43,None,Own,1,Unskilled Resident,1,no,yes,Female,Divorced,1
+Below 200 DM,13,critical account/ other credits existing (not at this bank),Radio/TV,882,Below 100 DM,<1 Year,4,"Male, Single",Guarantor,4,Real Estate,23,None,Own,2,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,24,existing credits paid back duly till now ,Radio/TV,3758,"[500, 1000) DM",Unemployed,1,"Female, Divorced",None,4,None,23,None,Rent,1,"Unemployed, Unskilled",1,no,yes,Female,Divorced,1
+No Account,6,delay in paying off in the past ,Business,1743,"[100, 500) DM","[1, 4) Years",1,"Male, Single",None,2,Real Estate,34,None,Own,2,Unskilled Resident,1,no,yes,Male,Single,1
+Below 200 DM,9,critical account/ other credits existing (not at this bank),Education,1136,Above 1000 DM,Above 7 Years,4,"Male, Single",None,3,None,32,None,Free,2,Skilled,2,no,yes,Male,Single,0
+No Account,9,existing credits paid back duly till now ,Appliances,1236,Below 100 DM,<1 Year,1,"Female, Divorced",None,4,Real Estate,23,None,Rent,1,Skilled,1,yes,yes,Female,Divorced,1
+Below 200 DM,9,existing credits paid back duly till now ,Furniture,959,Below 100 DM,"[1, 4) Years",1,"Female, Divorced",None,2,Car,29,None,Own,1,Skilled,1,no,no,Female,Divorced,0
+No Account,18,critical account/ other credits existing (not at this bank),Car (Used),3229,None,Unemployed,2,"Male, Single",None,4,None,38,None,Own,1,Executive,1,yes,yes,Male,Single,1
+None,12,no credits taken/ all credits paid back duly ,Radio/TV,6199,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,2,Life Insurance,28,None,Rent,2,Skilled,1,yes,yes,Male,Single,0
+No Account,10,existing credits paid back duly till now ,Education,727,"[500, 1000) DM",Above 7 Years,4,"Male, Single",None,4,None,46,None,Free,1,Skilled,1,yes,yes,Male,Single,1
+Below 200 DM,24,existing credits paid back duly till now ,Car (New),1246,Below 100 DM,<1 Year,4,"Male, Single",None,2,Real Estate,23,Stores,Own,1,Unskilled Resident,1,no,yes,Male,Single,0
+No Account,12,critical account/ other credits existing (not at this bank),Radio/TV,2331,None,Above 7 Years,1,"Male, Single",Co-Applicant,4,Real Estate,49,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+No Account,36,delay in paying off in the past ,Radio/TV,4463,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,2,Car,26,None,Own,2,Executive,1,yes,yes,Male,Single,0
+No Account,12,existing credits paid back duly till now ,Radio/TV,776,Below 100 DM,"[1, 4) Years",4,"Male, Married/Widowed",None,2,Real Estate,28,None,Own,1,Skilled,1,no,yes,Male,Married/Widowed,1
+None,30,existing credits paid back duly till now ,Furniture,2406,Below 100 DM,"[4, 7) Years",4,"Female, Divorced",None,4,Real Estate,23,None,Rent,1,Skilled,1,no,yes,Female,Divorced,0
+Below 200 DM,18,existing credits paid back duly till now ,Education,1239,None,"[1, 4) Years",4,"Male, Single",None,4,None,61,None,Free,1,Skilled,1,no,yes,Male,Single,1
+Above 200 DM,12,existing credits paid back duly till now ,Radio/TV,3399,None,Above 7 Years,2,"Male, Single",None,3,Car,37,None,Own,1,Executive,1,no,yes,Male,Single,1
+Above 200 DM,12,delay in paying off in the past ,Car (New),2247,Below 100 DM,"[1, 4) Years",2,"Female, Divorced",None,2,Car,36,Stores,Own,2,Skilled,1,yes,yes,Female,Divorced,1
+No Account,6,existing credits paid back duly till now ,Furniture,1766,Below 100 DM,"[1, 4) Years",1,"Male, Married/Widowed",None,2,Life Insurance,21,None,Rent,1,Skilled,1,no,yes,Male,Married/Widowed,1
+None,18,existing credits paid back duly till now ,Furniture,2473,Below 100 DM,Unemployed,4,"Male, Single",None,1,Car,25,None,Own,1,"Unemployed, Unskilled",1,no,yes,Male,Single,0
+No Account,12,existing credits paid back duly till now ,Business,1542,Below 100 DM,"[4, 7) Years",2,"Male, Single",None,4,Car,36,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+No Account,18,critical account/ other credits existing (not at this bank),Car (Used),3850,Below 100 DM,"[4, 7) Years",3,"Male, Single",None,1,Car,27,None,Own,2,Skilled,1,no,yes,Male,Single,1
+None,18,existing credits paid back duly till now ,Furniture,3650,Below 100 DM,<1 Year,1,"Female, Divorced",None,4,Car,22,None,Rent,1,Skilled,1,no,yes,Female,Divorced,1
+None,36,existing credits paid back duly till now ,Furniture,3446,Below 100 DM,Above 7 Years,4,"Male, Single",None,2,Car,42,None,Own,1,Skilled,2,no,yes,Male,Single,0
+Below 200 DM,18,existing credits paid back duly till now ,Furniture,3001,Below 100 DM,"[4, 7) Years",2,"Female, Divorced",None,4,Real Estate,40,None,Rent,1,Skilled,1,no,yes,Female,Divorced,1
+No Account,36,existing credits paid back duly till now ,Car (New),3079,None,"[1, 4) Years",4,"Male, Single",None,4,Real Estate,36,None,Own,1,Skilled,1,no,yes,Male,Single,1
+No Account,18,critical account/ other credits existing (not at this bank),Radio/TV,6070,Below 100 DM,Above 7 Years,3,"Male, Single",None,4,Car,33,None,Own,2,Skilled,1,yes,yes,Male,Single,1
+No Account,10,critical account/ other credits existing (not at this bank),Furniture,2146,Below 100 DM,<1 Year,1,"Female, Divorced",None,3,Real Estate,23,None,Rent,2,Skilled,1,no,yes,Female,Divorced,1
+No Account,60,critical account/ other credits existing (not at this bank),Car (New),13756,None,Above 7 Years,2,"Male, Single",None,4,None,63,Bank,Free,1,Executive,1,yes,yes,Male,Single,1
+Below 200 DM,60,all credits at this bank paid back duly ,Others,14782,"[100, 500) DM",Above 7 Years,3,"Female, Divorced",None,4,None,60,Bank,Free,2,Executive,1,yes,yes,Female,Divorced,0
+None,48,all credits at this bank paid back duly ,Business,7685,Below 100 DM,"[4, 7) Years",2,"Female, Divorced",Guarantor,4,Car,37,None,Rent,1,Skilled,1,no,yes,Female,Divorced,0
+No Account,18,delay in paying off in the past ,Radio/TV,2320,Below 100 DM,Unemployed,2,"Male, Married/Widowed",None,3,Real Estate,34,None,Own,2,Skilled,1,no,yes,Male,Married/Widowed,1
+No Account,7,delay in paying off in the past ,Radio/TV,846,None,Above 7 Years,3,"Male, Single",None,4,None,36,None,Free,1,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,36,existing credits paid back duly till now ,Car (New),14318,Below 100 DM,Above 7 Years,4,"Male, Single",None,2,None,57,None,Free,1,Executive,1,yes,yes,Male,Single,0
+No Account,6,critical account/ other credits existing (not at this bank),Car (New),362,"[100, 500) DM","[1, 4) Years",4,"Female, Divorced",None,4,Car,52,None,Own,2,Unskilled Resident,1,no,yes,Female,Divorced,1
+None,20,existing credits paid back duly till now ,Furniture,2212,None,"[4, 7) Years",4,"Male, Single",None,4,Car,39,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+Below 200 DM,18,existing credits paid back duly till now ,Car (Used),12976,Below 100 DM,Unemployed,3,"Female, Divorced",None,4,None,38,None,Free,1,Executive,1,yes,yes,Female,Divorced,0
+No Account,22,existing credits paid back duly till now ,Car (New),1283,None,"[4, 7) Years",4,"Female, Divorced",None,4,Life Insurance,25,None,Rent,1,Skilled,1,no,yes,Female,Divorced,1
+Above 200 DM,12,existing credits paid back duly till now ,Car (New),1330,Below 100 DM,<1 Year,4,"Male, Single",None,1,Real Estate,26,None,Own,1,Skilled,1,no,yes,Male,Single,1
+No Account,30,delay in paying off in the past ,Business,4272,"[100, 500) DM","[1, 4) Years",2,"Male, Single",None,2,Life Insurance,26,None,Own,2,Unskilled Resident,1,no,yes,Male,Single,1
+No Account,18,critical account/ other credits existing (not at this bank),Radio/TV,2238,Below 100 DM,"[1, 4) Years",2,"Female, Divorced",None,1,Car,25,None,Own,2,Skilled,1,no,yes,Female,Divorced,1
+No Account,18,existing credits paid back duly till now ,Radio/TV,1126,None,<1 Year,4,"Female, Divorced",None,2,Real Estate,21,None,Rent,1,Skilled,1,yes,yes,Female,Divorced,1
+Below 200 DM,18,critical account/ other credits existing (not at this bank),Furniture,7374,Below 100 DM,Unemployed,4,"Male, Single",None,4,Life Insurance,40,Stores,Own,2,Executive,1,yes,yes,Male,Single,1
+Below 200 DM,15,critical account/ other credits existing (not at this bank),Business,2326,"[500, 1000) DM","[1, 4) Years",2,"Male, Single",None,4,Car,27,Bank,Own,1,Skilled,1,no,yes,Male,Single,1
+No Account,9,existing credits paid back duly till now ,Business,1449,Below 100 DM,"[4, 7) Years",3,"Female, Divorced",None,2,Car,27,None,Own,2,Skilled,1,no,yes,Female,Divorced,1
+No Account,18,existing credits paid back duly till now ,Car (New),1820,Below 100 DM,"[1, 4) Years",2,"Male, Married/Widowed",None,2,Life Insurance,30,None,Own,1,Executive,1,yes,yes,Male,Married/Widowed,1
+Below 200 DM,12,existing credits paid back duly till now ,Furniture,983,Above 1000 DM,<1 Year,1,"Female, Divorced",None,4,Real Estate,19,None,Rent,1,Unskilled Resident,1,no,yes,Female,Divorced,1
+None,36,existing credits paid back duly till now ,Car (New),3249,Below 100 DM,"[4, 7) Years",2,"Male, Single",None,4,None,39,Bank,Free,1,Executive,2,yes,yes,Male,Single,1
+None,6,critical account/ other credits existing (not at this bank),Radio/TV,1957,Below 100 DM,"[4, 7) Years",1,"Female, Divorced",None,4,Car,31,None,Own,1,Skilled,1,no,yes,Female,Divorced,1
+No Account,9,critical account/ other credits existing (not at this bank),Furniture,2406,Below 100 DM,Unemployed,2,"Male, Single",None,3,Car,31,None,Own,1,Executive,1,no,yes,Male,Single,1
+Below 200 DM,39,delay in paying off in the past ,Education,11760,"[100, 500) DM","[4, 7) Years",2,"Male, Single",None,3,None,32,None,Rent,1,Skilled,1,yes,yes,Male,Single,1
+None,12,existing credits paid back duly till now ,Furniture,2578,Below 100 DM,Unemployed,3,"Female, Divorced",None,4,None,55,None,Free,1,Executive,1,no,yes,Female,Divorced,1
+None,36,critical account/ other credits existing (not at this bank),Furniture,2348,Below 100 DM,"[1, 4) Years",3,"Male, Married/Widowed",None,2,Life Insurance,46,None,Own,2,Skilled,1,yes,yes,Male,Married/Widowed,1
+Below 200 DM,12,existing credits paid back duly till now ,Car (New),1223,Below 100 DM,Above 7 Years,1,"Male, Divorced",None,1,Real Estate,46,None,Rent,2,Skilled,1,no,yes,Male,Divorced,0
+No Account,24,critical account/ other credits existing (not at this bank),Radio/TV,1516,Above 1000 DM,"[1, 4) Years",4,"Female, Divorced",None,1,Real Estate,43,None,Own,2,Unskilled Resident,1,no,yes,Female,Divorced,1
+No Account,18,existing credits paid back duly till now ,Radio/TV,1473,Below 100 DM,<1 Year,3,"Male, Married/Widowed",None,4,Real Estate,39,None,Own,1,Skilled,1,yes,yes,Male,Married/Widowed,1
+Below 200 DM,18,critical account/ other credits existing (not at this bank),Business,1887,None,"[1, 4) Years",4,"Male, Married/Widowed",None,4,Real Estate,28,Bank,Own,2,Skilled,1,no,yes,Male,Married/Widowed,1
+No Account,24,delay in paying off in the past ,Business,8648,Below 100 DM,<1 Year,2,"Male, Single",None,2,Car,27,Bank,Own,2,Skilled,1,yes,yes,Male,Single,0
+No Account,14,delay in paying off in the past ,Car (New),802,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,2,Car,27,None,Own,2,Unskilled Resident,1,no,yes,Male,Single,1
+Below 200 DM,18,delay in paying off in the past ,Car (New),2899,None,Above 7 Years,4,"Male, Single",None,4,Car,43,None,Own,1,Skilled,2,no,yes,Male,Single,1
+Below 200 DM,24,existing credits paid back duly till now ,Radio/TV,2039,Below 100 DM,<1 Year,1,"Male, Married/Widowed",None,1,Life Insurance,22,None,Own,1,Skilled,1,yes,yes,Male,Married/Widowed,0
+No Account,24,critical account/ other credits existing (not at this bank),Car (Used),2197,None,"[4, 7) Years",4,"Male, Single",None,4,Car,43,None,Own,2,Skilled,2,yes,yes,Male,Single,1
+None,15,existing credits paid back duly till now ,Radio/TV,1053,Below 100 DM,<1 Year,4,"Male, Married/Widowed",None,2,Real Estate,27,None,Own,1,Skilled,1,no,no,Male,Married/Widowed,1
+No Account,24,existing credits paid back duly till now ,Radio/TV,3235,"[500, 1000) DM",Above 7 Years,3,"Male, Divorced",None,2,Car,26,None,Own,1,Executive,1,yes,yes,Male,Divorced,1
+Above 200 DM,12,critical account/ other credits existing (not at this bank),Car (New),939,"[500, 1000) DM","[4, 7) Years",4,"Male, Married/Widowed",None,2,Real Estate,28,None,Own,3,Skilled,1,yes,yes,Male,Married/Widowed,0
+Below 200 DM,24,existing credits paid back duly till now ,Radio/TV,1967,Below 100 DM,Above 7 Years,4,"Female, Divorced",None,4,Car,20,None,Own,1,Skilled,1,yes,yes,Female,Divorced,1
+No Account,33,critical account/ other credits existing (not at this bank),Car (Used),7253,Below 100 DM,"[4, 7) Years",3,"Male, Single",None,2,Car,35,None,Own,2,Executive,1,yes,yes,Male,Single,1
+No Account,12,critical account/ other credits existing (not at this bank),Business,2292,Below 100 DM,Unemployed,4,"Male, Single",None,2,Car,42,Stores,Own,2,Executive,1,yes,yes,Male,Single,0
+No Account,10,existing credits paid back duly till now ,Car (New),1597,"[500, 1000) DM","[1, 4) Years",3,"Male, Single",None,2,None,40,None,Rent,1,Unskilled Resident,2,no,no,Male,Single,1
+None,24,existing credits paid back duly till now ,Car (New),1381,None,"[1, 4) Years",4,"Female, Divorced",None,2,Life Insurance,35,None,Own,1,Skilled,1,no,yes,Female,Divorced,0
+No Account,36,critical account/ other credits existing (not at this bank),Car (Used),5842,Below 100 DM,Above 7 Years,2,"Male, Single",None,2,Life Insurance,35,None,Own,2,Skilled,2,yes,yes,Male,Single,1
+None,12,existing credits paid back duly till now ,Car (New),2579,Below 100 DM,<1 Year,4,"Male, Single",None,1,Real Estate,33,None,Own,1,Unskilled Resident,2,no,yes,Male,Single,0
+None,18,delay in paying off in the past ,Education,8471,None,"[1, 4) Years",1,"Female, Divorced",None,2,Car,23,None,Rent,2,Skilled,1,yes,yes,Female,Divorced,1
+No Account,21,existing credits paid back duly till now ,Car (New),2782,"[500, 1000) DM","[4, 7) Years",1,"Female, Divorced",None,2,Car,31,Bank,Own,1,Executive,1,no,yes,Female,Divorced,1
+Below 200 DM,18,existing credits paid back duly till now ,Car (New),1042,None,"[1, 4) Years",4,"Female, Divorced",None,2,Life Insurance,33,None,Own,1,Skilled,1,no,yes,Female,Divorced,0
+No Account,15,existing credits paid back duly till now ,Car (New),3186,Above 1000 DM,"[4, 7) Years",2,"Female, Divorced",None,3,Car,20,None,Rent,1,Skilled,1,no,yes,Female,Divorced,1
+Below 200 DM,12,existing credits paid back duly till now ,Car (Used),2028,None,"[1, 4) Years",4,"Male, Single",None,2,Car,30,None,Own,1,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,12,critical account/ other credits existing (not at this bank),Car (New),958,Below 100 DM,"[4, 7) Years",2,"Male, Single",None,3,Real Estate,47,None,Own,2,Unskilled Resident,2,no,yes,Male,Single,1
+No Account,21,delay in paying off in the past ,Furniture,1591,"[100, 500) DM","[4, 7) Years",4,"Male, Single",None,3,Real Estate,34,None,Own,2,Executive,1,no,yes,Male,Single,1
+Below 200 DM,12,existing credits paid back duly till now ,Furniture,2762,None,Above 7 Years,1,"Female, Divorced",None,2,Life Insurance,25,Bank,Own,1,Skilled,1,yes,yes,Female,Divorced,0
+Below 200 DM,18,existing credits paid back duly till now ,Car (Used),2779,Below 100 DM,"[1, 4) Years",1,"Male, Married/Widowed",None,3,Car,21,None,Rent,1,Skilled,1,yes,yes,Male,Married/Widowed,1
+No Account,28,critical account/ other credits existing (not at this bank),Radio/TV,2743,Below 100 DM,Above 7 Years,4,"Male, Single",None,2,Car,29,None,Own,2,Skilled,1,no,yes,Male,Single,1
+No Account,18,critical account/ other credits existing (not at this bank),Radio/TV,1149,Above 1000 DM,"[1, 4) Years",4,"Male, Single",None,3,Real Estate,46,None,Own,2,Skilled,1,no,yes,Male,Single,1
+No Account,9,existing credits paid back duly till now ,Furniture,1313,Below 100 DM,Above 7 Years,1,"Male, Single",None,4,Car,20,None,Own,1,Skilled,1,no,yes,Male,Single,1
+None,18,critical account/ other credits existing (not at this bank),Repairs,1190,Below 100 DM,Unemployed,2,"Female, Divorced",None,4,None,55,None,Free,3,"Unemployed, Unskilled",2,no,yes,Female,Divorced,0
+No Account,5,existing credits paid back duly till now ,Business,3448,Below 100 DM,"[4, 7) Years",1,"Male, Single",None,4,Real Estate,74,None,Own,1,Unskilled Resident,1,no,yes,Male,Single,1
+Below 200 DM,24,existing credits paid back duly till now ,Others,11328,Below 100 DM,"[1, 4) Years",2,"Male, Single",Co-Applicant,3,Car,29,Bank,Own,2,Executive,1,yes,yes,Male,Single,0
+None,6,critical account/ other credits existing (not at this bank),Furniture,1872,Below 100 DM,Unemployed,4,"Male, Single",None,4,None,36,None,Free,3,Executive,1,yes,yes,Male,Single,1
+No Account,24,critical account/ other credits existing (not at this bank),Repairs,2058,Below 100 DM,"[1, 4) Years",4,"Male, Divorced",None,2,Real Estate,33,None,Own,2,Skilled,1,yes,yes,Male,Divorced,1
+None,9,existing credits paid back duly till now ,Furniture,2136,Below 100 DM,"[1, 4) Years",3,"Male, Single",None,2,Real Estate,25,None,Own,1,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,12,existing credits paid back duly till now ,Radio/TV,1484,None,"[1, 4) Years",2,"Male, Married/Widowed",None,1,Real Estate,25,None,Own,1,Skilled,1,yes,yes,Male,Married/Widowed,0
+No Account,6,existing credits paid back duly till now ,Repairs,660,"[500, 1000) DM","[4, 7) Years",2,"Male, Married/Widowed",None,4,Real Estate,23,None,Rent,1,Unskilled Resident,1,no,yes,Male,Married/Widowed,1
+No Account,24,critical account/ other credits existing (not at this bank),Car (New),1287,Above 1000 DM,Above 7 Years,4,"Female, Divorced",None,4,Real Estate,37,None,Own,2,Skilled,1,yes,yes,Female,Divorced,1
+None,42,critical account/ other credits existing (not at this bank),Repairs,3394,Below 100 DM,Unemployed,4,"Male, Single",Co-Applicant,4,Car,65,None,Own,2,"Unemployed, Unskilled",1,no,yes,Male,Single,1
+Above 200 DM,12,all credits at this bank paid back duly ,Business,609,Below 100 DM,<1 Year,4,"Female, Divorced",None,1,Real Estate,26,None,Own,1,"Unemployed, Unskilled",1,no,yes,Female,Divorced,0
+No Account,12,existing credits paid back duly till now ,Car (New),1884,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Car,39,None,Own,1,Executive,1,yes,yes,Male,Single,1
+None,12,existing credits paid back duly till now ,Furniture,1620,Below 100 DM,"[1, 4) Years",2,"Female, Divorced",Co-Applicant,3,Life Insurance,30,None,Own,1,Skilled,1,no,yes,Female,Divorced,1
+Below 200 DM,20,delay in paying off in the past ,Others,2629,Below 100 DM,"[1, 4) Years",2,"Male, Single",None,3,Car,29,Bank,Own,2,Skilled,1,yes,yes,Male,Single,1
+No Account,12,existing credits paid back duly till now ,Education,719,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Car,41,Bank,Own,1,Unskilled Resident,2,no,yes,Male,Single,0
+Below 200 DM,48,critical account/ other credits existing (not at this bank),Furniture,5096,Below 100 DM,"[1, 4) Years",2,"Female, Divorced",None,3,Car,30,None,Own,1,Executive,1,yes,yes,Female,Divorced,0
+No Account,9,critical account/ other credits existing (not at this bank),Education,1244,None,Above 7 Years,4,"Female, Divorced",None,4,Life Insurance,41,None,Rent,2,Unskilled Resident,1,no,yes,Female,Divorced,1
+None,36,existing credits paid back duly till now ,Car (New),1842,Below 100 DM,<1 Year,4,"Female, Divorced",None,4,Car,34,None,Own,1,Skilled,1,yes,yes,Female,Divorced,0
+Below 200 DM,7,existing credits paid back duly till now ,Radio/TV,2576,Below 100 DM,"[1, 4) Years",2,"Male, Single",Guarantor,2,Real Estate,35,None,Own,1,Skilled,1,no,yes,Male,Single,1
+Above 200 DM,12,existing credits paid back duly till now ,Furniture,1424,None,Above 7 Years,3,"Female, Divorced",None,4,Real Estate,55,None,Own,1,Executive,1,yes,yes,Female,Divorced,1
+Below 200 DM,15,delay in paying off in the past ,Repairs,1512,Above 1000 DM,"[1, 4) Years",3,"Male, Married/Widowed",None,3,Life Insurance,61,Stores,Own,2,Skilled,1,no,yes,Male,Married/Widowed,0
+No Account,36,critical account/ other credits existing (not at this bank),Car (Used),11054,None,"[1, 4) Years",4,"Male, Single",None,2,Car,30,None,Own,1,Executive,1,yes,yes,Male,Single,1
+No Account,6,existing credits paid back duly till now ,Radio/TV,518,Below 100 DM,"[1, 4) Years",3,"Female, Divorced",None,1,Real Estate,29,None,Own,1,Skilled,1,no,yes,Female,Divorced,1
+No Account,12,no credits taken/ all credits paid back duly ,Furniture,2759,Below 100 DM,Above 7 Years,2,"Male, Single",None,4,Life Insurance,34,None,Own,2,Skilled,1,no,yes,Male,Single,1
+No Account,24,existing credits paid back duly till now ,Car (Used),2670,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Car,35,None,Own,1,Executive,1,yes,yes,Male,Single,1
+None,24,existing credits paid back duly till now ,Car (New),4817,Below 100 DM,"[4, 7) Years",2,"Male, Single",Co-Applicant,3,Life Insurance,31,None,Own,1,Skilled,1,yes,yes,Male,Single,0
+No Account,24,existing credits paid back duly till now ,Car (Used),2679,Below 100 DM,<1 Year,4,"Female, Divorced",None,1,None,29,None,Own,1,Executive,1,yes,yes,Female,Divorced,1
+None,11,critical account/ other credits existing (not at this bank),Car (New),3905,Below 100 DM,"[1, 4) Years",2,"Male, Single",None,2,Real Estate,36,None,Rent,2,Skilled,2,no,yes,Male,Single,1
+None,12,existing credits paid back duly till now ,Car (Used),3386,Below 100 DM,Above 7 Years,3,"Male, Single",None,4,None,35,None,Free,1,Skilled,1,yes,yes,Male,Single,0
+None,6,existing credits paid back duly till now ,Appliances,343,Below 100 DM,<1 Year,4,"Female, Divorced",None,1,Real Estate,27,None,Own,1,Skilled,1,no,yes,Female,Divorced,1
+No Account,18,existing credits paid back duly till now ,Radio/TV,4594,Below 100 DM,<1 Year,3,"Male, Single",None,2,Car,32,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+None,36,existing credits paid back duly till now ,Furniture,3620,Below 100 DM,"[1, 4) Years",1,"Male, Single",Guarantor,2,Life Insurance,37,None,Own,1,Skilled,2,no,yes,Male,Single,1
+None,15,existing credits paid back duly till now ,Car (New),1721,Below 100 DM,<1 Year,2,"Male, Single",None,3,Real Estate,36,None,Own,1,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,12,existing credits paid back duly till now ,Furniture,3017,Below 100 DM,<1 Year,3,"Female, Divorced",None,1,Real Estate,34,None,Rent,1,Executive,1,no,yes,Female,Divorced,1
+Below 200 DM,12,existing credits paid back duly till now ,Retraining,754,None,Above 7 Years,4,"Male, Single",None,4,Life Insurance,38,None,Own,2,Skilled,1,no,yes,Male,Single,1
+No Account,18,existing credits paid back duly till now ,Business,1950,Below 100 DM,"[4, 7) Years",4,"Male, Single",None,1,Car,34,Stores,Own,2,Skilled,1,yes,yes,Male,Single,1
+None,24,existing credits paid back duly till now ,Car (Used),2924,Below 100 DM,"[1, 4) Years",3,"Male, Single",Guarantor,4,None,63,Bank,Own,1,Skilled,2,yes,yes,Male,Single,1
+None,24,delay in paying off in the past ,Radio/TV,1659,Below 100 DM,<1 Year,4,"Female, Divorced",None,2,Car,29,None,Rent,1,Unskilled Resident,1,yes,yes,Female,Divorced,0
+No Account,48,delay in paying off in the past ,Radio/TV,7238,None,Above 7 Years,3,"Male, Single",None,3,Car,32,Bank,Own,2,Skilled,2,no,yes,Male,Single,1
+No Account,33,delay in paying off in the past ,Business,2764,Below 100 DM,"[1, 4) Years",2,"Female, Divorced",None,2,Car,26,None,Own,2,Skilled,1,yes,yes,Female,Divorced,1
+No Account,24,delay in paying off in the past ,Car (Used),4679,Below 100 DM,"[4, 7) Years",3,"Male, Single",None,3,Car,35,None,Own,2,Unskilled Resident,1,yes,yes,Male,Single,1
+Below 200 DM,24,existing credits paid back duly till now ,Radio/TV,3092,"[100, 500) DM",<1 Year,3,"Male, Married/Widowed",None,2,Car,22,None,Rent,1,Skilled,1,yes,yes,Male,Married/Widowed,0
+None,6,existing credits paid back duly till now ,Education,448,Below 100 DM,<1 Year,4,"Female, Divorced",None,4,Life Insurance,23,None,Own,1,Skilled,1,no,yes,Female,Divorced,0
+None,9,existing credits paid back duly till now ,Car (New),654,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,3,Car,28,None,Own,1,Unskilled Resident,1,no,yes,Male,Single,0
+No Account,6,existing credits paid back duly till now ,Retraining,1238,None,Unemployed,4,"Male, Single",None,4,Life Insurance,36,None,Own,1,Executive,2,yes,yes,Male,Single,1
+Below 200 DM,18,critical account/ other credits existing (not at this bank),Radio/TV,1245,Below 100 DM,"[1, 4) Years",4,"Male, Married/Widowed",None,2,Car,33,None,Own,1,Skilled,1,no,yes,Male,Married/Widowed,0
+None,18,no credits taken/ all credits paid back duly ,Furniture,3114,Below 100 DM,<1 Year,1,"Female, Divorced",None,4,Life Insurance,26,None,Rent,1,Skilled,1,no,yes,Female,Divorced,0
+No Account,39,existing credits paid back duly till now ,Car (Used),2569,"[500, 1000) DM","[1, 4) Years",4,"Male, Single",None,4,Car,24,None,Own,1,Skilled,1,no,yes,Male,Single,1
+Above 200 DM,24,existing credits paid back duly till now ,Radio/TV,5152,Below 100 DM,"[4, 7) Years",4,"Male, Single",None,2,Car,25,Bank,Own,1,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,12,existing credits paid back duly till now ,Business,1037,"[100, 500) DM","[4, 7) Years",3,"Male, Single",None,4,Real Estate,39,None,Own,1,Unskilled Resident,1,no,yes,Male,Single,1
+None,15,critical account/ other credits existing (not at this bank),Furniture,1478,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Car,44,None,Own,2,Skilled,2,yes,yes,Male,Single,1
+Below 200 DM,12,critical account/ other credits existing (not at this bank),Radio/TV,3573,Below 100 DM,"[1, 4) Years",1,"Female, Divorced",None,1,Real Estate,23,None,Own,1,Unskilled Resident,1,no,yes,Female,Divorced,1
+Below 200 DM,24,existing credits paid back duly till now ,Car (New),1201,Below 100 DM,<1 Year,4,"Male, Single",None,1,Life Insurance,26,None,Own,1,Skilled,1,no,yes,Male,Single,1
+None,30,existing credits paid back duly till now ,Furniture,3622,Above 1000 DM,Above 7 Years,4,"Female, Divorced",None,4,Life Insurance,57,None,Rent,2,Skilled,1,yes,yes,Female,Divorced,1
+No Account,15,delay in paying off in the past ,Furniture,960,Above 1000 DM,"[4, 7) Years",3,"Female, Divorced",None,2,Life Insurance,30,None,Own,2,Skilled,1,no,yes,Female,Divorced,1
+No Account,12,critical account/ other credits existing (not at this bank),Car (New),1163,"[500, 1000) DM","[1, 4) Years",4,"Male, Single",None,4,Real Estate,44,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+Below 200 DM,6,delay in paying off in the past ,Car (New),1209,Below 100 DM,Unemployed,4,"Male, Single",None,4,Life Insurance,47,None,Own,1,Executive,1,yes,yes,Male,Single,0
+No Account,12,existing credits paid back duly till now ,Radio/TV,3077,Below 100 DM,"[1, 4) Years",2,"Male, Single",None,4,Car,52,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+No Account,24,existing credits paid back duly till now ,Car (New),3757,Below 100 DM,Above 7 Years,4,"Female, Divorced",Co-Applicant,4,None,62,None,Free,1,Skilled,1,yes,yes,Female,Divorced,1
+No Account,10,existing credits paid back duly till now ,Car (New),1418,"[100, 500) DM","[1, 4) Years",3,"Male, Single",None,2,Real Estate,35,None,Rent,1,Unskilled Resident,1,no,no,Male,Single,1
+No Account,6,existing credits paid back duly till now ,Car (New),3518,Below 100 DM,"[1, 4) Years",2,"Male, Single",Guarantor,3,Life Insurance,26,None,Rent,1,Skilled,1,no,yes,Male,Single,1
+No Account,12,critical account/ other credits existing (not at this bank),Radio/TV,1934,Below 100 DM,Above 7 Years,2,"Male, Single",None,2,None,26,None,Own,2,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,27,no credits taken/ all credits paid back duly ,Business,8318,Below 100 DM,Above 7 Years,2,"Female, Divorced",None,4,None,42,None,Free,2,Executive,1,yes,yes,Female,Divorced,0
+No Account,6,critical account/ other credits existing (not at this bank),Radio/TV,1237,"[100, 500) DM","[1, 4) Years",1,"Female, Divorced",None,1,Life Insurance,27,None,Own,2,Skilled,1,no,yes,Female,Divorced,1
+Below 200 DM,6,existing credits paid back duly till now ,Radio/TV,368,None,Above 7 Years,4,"Male, Single",None,4,Life Insurance,38,None,Own,1,Skilled,1,no,yes,Male,Single,1
+None,12,critical account/ other credits existing (not at this bank),Car (New),2122,Below 100 DM,"[1, 4) Years",3,"Male, Single",None,2,Real Estate,39,None,Rent,2,Unskilled Resident,2,no,no,Male,Single,1
+None,24,existing credits paid back duly till now ,Furniture,2996,None,"[1, 4) Years",2,"Male, Married/Widowed",None,4,Car,20,None,Own,1,Skilled,1,no,yes,Male,Married/Widowed,0
+Below 200 DM,36,existing credits paid back duly till now ,Furniture,9034,"[100, 500) DM",<1 Year,4,"Male, Single",Co-Applicant,1,None,29,None,Rent,1,Executive,1,yes,yes,Male,Single,0
+No Account,24,critical account/ other credits existing (not at this bank),Furniture,1585,Below 100 DM,"[4, 7) Years",4,"Male, Single",None,3,Life Insurance,40,None,Own,2,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,18,existing credits paid back duly till now ,Radio/TV,1301,Below 100 DM,Above 7 Years,4,"Male, Married/Widowed",Guarantor,2,Real Estate,32,None,Own,1,Unskilled Resident,1,no,yes,Male,Married/Widowed,1
+Above 200 DM,6,critical account/ other credits existing (not at this bank),Car (New),1323,"[100, 500) DM",Above 7 Years,2,"Male, Divorced",None,4,Car,28,None,Own,2,Skilled,2,yes,yes,Male,Divorced,1
+None,24,existing credits paid back duly till now ,Car (New),3123,Below 100 DM,<1 Year,4,"Female, Divorced",None,1,Life Insurance,27,None,Own,1,Skilled,1,no,yes,Female,Divorced,0
+None,36,existing credits paid back duly till now ,Car (Used),5493,Below 100 DM,Above 7 Years,2,"Male, Single",None,4,None,42,None,Free,1,Skilled,2,no,yes,Male,Single,1
+Above 200 DM,9,existing credits paid back duly till now ,Radio/TV,1126,"[100, 500) DM",Above 7 Years,2,"Male, Divorced",None,4,Real Estate,49,None,Own,1,Skilled,1,no,yes,Male,Divorced,1
+Below 200 DM,24,critical account/ other credits existing (not at this bank),Radio/TV,1216,"[100, 500) DM",<1 Year,4,"Male, Single",None,4,None,38,Bank,Own,2,Skilled,2,no,yes,Male,Single,0
+None,24,existing credits paid back duly till now ,Car (New),1207,Below 100 DM,<1 Year,4,"Female, Divorced",None,4,Life Insurance,24,None,Rent,1,Skilled,1,no,yes,Female,Divorced,0
+No Account,10,existing credits paid back duly till now ,Car (New),1309,None,"[1, 4) Years",4,"Male, Single",Guarantor,4,Life Insurance,27,None,Own,1,Unskilled Resident,1,no,yes,Male,Single,0
+Above 200 DM,15,critical account/ other credits existing (not at this bank),Car (Used),2360,"[500, 1000) DM","[1, 4) Years",2,"Male, Single",None,2,Car,36,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+Below 200 DM,15,all credits at this bank paid back duly ,Car (New),6850,"[100, 500) DM",Unemployed,1,"Male, Single",None,2,Life Insurance,34,None,Own,1,Executive,2,yes,yes,Male,Single,0
+No Account,24,existing credits paid back duly till now ,Radio/TV,1413,Below 100 DM,"[1, 4) Years",4,"Male, Married/Widowed",None,2,Life Insurance,28,None,Own,1,Skilled,1,no,yes,Male,Married/Widowed,1
+No Account,39,existing credits paid back duly till now ,Car (Used),8588,"[100, 500) DM",Above 7 Years,4,"Male, Single",None,2,Car,45,None,Own,1,Executive,1,yes,yes,Male,Single,1
+None,12,existing credits paid back duly till now ,Car (New),759,Below 100 DM,"[4, 7) Years",4,"Male, Single",None,2,Real Estate,26,None,Own,1,Skilled,1,no,yes,Male,Single,0
+No Account,36,existing credits paid back duly till now ,Car (Used),4686,Below 100 DM,"[1, 4) Years",2,"Male, Single",None,2,None,32,None,Free,1,Executive,1,yes,yes,Male,Single,1
+Above 200 DM,15,existing credits paid back duly till now ,Business,2687,Below 100 DM,"[4, 7) Years",2,"Male, Single",None,4,Life Insurance,26,None,Rent,1,Skilled,1,yes,yes,Male,Single,1
+Below 200 DM,12,delay in paying off in the past ,Radio/TV,585,Below 100 DM,"[1, 4) Years",4,"Male, Married/Widowed",Co-Applicant,4,Real Estate,20,None,Rent,2,Skilled,1,no,yes,Male,Married/Widowed,1
+No Account,24,existing credits paid back duly till now ,Car (New),2255,None,<1 Year,4,"Male, Single",None,1,Life Insurance,54,None,Own,1,Skilled,1,no,yes,Male,Single,1
+None,6,critical account/ other credits existing (not at this bank),Car (New),609,Below 100 DM,"[4, 7) Years",4,"Female, Divorced",None,3,Life Insurance,37,None,Own,2,Skilled,1,no,no,Female,Divorced,1
+None,6,critical account/ other credits existing (not at this bank),Car (New),1361,Below 100 DM,<1 Year,2,"Male, Single",None,4,Real Estate,40,None,Own,1,Unskilled Resident,2,no,no,Male,Single,1
+No Account,36,critical account/ other credits existing (not at this bank),Furniture,7127,Below 100 DM,<1 Year,2,"Female, Divorced",None,4,Life Insurance,23,None,Rent,2,Skilled,1,yes,yes,Female,Divorced,0
+None,6,existing credits paid back duly till now ,Car (New),1203,"[100, 500) DM",Above 7 Years,3,"Male, Single",None,2,Life Insurance,43,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+No Account,6,critical account/ other credits existing (not at this bank),Radio/TV,700,None,Above 7 Years,4,"Male, Single",None,4,None,36,None,Free,2,Skilled,1,no,yes,Male,Single,1
+No Account,24,critical account/ other credits existing (not at this bank),Repairs,5507,Below 100 DM,Above 7 Years,3,"Male, Single",None,4,None,44,None,Free,2,Skilled,1,no,yes,Male,Single,1
+None,18,existing credits paid back duly till now ,Radio/TV,3190,Below 100 DM,"[1, 4) Years",2,"Female, Divorced",None,2,Real Estate,24,None,Own,1,Skilled,1,no,yes,Female,Divorced,0
+None,48,no credits taken/ all credits paid back duly ,Furniture,7119,Below 100 DM,"[1, 4) Years",3,"Male, Single",None,4,None,53,None,Free,2,Skilled,2,no,yes,Male,Single,0
+No Account,24,existing credits paid back duly till now ,Car (Used),3488,"[100, 500) DM","[4, 7) Years",3,"Female, Divorced",None,4,Car,23,None,Own,1,Skilled,1,no,yes,Female,Divorced,1
+Below 200 DM,18,existing credits paid back duly till now ,Radio/TV,1113,Below 100 DM,"[1, 4) Years",4,"Female, Divorced",Guarantor,4,Real Estate,26,None,Own,1,Unskilled Resident,2,no,yes,Female,Divorced,1
+Below 200 DM,26,existing credits paid back duly till now ,Car (Used),7966,Below 100 DM,<1 Year,2,"Male, Single",None,3,Car,30,None,Own,2,Skilled,1,no,yes,Male,Single,1
+No Account,15,critical account/ other credits existing (not at this bank),Education,1532,"[100, 500) DM","[1, 4) Years",4,"Female, Divorced",None,3,Car,31,None,Own,1,Skilled,1,no,yes,Female,Divorced,1
+No Account,4,critical account/ other credits existing (not at this bank),Radio/TV,1503,Below 100 DM,"[4, 7) Years",2,"Male, Single",None,1,Real Estate,42,None,Own,2,Unskilled Resident,2,no,yes,Male,Single,1
+None,36,existing credits paid back duly till now ,Radio/TV,2302,Below 100 DM,"[1, 4) Years",4,"Male, Divorced",None,4,Car,31,None,Rent,1,Skilled,1,no,yes,Male,Divorced,0
+None,6,existing credits paid back duly till now ,Car (New),662,Below 100 DM,<1 Year,3,"Male, Single",None,4,Real Estate,41,None,Own,1,Unskilled Resident,2,yes,yes,Male,Single,1
+Below 200 DM,36,existing credits paid back duly till now ,Education,2273,Below 100 DM,"[4, 7) Years",3,"Male, Single",None,1,Car,32,None,Own,2,Skilled,2,no,yes,Male,Single,1
+Below 200 DM,15,existing credits paid back duly till now ,Car (New),2631,"[100, 500) DM","[1, 4) Years",2,"Female, Divorced",None,4,Car,28,None,Rent,2,Skilled,1,yes,yes,Female,Divorced,0
+No Account,12,delay in paying off in the past ,Car (Used),1503,Below 100 DM,"[1, 4) Years",4,"Male, Married/Widowed",None,4,Real Estate,41,None,Rent,1,Skilled,1,no,yes,Male,Married/Widowed,1
+No Account,24,existing credits paid back duly till now ,Radio/TV,1311,"[100, 500) DM","[4, 7) Years",4,"Male, Married/Widowed",None,3,Life Insurance,26,None,Own,1,Skilled,1,yes,yes,Male,Married/Widowed,1
+No Account,24,existing credits paid back duly till now ,Radio/TV,3105,None,<1 Year,4,"Male, Single",None,2,Car,25,None,Own,2,Skilled,1,no,yes,Male,Single,1
+Above 200 DM,21,critical account/ other credits existing (not at this bank),Education,2319,Below 100 DM,<1 Year,2,"Male, Divorced",None,1,Car,33,None,Rent,1,Skilled,1,no,yes,Male,Divorced,0
+None,6,existing credits paid back duly till now ,Car (New),1374,None,Unemployed,4,"Female, Divorced",None,3,Life Insurance,75,None,Own,1,Executive,1,yes,yes,Female,Divorced,1
+Below 200 DM,18,critical account/ other credits existing (not at this bank),Furniture,3612,Below 100 DM,Above 7 Years,3,"Female, Divorced",None,4,Life Insurance,37,None,Own,1,Skilled,1,yes,yes,Female,Divorced,1
+None,48,existing credits paid back duly till now ,Car (New),7763,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,None,42,Bank,Free,1,Executive,1,no,yes,Male,Single,0
+Above 200 DM,18,existing credits paid back duly till now ,Furniture,3049,Below 100 DM,<1 Year,1,"Female, Divorced",None,1,Life Insurance,45,Stores,Own,1,Unskilled Resident,1,no,yes,Female,Divorced,1
+Below 200 DM,12,existing credits paid back duly till now ,Radio/TV,1534,Below 100 DM,<1 Year,1,"Male, Married/Widowed",None,1,Real Estate,23,None,Rent,1,Skilled,1,no,yes,Male,Married/Widowed,0
+No Account,24,delay in paying off in the past ,Car (New),2032,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,None,60,None,Free,2,Skilled,1,yes,yes,Male,Single,1
+None,30,existing credits paid back duly till now ,Furniture,6350,None,Above 7 Years,4,"Male, Single",None,4,Life Insurance,31,None,Own,1,Skilled,1,no,yes,Male,Single,0
+Above 200 DM,18,existing credits paid back duly till now ,Furniture,2864,Below 100 DM,"[1, 4) Years",2,"Male, Single",None,1,Real Estate,34,None,Own,1,Unskilled Resident,2,no,yes,Male,Single,0
+No Account,12,critical account/ other credits existing (not at this bank),Car (New),1255,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Real Estate,61,None,Own,2,Unskilled Resident,1,no,yes,Male,Single,1
+None,24,delay in paying off in the past ,Car (New),1333,Below 100 DM,Unemployed,4,"Male, Single",None,2,Real Estate,43,None,Free,2,Skilled,2,no,yes,Male,Single,0
+No Account,24,critical account/ other credits existing (not at this bank),Car (New),2022,Below 100 DM,"[1, 4) Years",4,"Female, Divorced",None,4,Car,37,None,Own,1,Skilled,1,yes,yes,Female,Divorced,1
+No Account,24,existing credits paid back duly till now ,Radio/TV,1552,Below 100 DM,"[4, 7) Years",3,"Male, Single",None,1,Car,32,Bank,Own,1,Skilled,2,no,yes,Male,Single,1
+None,12,all credits at this bank paid back duly ,Radio/TV,626,Below 100 DM,"[1, 4) Years",4,"Female, Divorced",None,4,Real Estate,24,Bank,Own,1,Unskilled Resident,1,no,yes,Female,Divorced,0
+No Account,48,critical account/ other credits existing (not at this bank),Car (Used),8858,None,"[4, 7) Years",2,"Male, Single",None,1,None,35,None,Free,2,Skilled,1,yes,yes,Male,Single,1
+No Account,12,critical account/ other credits existing (not at this bank),Repairs,996,None,"[4, 7) Years",4,"Female, Divorced",None,4,Real Estate,23,None,Own,2,Skilled,1,no,yes,Female,Divorced,1
+No Account,6,all credits at this bank paid back duly ,Radio/TV,1750,"[500, 1000) DM",Above 7 Years,2,"Male, Single",None,4,Life Insurance,45,Bank,Own,1,Unskilled Resident,2,no,yes,Male,Single,1
+None,48,existing credits paid back duly till now ,Radio/TV,6999,Below 100 DM,"[4, 7) Years",1,"Male, Married/Widowed",Guarantor,1,Real Estate,34,None,Own,2,Skilled,1,yes,yes,Male,Married/Widowed,0
+Below 200 DM,12,critical account/ other credits existing (not at this bank),Car (New),1995,"[100, 500) DM",<1 Year,4,"Male, Single",None,1,Car,27,None,Own,1,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,9,existing credits paid back duly till now ,Education,1199,Below 100 DM,"[4, 7) Years",4,"Female, Divorced",None,4,Life Insurance,67,None,Own,2,Executive,1,yes,yes,Female,Divorced,1
+Below 200 DM,12,existing credits paid back duly till now ,Radio/TV,1331,Below 100 DM,<1 Year,2,"Male, Single",None,1,Car,22,Stores,Own,1,Skilled,1,no,yes,Male,Single,0
+Below 200 DM,18,no credits taken/ all credits paid back duly ,Car (New),2278,"[100, 500) DM",<1 Year,3,"Female, Divorced",None,3,Car,28,None,Own,2,Skilled,1,no,yes,Female,Divorced,0
+No Account,21,no credits taken/ all credits paid back duly ,Car (New),5003,None,"[1, 4) Years",1,"Female, Divorced",None,4,Life Insurance,29,Bank,Own,2,Skilled,1,yes,yes,Female,Divorced,0
+None,24,all credits at this bank paid back duly ,Furniture,3552,Below 100 DM,"[4, 7) Years",3,"Male, Single",None,4,Car,27,Bank,Own,1,Skilled,1,no,yes,Male,Single,0
+Below 200 DM,18,critical account/ other credits existing (not at this bank),Furniture,1928,Below 100 DM,<1 Year,2,"Male, Single",None,2,Real Estate,31,None,Own,2,Unskilled Resident,1,no,yes,Male,Single,0
+None,24,existing credits paid back duly till now ,Car (Used),2964,None,Above 7 Years,4,"Male, Single",None,4,None,49,Bank,Free,1,Skilled,2,yes,yes,Male,Single,1
+None,24,all credits at this bank paid back duly ,Radio/TV,1546,Below 100 DM,"[4, 7) Years",4,"Male, Single",Guarantor,4,Car,24,Bank,Rent,1,Unskilled Resident,1,no,yes,Male,Single,0
+Above 200 DM,6,delay in paying off in the past ,Radio/TV,683,Below 100 DM,<1 Year,2,"Female, Divorced",None,1,Life Insurance,29,Bank,Own,1,Skilled,1,no,yes,Female,Divorced,1
+Below 200 DM,36,existing credits paid back duly till now ,Car (New),12389,None,"[1, 4) Years",1,"Male, Single",None,4,None,37,None,Free,1,Skilled,1,yes,yes,Male,Single,0
+Below 200 DM,24,delay in paying off in the past ,Business,4712,None,"[1, 4) Years",4,"Male, Single",None,2,Life Insurance,37,Bank,Own,2,Executive,1,yes,yes,Male,Single,1
+Below 200 DM,24,delay in paying off in the past ,Radio/TV,1553,"[100, 500) DM","[4, 7) Years",3,"Female, Divorced",None,2,Life Insurance,23,None,Rent,2,Skilled,1,yes,yes,Female,Divorced,1
+None,12,existing credits paid back duly till now ,Car (New),1372,Below 100 DM,"[4, 7) Years",2,"Male, Divorced",None,3,Car,36,None,Own,1,Skilled,1,no,yes,Male,Divorced,0
+No Account,24,critical account/ other credits existing (not at this bank),Radio/TV,2578,Above 1000 DM,Above 7 Years,2,"Male, Single",None,2,Car,34,None,Own,1,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,48,existing credits paid back duly till now ,Radio/TV,3979,None,"[4, 7) Years",4,"Male, Single",None,1,Car,41,None,Own,2,Skilled,2,yes,yes,Male,Single,1
+None,48,existing credits paid back duly till now ,Radio/TV,6758,Below 100 DM,"[1, 4) Years",3,"Female, Divorced",None,2,Car,31,None,Own,1,Skilled,1,yes,yes,Female,Divorced,0
+None,24,existing credits paid back duly till now ,Furniture,3234,Below 100 DM,<1 Year,4,"Female, Divorced",None,4,Real Estate,23,None,Rent,1,Unskilled Resident,1,yes,yes,Female,Divorced,0
+No Account,30,critical account/ other credits existing (not at this bank),Radio/TV,5954,Below 100 DM,"[4, 7) Years",3,"Male, Single",Co-Applicant,2,Car,38,None,Own,1,Skilled,1,no,yes,Male,Single,1
+No Account,24,existing credits paid back duly till now ,Car (Used),5433,None,Unemployed,2,"Female, Divorced",None,4,Life Insurance,26,None,Rent,1,Executive,1,yes,yes,Female,Divorced,1
+None,15,existing credits paid back duly till now ,Business,806,Below 100 DM,"[1, 4) Years",4,"Female, Divorced",None,4,Life Insurance,22,None,Own,1,Unskilled Resident,1,no,yes,Female,Divorced,1
+Below 200 DM,9,existing credits paid back duly till now ,Radio/TV,1082,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Car,27,None,Own,2,Unskilled Resident,1,no,yes,Male,Single,1
+No Account,15,critical account/ other credits existing (not at this bank),Furniture,2788,Below 100 DM,"[4, 7) Years",2,"Female, Divorced",Co-Applicant,3,Car,24,Bank,Own,2,Skilled,1,no,yes,Female,Divorced,1
+Below 200 DM,12,existing credits paid back duly till now ,Radio/TV,2930,Below 100 DM,"[4, 7) Years",2,"Female, Divorced",None,1,Real Estate,27,None,Own,1,Skilled,1,no,yes,Female,Divorced,1
+No Account,24,critical account/ other credits existing (not at this bank),Education,1927,None,"[1, 4) Years",3,"Female, Divorced",None,2,Car,33,None,Own,2,Skilled,1,yes,yes,Female,Divorced,1
+Below 200 DM,36,critical account/ other credits existing (not at this bank),Car (New),2820,Below 100 DM,<1 Year,4,"Male, Divorced",None,4,Car,27,None,Own,2,Skilled,1,no,yes,Male,Divorced,0
+No Account,24,existing credits paid back duly till now ,Retraining,937,Below 100 DM,<1 Year,4,"Male, Married/Widowed",None,3,Car,27,None,Own,2,Unskilled Resident,1,no,yes,Male,Married/Widowed,1
+Below 200 DM,18,critical account/ other credits existing (not at this bank),Car (New),1056,Below 100 DM,Above 7 Years,3,"Male, Single",Guarantor,3,Real Estate,30,Bank,Own,2,Skilled,1,no,yes,Male,Single,0
+Below 200 DM,12,critical account/ other credits existing (not at this bank),Car (New),3124,Below 100 DM,<1 Year,1,"Male, Single",None,3,Real Estate,49,Bank,Own,2,Unskilled Resident,2,no,yes,Male,Single,1
+No Account,9,existing credits paid back duly till now ,Furniture,1388,Below 100 DM,"[1, 4) Years",4,"Female, Divorced",None,2,Real Estate,26,None,Rent,1,Skilled,1,no,yes,Female,Divorced,1
+Below 200 DM,36,existing credits paid back duly till now ,Repairs,2384,Below 100 DM,<1 Year,4,"Male, Single",None,1,None,33,None,Rent,1,Unskilled Resident,1,no,yes,Male,Single,0
+No Account,12,existing credits paid back duly till now ,Car (New),2133,None,Above 7 Years,4,"Female, Divorced",None,4,None,52,None,Free,1,Executive,1,yes,yes,Female,Divorced,1
+None,18,existing credits paid back duly till now ,Furniture,2039,Below 100 DM,"[1, 4) Years",1,"Female, Divorced",None,4,Real Estate,20,Bank,Rent,1,Skilled,1,no,yes,Female,Divorced,0
+None,9,critical account/ other credits existing (not at this bank),Car (New),2799,Below 100 DM,"[1, 4) Years",2,"Male, Single",None,2,Real Estate,36,None,Rent,2,Skilled,2,no,yes,Male,Single,1
+None,12,existing credits paid back duly till now ,Furniture,1289,Below 100 DM,"[1, 4) Years",4,"Male, Single",Guarantor,1,Life Insurance,21,None,Own,1,Unskilled Resident,1,no,yes,Male,Single,1
+None,18,existing credits paid back duly till now ,Appliances,1217,Below 100 DM,"[1, 4) Years",4,"Male, Married/Widowed",None,3,Real Estate,47,None,Own,1,Unskilled Resident,1,yes,yes,Male,Married/Widowed,0
+None,12,critical account/ other credits existing (not at this bank),Furniture,2246,Below 100 DM,Above 7 Years,3,"Male, Single",None,3,Life Insurance,60,None,Own,2,Skilled,1,no,yes,Male,Single,0
+None,12,critical account/ other credits existing (not at this bank),Radio/TV,385,Below 100 DM,"[4, 7) Years",4,"Female, Divorced",None,3,Real Estate,58,None,Own,4,Unskilled Resident,1,yes,yes,Female,Divorced,1
+Below 200 DM,24,delay in paying off in the past ,Car (New),1965,None,"[1, 4) Years",4,"Female, Divorced",None,4,Car,42,None,Rent,2,Skilled,1,yes,yes,Female,Divorced,1
+No Account,21,existing credits paid back duly till now ,Business,1572,Above 1000 DM,Above 7 Years,4,"Female, Divorced",None,4,Real Estate,36,Bank,Own,1,Unskilled Resident,1,no,yes,Female,Divorced,1
+Below 200 DM,24,existing credits paid back duly till now ,Car (New),2718,Below 100 DM,"[1, 4) Years",3,"Female, Divorced",None,4,Life Insurance,20,None,Rent,1,Unskilled Resident,1,yes,yes,Female,Divorced,0
+None,24,all credits at this bank paid back duly ,Others,1358,None,Above 7 Years,4,"Male, Single",None,3,Car,40,Stores,Own,1,Executive,1,yes,yes,Male,Single,0
+Below 200 DM,6,all credits at this bank paid back duly ,Car (New),931,"[100, 500) DM",<1 Year,1,"Female, Divorced",None,1,Life Insurance,32,Stores,Own,1,Unskilled Resident,1,no,yes,Female,Divorced,0
+None,24,existing credits paid back duly till now ,Car (New),1442,Below 100 DM,"[4, 7) Years",4,"Female, Divorced",None,4,Car,23,None,Rent,2,Skilled,1,no,yes,Female,Divorced,0
+Below 200 DM,24,no credits taken/ all credits paid back duly ,Business,4241,Below 100 DM,"[1, 4) Years",1,"Male, Single",None,4,Real Estate,36,None,Own,3,Unskilled Resident,1,yes,yes,Male,Single,0
+No Account,18,critical account/ other credits existing (not at this bank),Car (New),2775,Below 100 DM,"[4, 7) Years",2,"Male, Single",None,2,Life Insurance,31,Bank,Own,2,Skilled,1,no,yes,Male,Single,0
+No Account,24,delay in paying off in the past ,Business,3863,Below 100 DM,"[1, 4) Years",1,"Male, Single",None,2,None,32,None,Free,1,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,7,existing credits paid back duly till now ,Radio/TV,2329,Below 100 DM,<1 Year,1,"Female, Divorced",Guarantor,1,Real Estate,45,None,Own,1,Skilled,1,no,yes,Female,Divorced,1
+Below 200 DM,9,existing credits paid back duly till now ,Furniture,918,Below 100 DM,"[1, 4) Years",4,"Female, Divorced",None,1,Life Insurance,30,None,Own,1,Skilled,1,no,yes,Female,Divorced,0
+Below 200 DM,24,all credits at this bank paid back duly ,Education,1837,Below 100 DM,"[4, 7) Years",4,"Female, Divorced",None,4,None,34,Bank,Free,1,Unskilled Resident,1,no,yes,Female,Divorced,0
+No Account,36,existing credits paid back duly till now ,Furniture,3349,Below 100 DM,"[1, 4) Years",4,"Female, Divorced",None,2,Car,28,None,Own,1,Executive,1,yes,yes,Female,Divorced,0
+Above 200 DM,10,existing credits paid back duly till now ,Furniture,1275,Below 100 DM,<1 Year,4,"Female, Divorced",None,2,Life Insurance,23,None,Own,1,Skilled,1,no,yes,Female,Divorced,1
+None,24,all credits at this bank paid back duly ,Furniture,2828,"[500, 1000) DM","[1, 4) Years",4,"Male, Single",None,4,Real Estate,22,Stores,Own,1,Skilled,1,yes,yes,Male,Single,1
+No Account,24,critical account/ other credits existing (not at this bank),Business,4526,Below 100 DM,"[1, 4) Years",3,"Male, Single",None,2,Real Estate,74,None,Own,1,Executive,1,yes,yes,Male,Single,1
+Below 200 DM,36,existing credits paid back duly till now ,Radio/TV,2671,"[100, 500) DM","[1, 4) Years",4,"Female, Divorced",Co-Applicant,4,None,50,None,Free,1,Skilled,1,no,yes,Female,Divorced,0
+No Account,18,existing credits paid back duly till now ,Radio/TV,2051,Below 100 DM,<1 Year,4,"Male, Single",None,1,Real Estate,33,None,Own,1,Skilled,1,no,yes,Male,Single,1
+No Account,15,existing credits paid back duly till now ,Car (Used),1300,None,Above 7 Years,4,"Male, Single",None,4,None,45,Bank,Free,1,Skilled,2,no,yes,Male,Single,1
+None,12,existing credits paid back duly till now ,Appliances,741,"[100, 500) DM",Unemployed,4,"Female, Divorced",None,3,Life Insurance,22,None,Own,1,Skilled,1,no,yes,Female,Divorced,0
+Above 200 DM,10,existing credits paid back duly till now ,Car (New),1240,"[100, 500) DM",Above 7 Years,1,"Female, Divorced",None,4,None,48,None,Free,1,Unskilled Resident,2,no,yes,Female,Divorced,0
+None,21,existing credits paid back duly till now ,Radio/TV,3357,Above 1000 DM,<1 Year,4,"Female, Divorced",None,2,Car,29,Bank,Own,1,Skilled,1,no,yes,Female,Divorced,1
+None,24,all credits at this bank paid back duly ,Car (Used),3632,Below 100 DM,"[1, 4) Years",1,"Female, Divorced",Guarantor,4,Car,22,Bank,Rent,1,Skilled,1,no,no,Female,Divorced,1
+No Account,18,delay in paying off in the past ,Furniture,1808,Below 100 DM,"[4, 7) Years",4,"Female, Divorced",None,1,Real Estate,22,None,Own,1,Skilled,1,no,yes,Female,Divorced,0
+Below 200 DM,48,no credits taken/ all credits paid back duly ,Business,12204,None,"[1, 4) Years",2,"Male, Single",None,2,Car,48,Bank,Own,1,Executive,1,yes,yes,Male,Single,1
+Below 200 DM,60,delay in paying off in the past ,Radio/TV,9157,None,"[1, 4) Years",2,"Male, Single",None,2,None,27,None,Free,1,Executive,1,no,yes,Male,Single,1
+None,6,critical account/ other credits existing (not at this bank),Car (New),3676,Below 100 DM,"[1, 4) Years",1,"Male, Single",None,3,Real Estate,37,None,Rent,3,Skilled,2,no,yes,Male,Single,1
+Below 200 DM,30,existing credits paid back duly till now ,Furniture,3441,"[100, 500) DM","[1, 4) Years",2,"Female, Divorced",Co-Applicant,4,Car,21,None,Rent,1,Skilled,1,no,yes,Female,Divorced,0
+No Account,12,existing credits paid back duly till now ,Car (New),640,Below 100 DM,"[1, 4) Years",4,"Male, Divorced",None,2,Real Estate,49,None,Own,1,Unskilled Resident,1,no,yes,Male,Divorced,1
+Below 200 DM,21,critical account/ other credits existing (not at this bank),Business,3652,Below 100 DM,"[4, 7) Years",2,"Male, Single",None,3,Life Insurance,27,None,Own,2,Skilled,1,no,yes,Male,Single,1
+No Account,18,critical account/ other credits existing (not at this bank),Car (New),1530,Below 100 DM,"[1, 4) Years",3,"Male, Single",None,2,Life Insurance,32,Bank,Own,2,Skilled,1,no,yes,Male,Single,0
+No Account,48,existing credits paid back duly till now ,Business,3914,None,"[1, 4) Years",4,"Male, Divorced",None,2,Real Estate,38,Bank,Own,1,Skilled,1,no,yes,Male,Divorced,0
+None,12,existing credits paid back duly till now ,Furniture,1858,Below 100 DM,<1 Year,4,"Female, Divorced",None,1,Car,22,None,Rent,1,Skilled,1,no,yes,Female,Divorced,1
+None,18,existing credits paid back duly till now ,Radio/TV,2600,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,4,None,65,None,Free,2,Skilled,1,no,yes,Male,Single,0
+No Account,15,existing credits paid back duly till now ,Radio/TV,1979,None,Above 7 Years,4,"Male, Single",None,2,Car,35,None,Own,1,Skilled,1,no,yes,Male,Single,1
+Above 200 DM,6,existing credits paid back duly till now ,Furniture,2116,Below 100 DM,"[1, 4) Years",2,"Male, Single",None,2,Real Estate,41,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+Below 200 DM,9,all credits at this bank paid back duly ,Car (New),1437,"[100, 500) DM","[4, 7) Years",2,"Male, Single",None,3,None,29,None,Own,1,Skilled,1,no,yes,Male,Single,0
+No Account,42,critical account/ other credits existing (not at this bank),Furniture,4042,"[500, 1000) DM","[1, 4) Years",4,"Male, Single",None,4,Real Estate,36,None,Own,2,Skilled,1,yes,yes,Male,Single,1
+No Account,9,existing credits paid back duly till now ,Education,3832,None,Above 7 Years,1,"Male, Single",None,4,Real Estate,64,None,Own,1,Unskilled Resident,1,no,yes,Male,Single,1
+None,24,existing credits paid back duly till now ,Radio/TV,3660,Below 100 DM,"[1, 4) Years",2,"Female, Divorced",None,4,Car,28,None,Own,1,Skilled,1,no,yes,Female,Divorced,1
+None,18,all credits at this bank paid back duly ,Furniture,1553,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,3,Car,44,Bank,Own,1,Skilled,1,no,yes,Male,Single,0
+Below 200 DM,15,existing credits paid back duly till now ,Radio/TV,1444,None,<1 Year,4,"Male, Single",None,1,Life Insurance,23,None,Own,1,Skilled,1,no,yes,Male,Single,1
+No Account,9,existing credits paid back duly till now ,Furniture,1980,Below 100 DM,<1 Year,2,"Female, Divorced",Co-Applicant,2,Car,19,None,Rent,2,Skilled,1,no,yes,Female,Divorced,0
+Below 200 DM,24,existing credits paid back duly till now ,Car (New),1355,Below 100 DM,<1 Year,3,"Female, Divorced",None,4,Car,25,None,Own,1,Unskilled Resident,1,yes,yes,Female,Divorced,0
+No Account,12,existing credits paid back duly till now ,Education,1393,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Life Insurance,47,Bank,Own,3,Skilled,2,yes,yes,Male,Single,1
+No Account,24,existing credits paid back duly till now ,Radio/TV,1376,"[500, 1000) DM","[4, 7) Years",4,"Female, Divorced",None,1,Car,28,None,Own,1,Skilled,1,no,yes,Female,Divorced,1
+No Account,60,delay in paying off in the past ,Radio/TV,15653,Below 100 DM,"[4, 7) Years",2,"Male, Single",None,4,Car,21,None,Own,2,Skilled,1,yes,yes,Male,Single,1
+No Account,12,existing credits paid back duly till now ,Radio/TV,1493,Below 100 DM,<1 Year,4,"Female, Divorced",None,3,Car,34,None,Own,1,Skilled,2,no,yes,Female,Divorced,1
+None,42,delay in paying off in the past ,Radio/TV,4370,Below 100 DM,"[4, 7) Years",3,"Male, Single",None,2,Life Insurance,26,Bank,Own,2,Skilled,2,yes,yes,Male,Single,0
+None,18,existing credits paid back duly till now ,Education,750,Below 100 DM,Unemployed,4,"Female, Divorced",None,1,Real Estate,27,None,Own,1,"Unemployed, Unskilled",1,no,yes,Female,Divorced,0
+Below 200 DM,15,existing credits paid back duly till now ,Repairs,1308,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Car,38,None,Own,2,Unskilled Resident,1,no,yes,Male,Single,1
+No Account,15,existing credits paid back duly till now ,Education,4623,"[100, 500) DM","[1, 4) Years",3,"Male, Single",None,2,Life Insurance,40,None,Own,1,Executive,1,yes,yes,Male,Single,0
+No Account,24,critical account/ other credits existing (not at this bank),Radio/TV,1851,Below 100 DM,"[4, 7) Years",4,"Male, Married/Widowed",Guarantor,2,Car,33,None,Own,2,Skilled,1,yes,yes,Male,Married/Widowed,1
+None,18,critical account/ other credits existing (not at this bank),Radio/TV,1880,Below 100 DM,"[4, 7) Years",4,"Male, Married/Widowed",None,1,Life Insurance,32,None,Own,2,Executive,1,yes,yes,Male,Married/Widowed,1
+No Account,36,delay in paying off in the past ,Business,7980,None,<1 Year,4,"Male, Single",None,4,Car,27,None,Rent,2,Skilled,1,yes,yes,Male,Single,0
+None,30,no credits taken/ all credits paid back duly ,Furniture,4583,Below 100 DM,"[1, 4) Years",2,"Male, Divorced",Guarantor,2,Real Estate,32,None,Own,2,Skilled,1,no,yes,Male,Divorced,1
+No Account,12,existing credits paid back duly till now ,Car (New),1386,"[500, 1000) DM","[1, 4) Years",2,"Female, Divorced",None,2,Life Insurance,26,None,Own,1,Skilled,1,no,yes,Female,Divorced,0
+Above 200 DM,24,existing credits paid back duly till now ,Car (New),947,Below 100 DM,"[4, 7) Years",4,"Male, Single",None,3,None,38,Bank,Free,1,Skilled,2,no,yes,Male,Single,0
+None,12,existing credits paid back duly till now ,Education,684,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,4,Car,40,None,Rent,1,Unskilled Resident,2,no,yes,Male,Single,0
+None,48,existing credits paid back duly till now ,Education,7476,Below 100 DM,"[4, 7) Years",4,"Male, Single",None,1,None,50,None,Free,1,Executive,1,yes,yes,Male,Single,1
+Below 200 DM,12,existing credits paid back duly till now ,Furniture,1922,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,2,Life Insurance,37,None,Own,1,Unskilled Resident,1,no,yes,Male,Single,0
+None,24,existing credits paid back duly till now ,Car (New),2303,Below 100 DM,Above 7 Years,4,"Male, Single",Co-Applicant,1,Real Estate,45,None,Own,1,Skilled,1,no,yes,Male,Single,0
+Below 200 DM,36,delay in paying off in the past ,Car (New),8086,"[100, 500) DM",Above 7 Years,2,"Male, Single",None,4,Car,42,None,Own,4,Executive,1,yes,yes,Male,Single,0
+No Account,24,critical account/ other credits existing (not at this bank),Car (Used),2346,Below 100 DM,"[4, 7) Years",4,"Male, Single",None,3,Car,35,None,Own,2,Skilled,1,yes,yes,Male,Single,1
+None,14,existing credits paid back duly till now ,Car (New),3973,Below 100 DM,Unemployed,1,"Male, Single",None,4,None,22,None,Free,1,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,12,existing credits paid back duly till now ,Car (New),888,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Car,41,Bank,Own,1,Unskilled Resident,2,no,yes,Male,Single,0
+No Account,48,existing credits paid back duly till now ,Radio/TV,10222,None,"[4, 7) Years",4,"Male, Single",None,3,Car,37,Stores,Own,1,Skilled,1,yes,yes,Male,Single,1
+Below 200 DM,30,no credits taken/ all credits paid back duly ,Business,4221,Below 100 DM,"[1, 4) Years",2,"Female, Divorced",None,1,Car,28,None,Own,2,Skilled,1,no,yes,Female,Divorced,1
+Below 200 DM,18,critical account/ other credits existing (not at this bank),Furniture,6361,Below 100 DM,Above 7 Years,2,"Male, Single",None,1,None,41,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+Above 200 DM,12,existing credits paid back duly till now ,Radio/TV,1297,Below 100 DM,"[1, 4) Years",3,"Male, Married/Widowed",None,4,Real Estate,23,None,Rent,1,Skilled,1,no,yes,Male,Married/Widowed,1
+None,12,existing credits paid back duly till now ,Car (New),900,None,"[1, 4) Years",4,"Male, Married/Widowed",None,2,Car,23,None,Own,1,Skilled,1,no,yes,Male,Married/Widowed,0
+No Account,21,existing credits paid back duly till now ,Furniture,2241,Below 100 DM,Above 7 Years,4,"Male, Single",None,2,Real Estate,50,None,Own,2,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,6,delay in paying off in the past ,Furniture,1050,Below 100 DM,Unemployed,4,"Male, Single",None,1,Life Insurance,35,Stores,Own,2,Executive,1,yes,yes,Male,Single,1
+Above 200 DM,6,critical account/ other credits existing (not at this bank),Education,1047,Below 100 DM,"[1, 4) Years",2,"Female, Divorced",None,4,Life Insurance,50,None,Own,1,Unskilled Resident,1,no,yes,Female,Divorced,1
+No Account,24,critical account/ other credits existing (not at this bank),Others,6314,Below 100 DM,Unemployed,4,"Male, Single",Co-Applicant,2,None,27,Bank,Own,2,Executive,1,yes,yes,Male,Single,1
+Below 200 DM,30,all credits at this bank paid back duly ,Furniture,3496,Above 1000 DM,"[1, 4) Years",4,"Male, Single",None,2,Car,34,Stores,Own,1,Skilled,2,yes,yes,Male,Single,1
+No Account,48,all credits at this bank paid back duly ,Business,3609,Below 100 DM,"[1, 4) Years",1,"Female, Divorced",None,1,Real Estate,27,Stores,Own,1,Skilled,1,no,yes,Female,Divorced,1
+None,12,critical account/ other credits existing (not at this bank),Car (New),4843,Below 100 DM,Above 7 Years,3,"Male, Single",Co-Applicant,4,Life Insurance,43,None,Rent,2,Skilled,1,yes,yes,Male,Single,0
+Above 200 DM,30,critical account/ other credits existing (not at this bank),Radio/TV,3017,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Life Insurance,47,None,Own,1,Skilled,1,no,yes,Male,Single,1
+No Account,24,critical account/ other credits existing (not at this bank),Business,4139,"[100, 500) DM","[1, 4) Years",3,"Male, Single",None,3,Life Insurance,27,None,Own,2,Unskilled Resident,1,yes,yes,Male,Single,1
+No Account,36,existing credits paid back duly till now ,Business,5742,"[100, 500) DM","[4, 7) Years",2,"Male, Single",None,2,Car,31,None,Own,2,Skilled,1,yes,yes,Male,Single,1
+No Account,60,existing credits paid back duly till now ,Car (New),10366,Below 100 DM,Above 7 Years,2,"Male, Single",None,4,Life Insurance,42,None,Own,1,Executive,1,yes,yes,Male,Single,1
+No Account,6,critical account/ other credits existing (not at this bank),Car (New),2080,"[500, 1000) DM","[1, 4) Years",1,"Male, Married/Widowed",None,2,Car,24,None,Own,1,Skilled,1,no,yes,Male,Married/Widowed,1
+No Account,21,delay in paying off in the past ,Business,2580,"[500, 1000) DM",<1 Year,4,"Male, Single",None,2,Real Estate,41,Bank,Own,1,Unskilled Resident,2,no,yes,Male,Single,0
+No Account,30,critical account/ other credits existing (not at this bank),Radio/TV,4530,Below 100 DM,"[4, 7) Years",4,"Female, Divorced",None,4,Car,26,None,Rent,1,Executive,1,yes,yes,Female,Divorced,1
+No Account,24,critical account/ other credits existing (not at this bank),Furniture,5150,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Car,33,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+Below 200 DM,72,existing credits paid back duly till now ,Radio/TV,5595,"[100, 500) DM","[1, 4) Years",2,"Male, Married/Widowed",None,2,Car,24,None,Own,1,Skilled,1,no,yes,Male,Married/Widowed,0
+None,24,existing credits paid back duly till now ,Radio/TV,2384,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Real Estate,64,Bank,Rent,1,Unskilled Resident,1,no,yes,Male,Single,1
+No Account,18,existing credits paid back duly till now ,Radio/TV,1453,Below 100 DM,<1 Year,3,"Female, Divorced",None,1,Real Estate,26,None,Own,1,Skilled,1,no,yes,Female,Divorced,1
+No Account,6,existing credits paid back duly till now ,Education,1538,Below 100 DM,<1 Year,1,"Female, Divorced",None,2,None,56,None,Own,1,Skilled,1,no,yes,Female,Divorced,1
+No Account,12,existing credits paid back duly till now ,Radio/TV,2279,None,"[1, 4) Years",4,"Male, Single",None,4,None,37,None,Free,1,Skilled,1,yes,yes,Male,Single,1
+No Account,15,delay in paying off in the past ,Radio/TV,1478,Below 100 DM,"[1, 4) Years",4,"Male, Married/Widowed",None,3,Real Estate,33,Bank,Own,2,Skilled,1,no,yes,Male,Married/Widowed,1
+No Account,24,critical account/ other credits existing (not at this bank),Radio/TV,5103,Below 100 DM,<1 Year,3,"Male, Married/Widowed",None,3,None,47,None,Free,3,Skilled,1,yes,yes,Male,Married/Widowed,1
+Below 200 DM,36,delay in paying off in the past ,Business,9857,"[100, 500) DM","[4, 7) Years",1,"Male, Single",None,3,Life Insurance,31,None,Own,2,Unskilled Resident,2,yes,yes,Male,Single,1
+No Account,60,existing credits paid back duly till now ,Car (New),6527,None,"[1, 4) Years",4,"Male, Single",None,4,None,34,None,Free,1,Skilled,2,yes,yes,Male,Single,1
+Above 200 DM,10,critical account/ other credits existing (not at this bank),Radio/TV,1347,None,"[4, 7) Years",4,"Male, Single",None,2,Life Insurance,27,None,Own,2,Skilled,1,yes,yes,Male,Single,1
+Below 200 DM,36,delay in paying off in the past ,Car (New),2862,"[100, 500) DM",Above 7 Years,4,"Male, Single",None,3,None,30,None,Free,1,Skilled,1,no,yes,Male,Single,1
+No Account,9,existing credits paid back duly till now ,Radio/TV,2753,"[100, 500) DM",Above 7 Years,3,"Male, Single",Co-Applicant,4,Car,35,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+None,12,existing credits paid back duly till now ,Car (New),3651,Above 1000 DM,"[1, 4) Years",1,"Male, Single",None,3,Life Insurance,31,None,Own,1,Skilled,2,no,yes,Male,Single,1
+None,15,critical account/ other credits existing (not at this bank),Furniture,975,Below 100 DM,"[1, 4) Years",2,"Male, Divorced",None,3,Life Insurance,25,None,Own,2,Skilled,1,no,yes,Male,Divorced,1
+Below 200 DM,15,existing credits paid back duly till now ,Repairs,2631,"[100, 500) DM","[1, 4) Years",3,"Female, Divorced",None,2,Real Estate,25,None,Own,1,Unskilled Resident,1,no,yes,Female,Divorced,1
+Below 200 DM,24,existing credits paid back duly till now ,Radio/TV,2896,"[100, 500) DM",<1 Year,2,"Male, Single",None,1,Car,29,None,Own,1,Skilled,1,no,yes,Male,Single,1
+None,6,critical account/ other credits existing (not at this bank),Car (New),4716,None,<1 Year,1,"Male, Single",None,3,Real Estate,44,None,Own,2,Unskilled Resident,2,no,yes,Male,Single,1
+No Account,24,existing credits paid back duly till now ,Radio/TV,2284,Below 100 DM,"[4, 7) Years",4,"Male, Single",None,2,Car,28,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+No Account,6,existing credits paid back duly till now ,Car (Used),1236,"[500, 1000) DM","[1, 4) Years",2,"Male, Single",None,4,Life Insurance,50,None,Rent,1,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,12,existing credits paid back duly till now ,Radio/TV,1103,Below 100 DM,"[4, 7) Years",4,"Male, Single",Guarantor,3,Real Estate,29,None,Own,2,Skilled,1,no,no,Male,Single,1
+No Account,12,critical account/ other credits existing (not at this bank),Car (New),926,Below 100 DM,Unemployed,1,"Female, Divorced",None,2,Life Insurance,38,None,Own,1,"Unemployed, Unskilled",1,no,yes,Female,Divorced,1
+No Account,18,critical account/ other credits existing (not at this bank),Radio/TV,1800,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,2,Car,24,None,Own,2,Skilled,1,no,yes,Male,Single,1
+Above 200 DM,15,existing credits paid back duly till now ,Education,1905,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Car,40,None,Rent,1,Executive,1,yes,yes,Male,Single,1
+No Account,12,existing credits paid back duly till now ,Furniture,1123,"[500, 1000) DM","[1, 4) Years",4,"Female, Divorced",None,4,Car,29,None,Rent,1,Unskilled Resident,1,no,yes,Female,Divorced,0
+None,48,critical account/ other credits existing (not at this bank),Car (Used),6331,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,None,46,None,Free,2,Skilled,1,yes,yes,Male,Single,0
+Above 200 DM,24,existing credits paid back duly till now ,Radio/TV,1377,"[100, 500) DM",Above 7 Years,4,"Female, Divorced",None,2,None,47,None,Free,1,Skilled,1,yes,yes,Female,Divorced,1
+Below 200 DM,30,delay in paying off in the past ,Business,2503,"[100, 500) DM",Above 7 Years,4,"Male, Single",None,2,Life Insurance,41,Stores,Own,2,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,27,existing credits paid back duly till now ,Business,2528,Below 100 DM,<1 Year,4,"Female, Divorced",None,1,Life Insurance,32,None,Own,1,Skilled,2,yes,yes,Female,Divorced,1
+No Account,15,existing credits paid back duly till now ,Car (New),5324,"[500, 1000) DM",Above 7 Years,1,"Female, Divorced",None,4,None,35,None,Free,1,Skilled,1,no,yes,Female,Divorced,1
+Below 200 DM,48,existing credits paid back duly till now ,Car (New),6560,"[100, 500) DM","[4, 7) Years",3,"Male, Single",None,2,Life Insurance,24,None,Own,1,Skilled,1,no,yes,Male,Single,0
+Below 200 DM,12,no credits taken/ all credits paid back duly ,Furniture,2969,Below 100 DM,<1 Year,4,"Female, Divorced",None,3,Life Insurance,25,None,Rent,2,Skilled,1,no,yes,Female,Divorced,0
+Below 200 DM,9,existing credits paid back duly till now ,Radio/TV,1206,Below 100 DM,Above 7 Years,4,"Female, Divorced",None,4,Real Estate,25,None,Own,1,Skilled,1,no,yes,Female,Divorced,1
+Below 200 DM,9,existing credits paid back duly till now ,Radio/TV,2118,Below 100 DM,"[1, 4) Years",2,"Male, Single",None,2,Real Estate,37,None,Own,1,Unskilled Resident,2,no,yes,Male,Single,1
+No Account,18,critical account/ other credits existing (not at this bank),Radio/TV,629,"[500, 1000) DM",Above 7 Years,4,"Male, Single",None,3,Life Insurance,32,Bank,Own,2,Executive,1,yes,yes,Male,Single,1
+None,6,all credits at this bank paid back duly ,Education,1198,Below 100 DM,Above 7 Years,4,"Female, Divorced",None,4,None,35,None,Free,1,Skilled,1,no,yes,Female,Divorced,0
+No Account,21,existing credits paid back duly till now ,Car (Used),2476,None,Above 7 Years,4,"Male, Single",None,4,Real Estate,46,None,Own,1,Executive,1,yes,yes,Male,Single,1
+None,9,critical account/ other credits existing (not at this bank),Radio/TV,1138,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,4,Real Estate,25,None,Own,2,Unskilled Resident,1,no,yes,Male,Single,1
+Below 200 DM,60,existing credits paid back duly till now ,Car (New),14027,Below 100 DM,"[4, 7) Years",4,"Male, Single",None,2,None,27,None,Own,1,Executive,1,yes,yes,Male,Single,0
+No Account,30,critical account/ other credits existing (not at this bank),Car (Used),7596,None,Above 7 Years,1,"Male, Single",None,4,Car,63,None,Own,2,Skilled,1,no,yes,Male,Single,1
+No Account,30,critical account/ other credits existing (not at this bank),Radio/TV,3077,None,Above 7 Years,3,"Male, Single",None,2,Car,40,None,Own,2,Skilled,2,yes,yes,Male,Single,1
+No Account,18,existing credits paid back duly till now ,Radio/TV,1505,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,2,None,32,None,Free,1,Executive,1,yes,yes,Male,Single,1
+Above 200 DM,24,critical account/ other credits existing (not at this bank),Radio/TV,3148,None,"[1, 4) Years",3,"Male, Single",None,2,Car,31,None,Own,2,Skilled,1,yes,yes,Male,Single,1
+Below 200 DM,20,no credits taken/ all credits paid back duly ,Car (Used),6148,"[100, 500) DM",Above 7 Years,3,"Male, Married/Widowed",None,4,Car,31,Bank,Own,2,Skilled,1,yes,yes,Male,Married/Widowed,1
+Above 200 DM,9,no credits taken/ all credits paid back duly ,Radio/TV,1337,Below 100 DM,<1 Year,4,"Male, Single",None,2,Car,34,None,Own,2,Executive,1,yes,yes,Male,Single,0
+Below 200 DM,6,all credits at this bank paid back duly ,Education,433,Above 1000 DM,<1 Year,4,"Female, Divorced",None,2,Life Insurance,24,Bank,Rent,1,Skilled,2,no,yes,Female,Divorced,0
+None,12,existing credits paid back duly till now ,Car (New),1228,Below 100 DM,"[1, 4) Years",4,"Female, Divorced",None,2,Real Estate,24,None,Own,1,Unskilled Resident,1,no,yes,Female,Divorced,0
+Below 200 DM,9,existing credits paid back duly till now ,Radio/TV,790,"[500, 1000) DM","[1, 4) Years",4,"Female, Divorced",None,3,Real Estate,66,None,Own,1,Unskilled Resident,1,no,yes,Female,Divorced,1
+No Account,27,existing credits paid back duly till now ,Car (New),2570,Below 100 DM,"[1, 4) Years",3,"Female, Divorced",None,3,Real Estate,21,None,Rent,1,Skilled,1,no,yes,Female,Divorced,0
+No Account,6,critical account/ other credits existing (not at this bank),Car (New),250,Above 1000 DM,"[1, 4) Years",2,"Female, Divorced",None,2,Real Estate,41,Bank,Own,2,Unskilled Resident,1,no,yes,Female,Divorced,1
+No Account,15,critical account/ other credits existing (not at this bank),Radio/TV,1316,"[500, 1000) DM","[1, 4) Years",2,"Male, Married/Widowed",None,2,Life Insurance,47,None,Own,2,Unskilled Resident,1,no,yes,Male,Married/Widowed,1
+None,18,existing credits paid back duly till now ,Radio/TV,1882,Below 100 DM,"[1, 4) Years",4,"Female, Divorced",None,4,Car,25,Bank,Rent,2,Skilled,1,no,yes,Female,Divorced,0
+Below 200 DM,48,all credits at this bank paid back duly ,Business,6416,Below 100 DM,Above 7 Years,4,"Female, Divorced",None,3,None,59,None,Rent,1,Skilled,1,no,yes,Female,Divorced,0
+Above 200 DM,24,critical account/ other credits existing (not at this bank),Business,1275,Above 1000 DM,"[1, 4) Years",2,"Male, Divorced",None,4,Real Estate,36,None,Own,2,Skilled,1,yes,yes,Male,Divorced,1
+Below 200 DM,24,delay in paying off in the past ,Radio/TV,6403,Below 100 DM,<1 Year,1,"Male, Single",None,2,Car,33,None,Own,1,Skilled,1,no,yes,Male,Single,1
+None,24,existing credits paid back duly till now ,Radio/TV,1987,Below 100 DM,"[1, 4) Years",2,"Male, Single",None,4,Real Estate,21,None,Rent,1,Unskilled Resident,2,no,yes,Male,Single,0
+Below 200 DM,8,existing credits paid back duly till now ,Radio/TV,760,Below 100 DM,"[4, 7) Years",4,"Female, Divorced",Guarantor,2,Real Estate,44,None,Own,1,Unskilled Resident,1,no,yes,Female,Divorced,1
+No Account,24,existing credits paid back duly till now ,Car (Used),2603,Above 1000 DM,"[1, 4) Years",2,"Female, Divorced",None,4,Car,28,None,Rent,1,Skilled,1,yes,yes,Female,Divorced,1
+No Account,4,critical account/ other credits existing (not at this bank),Car (New),3380,Below 100 DM,"[4, 7) Years",1,"Female, Divorced",None,1,Real Estate,37,None,Own,1,Skilled,2,no,yes,Female,Divorced,1
+Below 200 DM,36,all credits at this bank paid back duly ,Appliances,3990,None,<1 Year,3,"Female, Divorced",None,2,None,29,Bank,Own,1,"Unemployed, Unskilled",1,no,yes,Female,Divorced,1
+Below 200 DM,24,existing credits paid back duly till now ,Car (Used),11560,Below 100 DM,"[1, 4) Years",1,"Female, Divorced",None,4,Car,23,None,Rent,2,Executive,1,no,yes,Female,Divorced,0
+None,18,existing credits paid back duly till now ,Car (New),4380,"[100, 500) DM","[1, 4) Years",3,"Male, Single",None,4,Car,35,None,Own,1,Unskilled Resident,2,yes,yes,Male,Single,1
+No Account,6,critical account/ other credits existing (not at this bank),Car (New),6761,Below 100 DM,"[4, 7) Years",1,"Male, Single",None,3,None,45,None,Own,2,Executive,2,yes,yes,Male,Single,1
+Below 200 DM,30,no credits taken/ all credits paid back duly ,Business,4280,"[100, 500) DM","[1, 4) Years",4,"Female, Divorced",None,4,Car,26,None,Rent,2,Unskilled Resident,1,no,yes,Female,Divorced,0
+None,24,all credits at this bank paid back duly ,Car (New),2325,"[100, 500) DM","[4, 7) Years",2,"Male, Single",None,3,Car,32,Bank,Own,1,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,10,all credits at this bank paid back duly ,Radio/TV,1048,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,4,Real Estate,23,Stores,Own,1,Unskilled Resident,1,no,yes,Male,Single,1
+No Account,21,existing credits paid back duly till now ,Radio/TV,3160,None,Above 7 Years,4,"Male, Single",None,3,Life Insurance,41,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+None,24,all credits at this bank paid back duly ,Furniture,2483,"[500, 1000) DM","[1, 4) Years",4,"Male, Single",None,4,Real Estate,22,Stores,Own,1,Skilled,1,yes,yes,Male,Single,1
+None,39,critical account/ other credits existing (not at this bank),Furniture,14179,None,"[4, 7) Years",4,"Male, Single",None,4,Life Insurance,30,None,Own,2,Executive,1,yes,yes,Male,Single,1
+None,13,critical account/ other credits existing (not at this bank),Business,1797,Below 100 DM,<1 Year,3,"Male, Single",None,1,Life Insurance,28,Bank,Own,2,Unskilled Resident,1,no,yes,Male,Single,1
+None,15,existing credits paid back duly till now ,Car (New),2511,Below 100 DM,Unemployed,1,"Female, Divorced",None,4,Car,23,None,Rent,1,Skilled,1,no,yes,Female,Divorced,1
+None,12,existing credits paid back duly till now ,Car (New),1274,Below 100 DM,<1 Year,3,"Female, Divorced",None,1,Real Estate,37,None,Own,1,Unskilled Resident,1,no,yes,Female,Divorced,0
+No Account,21,existing credits paid back duly till now ,Car (Used),5248,None,"[1, 4) Years",1,"Male, Single",None,3,Car,26,None,Own,1,Skilled,1,no,yes,Male,Single,1
+No Account,15,existing credits paid back duly till now ,Car (Used),3029,Below 100 DM,"[4, 7) Years",2,"Male, Single",None,2,Car,33,None,Own,1,Skilled,1,no,yes,Male,Single,1
+None,6,existing credits paid back duly till now ,Furniture,428,Below 100 DM,Above 7 Years,2,"Female, Divorced",None,1,Life Insurance,49,Bank,Own,1,Skilled,1,yes,yes,Female,Divorced,1
+None,18,existing credits paid back duly till now ,Car (New),976,Below 100 DM,<1 Year,1,"Female, Divorced",None,2,Car,23,None,Own,1,Unskilled Resident,1,no,yes,Female,Divorced,0
+Below 200 DM,12,existing credits paid back duly till now ,Business,841,"[100, 500) DM","[4, 7) Years",2,"Female, Divorced",None,4,Real Estate,23,None,Rent,1,Unskilled Resident,1,no,yes,Female,Divorced,1
+No Account,30,critical account/ other credits existing (not at this bank),Radio/TV,5771,Below 100 DM,"[4, 7) Years",4,"Female, Divorced",None,2,Car,25,None,Own,2,Skilled,1,no,yes,Female,Divorced,1
+No Account,12,delay in paying off in the past ,Repairs,1555,Above 1000 DM,Above 7 Years,4,"Male, Single",None,4,None,55,None,Free,2,Skilled,2,no,yes,Male,Single,0
+None,24,existing credits paid back duly till now ,Car (New),1285,None,"[4, 7) Years",4,"Female, Divorced",None,4,None,32,None,Rent,1,Skilled,1,no,yes,Female,Divorced,0
+Above 200 DM,6,critical account/ other credits existing (not at this bank),Car (New),1299,Below 100 DM,"[1, 4) Years",1,"Male, Single",None,1,Real Estate,74,None,Own,3,"Unemployed, Unskilled",2,no,no,Male,Single,1
+Above 200 DM,15,critical account/ other credits existing (not at this bank),Radio/TV,1271,None,"[1, 4) Years",3,"Male, Single",None,4,None,39,None,Free,2,Skilled,1,yes,yes,Male,Single,0
+No Account,24,existing credits paid back duly till now ,Car (New),1393,Below 100 DM,"[1, 4) Years",2,"Male, Single",Guarantor,2,Real Estate,31,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+None,12,critical account/ other credits existing (not at this bank),Car (New),691,Below 100 DM,Above 7 Years,4,"Male, Single",None,3,Life Insurance,35,None,Own,2,Skilled,1,no,yes,Male,Single,0
+No Account,15,critical account/ other credits existing (not at this bank),Car (New),5045,None,Above 7 Years,1,"Female, Divorced",None,4,Car,59,None,Own,1,Skilled,1,yes,yes,Female,Divorced,1
+None,18,critical account/ other credits existing (not at this bank),Furniture,2124,Below 100 DM,"[1, 4) Years",4,"Female, Divorced",None,4,Real Estate,24,None,Rent,2,Skilled,1,no,yes,Female,Divorced,0
+None,12,existing credits paid back duly till now ,Radio/TV,2214,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,3,Life Insurance,24,None,Own,1,Unskilled Resident,1,no,yes,Male,Single,1
+No Account,21,critical account/ other credits existing (not at this bank),Car (New),12680,None,Above 7 Years,4,"Male, Single",None,4,None,30,None,Free,1,Executive,1,yes,yes,Male,Single,0
+No Account,24,critical account/ other credits existing (not at this bank),Car (New),2463,"[100, 500) DM","[4, 7) Years",4,"Male, Married/Widowed",None,3,Life Insurance,27,None,Own,2,Skilled,1,yes,yes,Male,Married/Widowed,1
+Below 200 DM,12,existing credits paid back duly till now ,Radio/TV,1155,Below 100 DM,Above 7 Years,3,"Male, Married/Widowed",Guarantor,3,Real Estate,40,Bank,Own,2,Unskilled Resident,1,no,yes,Male,Married/Widowed,1
+None,30,existing credits paid back duly till now ,Furniture,3108,Below 100 DM,<1 Year,2,"Male, Divorced",None,4,Life Insurance,31,None,Own,1,Unskilled Resident,1,no,yes,Male,Divorced,0
+No Account,10,existing credits paid back duly till now ,Car (Used),2901,None,<1 Year,1,"Female, Divorced",None,4,Real Estate,31,None,Rent,1,Skilled,1,no,yes,Female,Divorced,1
+Below 200 DM,12,critical account/ other credits existing (not at this bank),Furniture,3617,Below 100 DM,Above 7 Years,1,"Male, Single",None,4,Car,28,None,Rent,3,Skilled,1,yes,yes,Male,Single,1
+No Account,12,critical account/ other credits existing (not at this bank),Radio/TV,1655,Below 100 DM,Above 7 Years,2,"Male, Single",None,4,Real Estate,63,None,Own,2,Unskilled Resident,1,yes,yes,Male,Single,1
+None,24,existing credits paid back duly till now ,Car (Used),2812,None,Above 7 Years,2,"Female, Divorced",None,4,Real Estate,26,None,Rent,1,Skilled,1,no,yes,Female,Divorced,1
+None,36,critical account/ other credits existing (not at this bank),Education,8065,Below 100 DM,"[1, 4) Years",3,"Female, Divorced",None,2,None,25,None,Own,2,Executive,1,yes,yes,Female,Divorced,0
+No Account,21,critical account/ other credits existing (not at this bank),Car (Used),3275,Below 100 DM,Above 7 Years,1,"Male, Single",None,4,Car,36,None,Own,1,Executive,1,yes,yes,Male,Single,1
+No Account,24,critical account/ other credits existing (not at this bank),Radio/TV,2223,"[100, 500) DM",Above 7 Years,4,"Male, Single",None,4,Life Insurance,52,Bank,Own,2,Skilled,1,no,yes,Male,Single,1
+Above 200 DM,12,critical account/ other credits existing (not at this bank),Car (New),1480,"[500, 1000) DM",Unemployed,2,"Male, Single",None,4,None,66,Bank,Free,3,"Unemployed, Unskilled",1,no,yes,Male,Single,1
+None,24,existing credits paid back duly till now ,Car (New),1371,None,"[1, 4) Years",4,"Female, Divorced",None,4,Real Estate,25,None,Rent,1,Skilled,1,no,yes,Female,Divorced,0
+No Account,36,critical account/ other credits existing (not at this bank),Car (New),3535,Below 100 DM,"[4, 7) Years",4,"Male, Single",None,4,Car,37,None,Own,2,Skilled,1,yes,yes,Male,Single,1
+None,18,existing credits paid back duly till now ,Radio/TV,3509,Below 100 DM,"[4, 7) Years",4,"Female, Divorced",Guarantor,1,Real Estate,25,None,Own,1,Skilled,1,no,yes,Female,Divorced,1
+No Account,36,critical account/ other credits existing (not at this bank),Car (Used),5711,Above 1000 DM,Above 7 Years,4,"Male, Single",None,2,Car,38,None,Own,2,Executive,1,yes,yes,Male,Single,1
+Below 200 DM,18,existing credits paid back duly till now ,Repairs,3872,Below 100 DM,Unemployed,2,"Female, Divorced",None,4,Car,67,None,Own,1,Skilled,1,yes,yes,Female,Divorced,1
+Below 200 DM,39,critical account/ other credits existing (not at this bank),Radio/TV,4933,Below 100 DM,"[4, 7) Years",2,"Male, Single",Guarantor,2,Real Estate,25,None,Own,2,Skilled,1,no,yes,Male,Single,0
+No Account,24,critical account/ other credits existing (not at this bank),Car (New),1940,Above 1000 DM,Above 7 Years,4,"Male, Single",None,4,Real Estate,60,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+Below 200 DM,12,no credits taken/ all credits paid back duly ,Retraining,1410,Below 100 DM,"[1, 4) Years",2,"Male, Single",None,2,Real Estate,31,None,Own,1,Unskilled Resident,1,yes,yes,Male,Single,1
+Below 200 DM,12,existing credits paid back duly till now ,Car (New),836,"[100, 500) DM",<1 Year,4,"Female, Divorced",None,2,Life Insurance,23,Bank,Own,1,Unskilled Resident,1,no,yes,Female,Divorced,0
+Below 200 DM,20,existing credits paid back duly till now ,Car (Used),6468,None,Unemployed,1,"Male, Divorced",None,4,Real Estate,60,None,Own,1,Executive,1,yes,yes,Male,Divorced,1
+Below 200 DM,18,existing credits paid back duly till now ,Business,1941,Above 1000 DM,"[1, 4) Years",4,"Male, Single",None,2,Life Insurance,35,None,Own,1,Unskilled Resident,1,yes,yes,Male,Single,1
+No Account,22,existing credits paid back duly till now ,Radio/TV,2675,"[500, 1000) DM",Above 7 Years,3,"Male, Single",None,4,Car,40,None,Own,1,Skilled,1,no,yes,Male,Single,1
+No Account,48,critical account/ other credits existing (not at this bank),Car (Used),2751,None,Above 7 Years,4,"Male, Single",None,3,Car,38,None,Own,2,Skilled,2,yes,yes,Male,Single,1
+Below 200 DM,48,delay in paying off in the past ,Education,6224,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,None,50,None,Free,1,Skilled,1,no,yes,Male,Single,0
+None,40,critical account/ other credits existing (not at this bank),Education,5998,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,3,None,27,Bank,Own,1,Skilled,1,yes,yes,Male,Single,0
+Below 200 DM,21,existing credits paid back duly till now ,Business,1188,Below 100 DM,Above 7 Years,2,"Female, Divorced",None,4,Life Insurance,39,None,Own,1,Skilled,2,no,yes,Female,Divorced,0
+No Account,24,existing credits paid back duly till now ,Car (Used),6313,None,Above 7 Years,3,"Male, Single",None,4,Car,41,None,Own,1,Executive,2,yes,yes,Male,Single,1
+No Account,6,critical account/ other credits existing (not at this bank),Furniture,1221,None,"[1, 4) Years",1,"Male, Married/Widowed",None,2,Life Insurance,27,None,Own,2,Skilled,1,no,yes,Male,Married/Widowed,1
+Above 200 DM,24,existing credits paid back duly till now ,Furniture,2892,Below 100 DM,Above 7 Years,3,"Male, Divorced",None,4,None,51,None,Free,1,Skilled,1,no,yes,Male,Divorced,1
+No Account,24,existing credits paid back duly till now ,Furniture,3062,"[500, 1000) DM",Above 7 Years,4,"Male, Single",None,3,None,32,None,Rent,1,Skilled,1,yes,yes,Male,Single,1
+No Account,9,existing credits paid back duly till now ,Furniture,2301,"[100, 500) DM",<1 Year,2,"Female, Divorced",None,4,Life Insurance,22,None,Rent,1,Skilled,1,no,yes,Female,Divorced,1
+None,18,existing credits paid back duly till now ,Car (Used),7511,None,Above 7 Years,1,"Male, Single",None,4,Life Insurance,51,None,Free,1,Skilled,2,yes,yes,Male,Single,0
+No Account,12,critical account/ other credits existing (not at this bank),Furniture,1258,Below 100 DM,<1 Year,2,"Female, Divorced",None,4,Life Insurance,22,None,Rent,2,Unskilled Resident,1,no,yes,Female,Divorced,1
+No Account,24,delay in paying off in the past ,Car (New),717,None,Above 7 Years,4,"Male, Married/Widowed",None,4,Car,54,None,Own,2,Skilled,1,yes,yes,Male,Married/Widowed,1
+Below 200 DM,9,existing credits paid back duly till now ,Car (New),1549,None,<1 Year,4,"Male, Single",None,2,Real Estate,35,None,Own,1,"Unemployed, Unskilled",1,no,yes,Male,Single,1
+No Account,24,critical account/ other credits existing (not at this bank),Education,1597,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,None,54,None,Free,2,Skilled,2,no,yes,Male,Single,1
+Below 200 DM,18,critical account/ other credits existing (not at this bank),Radio/TV,1795,Below 100 DM,Above 7 Years,3,"Female, Divorced",Guarantor,4,Real Estate,48,Bank,Rent,2,Unskilled Resident,1,yes,yes,Female,Divorced,1
+None,20,critical account/ other credits existing (not at this bank),Furniture,4272,Below 100 DM,Above 7 Years,1,"Female, Divorced",None,4,Life Insurance,24,None,Own,2,Skilled,1,no,yes,Female,Divorced,1
+No Account,12,critical account/ other credits existing (not at this bank),Radio/TV,976,None,Above 7 Years,4,"Male, Single",None,4,Car,35,None,Own,2,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,12,existing credits paid back duly till now ,Car (New),7472,None,Unemployed,1,"Female, Divorced",None,2,Real Estate,24,None,Rent,1,"Unemployed, Unskilled",1,no,yes,Female,Divorced,1
+None,36,existing credits paid back duly till now ,Car (New),9271,Below 100 DM,"[4, 7) Years",2,"Male, Single",None,1,Car,24,None,Own,1,Skilled,1,yes,yes,Male,Single,0
+Below 200 DM,6,existing credits paid back duly till now ,Radio/TV,590,Below 100 DM,<1 Year,3,"Male, Married/Widowed",None,3,Real Estate,26,None,Own,1,Unskilled Resident,1,no,no,Male,Married/Widowed,1
+No Account,12,critical account/ other credits existing (not at this bank),Radio/TV,930,None,Above 7 Years,4,"Male, Single",None,4,Real Estate,65,None,Own,4,Skilled,1,no,yes,Male,Single,1
+Below 200 DM,42,all credits at this bank paid back duly ,Car (Used),9283,Below 100 DM,Unemployed,1,"Male, Single",None,2,None,55,Bank,Free,1,Executive,1,yes,yes,Male,Single,1
+Below 200 DM,15,no credits taken/ all credits paid back duly ,Car (New),1778,Below 100 DM,<1 Year,2,"Female, Divorced",None,1,Real Estate,26,None,Rent,2,"Unemployed, Unskilled",1,no,yes,Female,Divorced,0
+Below 200 DM,8,existing credits paid back duly till now ,Business,907,Below 100 DM,<1 Year,3,"Male, Married/Widowed",None,2,Real Estate,26,None,Own,1,Skilled,1,yes,yes,Male,Married/Widowed,1
+Below 200 DM,6,existing credits paid back duly till now ,Radio/TV,484,Below 100 DM,"[4, 7) Years",3,"Male, Married/Widowed",Guarantor,3,Real Estate,28,Bank,Own,1,Unskilled Resident,1,no,yes,Male,Married/Widowed,1
+None,36,critical account/ other credits existing (not at this bank),Car (Used),9629,Below 100 DM,"[4, 7) Years",4,"Male, Single",None,4,Car,24,None,Own,2,Skilled,1,yes,yes,Male,Single,0
+None,48,existing credits paid back duly till now ,Appliances,3051,Below 100 DM,"[1, 4) Years",3,"Male, Single",None,4,Car,54,None,Own,1,Skilled,1,no,yes,Male,Single,0
+None,48,existing credits paid back duly till now ,Car (New),3931,Below 100 DM,"[4, 7) Years",4,"Male, Single",None,4,None,46,None,Free,1,Skilled,2,no,yes,Male,Single,0
+Below 200 DM,36,delay in paying off in the past ,Car (New),7432,Below 100 DM,"[1, 4) Years",2,"Female, Divorced",None,2,Life Insurance,54,None,Rent,1,Skilled,1,no,yes,Female,Divorced,1
+No Account,6,existing credits paid back duly till now ,Appliances,1338,"[500, 1000) DM","[1, 4) Years",1,"Male, Divorced",None,4,Real Estate,62,None,Own,1,Skilled,1,no,yes,Male,Divorced,1
+No Account,6,critical account/ other credits existing (not at this bank),Radio/TV,1554,Below 100 DM,"[4, 7) Years",1,"Female, Divorced",None,2,Car,24,None,Rent,2,Skilled,1,yes,yes,Female,Divorced,1
+None,36,existing credits paid back duly till now ,Others,15857,Below 100 DM,Unemployed,2,"Male, Divorced",Co-Applicant,3,Car,43,None,Own,1,Executive,1,no,yes,Male,Divorced,1
+None,18,existing credits paid back duly till now ,Radio/TV,1345,Below 100 DM,"[1, 4) Years",4,"Male, Married/Widowed",None,3,Real Estate,26,Bank,Own,1,Skilled,1,no,yes,Male,Married/Widowed,0
+No Account,12,existing credits paid back duly till now ,Car (New),1101,Below 100 DM,"[1, 4) Years",3,"Male, Married/Widowed",None,2,Real Estate,27,None,Own,2,Skilled,1,yes,yes,Male,Married/Widowed,1
+Above 200 DM,12,existing credits paid back duly till now ,Radio/TV,3016,Below 100 DM,"[1, 4) Years",3,"Male, Married/Widowed",None,1,Car,24,None,Own,1,Skilled,1,no,yes,Male,Married/Widowed,1
+None,36,existing credits paid back duly till now ,Furniture,2712,Below 100 DM,Above 7 Years,2,"Male, Single",None,2,Life Insurance,41,Bank,Own,1,Skilled,2,no,yes,Male,Single,0
+None,8,critical account/ other credits existing (not at this bank),Car (New),731,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Real Estate,47,None,Own,2,Unskilled Resident,1,no,yes,Male,Single,1
+No Account,18,critical account/ other credits existing (not at this bank),Furniture,3780,Below 100 DM,<1 Year,3,"Male, Divorced",None,2,Car,35,None,Own,2,Executive,1,yes,yes,Male,Divorced,1
+None,21,critical account/ other credits existing (not at this bank),Car (New),1602,Below 100 DM,Above 7 Years,4,"Male, Married/Widowed",None,3,Car,30,None,Own,2,Skilled,1,yes,yes,Male,Married/Widowed,1
+None,18,critical account/ other credits existing (not at this bank),Car (New),3966,Below 100 DM,Above 7 Years,1,"Female, Divorced",None,4,Real Estate,33,Bank,Rent,3,Skilled,1,yes,yes,Female,Divorced,0
+No Account,18,no credits taken/ all credits paid back duly ,Business,4165,Below 100 DM,"[1, 4) Years",2,"Male, Single",None,2,Car,36,Stores,Own,2,Skilled,2,no,yes,Male,Single,0
+None,36,existing credits paid back duly till now ,Car (Used),8335,None,Above 7 Years,3,"Male, Single",None,4,None,47,None,Free,1,Skilled,1,no,yes,Male,Single,0
+Below 200 DM,48,delay in paying off in the past ,Business,6681,None,"[1, 4) Years",4,"Male, Single",None,4,None,38,None,Free,1,Skilled,2,yes,yes,Male,Single,1
+No Account,24,delay in paying off in the past ,Business,2375,"[500, 1000) DM","[1, 4) Years",4,"Male, Single",None,2,Car,44,None,Own,2,Skilled,2,yes,yes,Male,Single,1
+None,18,existing credits paid back duly till now ,Car (New),1216,Below 100 DM,<1 Year,4,"Female, Divorced",None,3,Car,23,None,Rent,1,Skilled,1,yes,yes,Female,Divorced,0
+None,45,no credits taken/ all credits paid back duly ,Business,11816,Below 100 DM,Above 7 Years,2,"Male, Single",None,4,Car,29,None,Rent,2,Skilled,1,no,yes,Male,Single,0
+Below 200 DM,24,existing credits paid back duly till now ,Radio/TV,5084,None,Above 7 Years,2,"Female, Divorced",None,4,Car,42,None,Own,1,Skilled,1,yes,yes,Female,Divorced,1
+Above 200 DM,15,existing credits paid back duly till now ,Radio/TV,2327,Below 100 DM,<1 Year,2,"Female, Divorced",None,3,Real Estate,25,None,Own,1,Unskilled Resident,1,no,yes,Female,Divorced,0
+None,12,no credits taken/ all credits paid back duly ,Car (New),1082,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,4,Car,48,Bank,Own,2,Skilled,1,no,yes,Male,Single,0
+No Account,12,existing credits paid back duly till now ,Radio/TV,886,None,"[1, 4) Years",4,"Female, Divorced",None,2,Car,21,None,Own,1,Skilled,1,no,yes,Female,Divorced,1
+No Account,4,existing credits paid back duly till now ,Furniture,601,Below 100 DM,<1 Year,1,"Female, Divorced",None,3,Real Estate,23,None,Rent,1,Unskilled Resident,2,no,yes,Female,Divorced,1
+None,24,critical account/ other credits existing (not at this bank),Car (Used),2957,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Life Insurance,63,None,Own,2,Skilled,1,yes,yes,Male,Single,1
+No Account,24,critical account/ other credits existing (not at this bank),Radio/TV,2611,Below 100 DM,Above 7 Years,4,"Male, Married/Widowed",Co-Applicant,3,Real Estate,46,None,Own,2,Skilled,1,no,yes,Male,Married/Widowed,1
+None,36,existing credits paid back duly till now ,Furniture,5179,Below 100 DM,"[4, 7) Years",4,"Male, Single",None,2,Life Insurance,29,None,Own,1,Skilled,1,no,yes,Male,Single,0
+No Account,21,delay in paying off in the past ,Car (Used),2993,Below 100 DM,"[1, 4) Years",3,"Male, Single",None,2,Real Estate,28,Stores,Own,2,Unskilled Resident,1,no,yes,Male,Single,1
+No Account,18,existing credits paid back duly till now ,Repairs,1943,Below 100 DM,<1 Year,4,"Female, Divorced",None,4,Real Estate,23,None,Own,1,Skilled,1,no,yes,Female,Divorced,0
+No Account,24,all credits at this bank paid back duly ,Business,1559,Below 100 DM,"[4, 7) Years",4,"Male, Single",None,4,Car,50,Bank,Own,1,Skilled,1,yes,yes,Male,Single,1
+No Account,18,existing credits paid back duly till now ,Furniture,3422,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Life Insurance,47,Bank,Own,3,Skilled,2,yes,yes,Male,Single,1
+Below 200 DM,21,existing credits paid back duly till now ,Furniture,3976,None,"[4, 7) Years",2,"Male, Single",None,3,Car,35,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+No Account,18,existing credits paid back duly till now ,Car (New),6761,None,"[1, 4) Years",2,"Male, Single",None,4,Car,68,None,Rent,2,Skilled,1,no,yes,Male,Single,0
+No Account,24,existing credits paid back duly till now ,Car (New),1249,Below 100 DM,<1 Year,4,"Male, Married/Widowed",None,2,Real Estate,28,None,Own,1,Skilled,1,no,yes,Male,Married/Widowed,1
+None,9,existing credits paid back duly till now ,Radio/TV,1364,Below 100 DM,"[4, 7) Years",3,"Male, Single",None,4,Real Estate,59,None,Own,1,Skilled,1,no,yes,Male,Single,1
+None,12,existing credits paid back duly till now ,Radio/TV,709,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Real Estate,57,Stores,Own,1,Unskilled Resident,1,no,yes,Male,Single,0
+None,20,critical account/ other credits existing (not at this bank),Car (New),2235,Below 100 DM,"[1, 4) Years",4,"Male, Married/Widowed",Guarantor,2,Life Insurance,33,Bank,Rent,2,Skilled,1,no,no,Male,Married/Widowed,0
+No Account,24,critical account/ other credits existing (not at this bank),Car (Used),4042,None,"[4, 7) Years",3,"Male, Single",None,4,Life Insurance,43,None,Own,2,Skilled,1,yes,yes,Male,Single,1
+No Account,15,critical account/ other credits existing (not at this bank),Radio/TV,1471,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,4,None,35,None,Free,2,Skilled,1,yes,yes,Male,Single,1
+None,18,all credits at this bank paid back duly ,Car (New),1442,Below 100 DM,"[4, 7) Years",4,"Male, Single",None,4,None,32,None,Free,2,Unskilled Resident,2,no,yes,Male,Single,0
+No Account,36,delay in paying off in the past ,Car (New),10875,Below 100 DM,Above 7 Years,2,"Male, Single",None,2,Car,45,None,Own,2,Skilled,2,yes,yes,Male,Single,1
+No Account,24,existing credits paid back duly till now ,Car (New),1474,"[100, 500) DM",<1 Year,4,"Male, Married/Widowed",None,3,Real Estate,33,None,Own,1,Skilled,1,yes,yes,Male,Married/Widowed,1
+No Account,10,existing credits paid back duly till now ,Retraining,894,None,"[4, 7) Years",4,"Female, Divorced",None,3,Life Insurance,40,None,Own,1,Skilled,1,yes,yes,Female,Divorced,1
+No Account,15,critical account/ other credits existing (not at this bank),Furniture,3343,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,2,None,28,None,Free,1,Skilled,1,yes,yes,Male,Single,1
+None,15,existing credits paid back duly till now ,Car (New),3959,Below 100 DM,"[1, 4) Years",3,"Female, Divorced",None,2,Life Insurance,29,None,Own,1,Skilled,1,yes,yes,Female,Divorced,0
+No Account,9,existing credits paid back duly till now ,Car (New),3577,"[100, 500) DM","[1, 4) Years",1,"Male, Single",Guarantor,2,Real Estate,26,None,Rent,1,Skilled,2,no,no,Male,Single,1
+No Account,24,critical account/ other credits existing (not at this bank),Car (Used),5804,Above 1000 DM,"[1, 4) Years",4,"Male, Single",None,2,Real Estate,27,None,Own,2,Skilled,1,no,yes,Male,Single,1
+No Account,18,delay in paying off in the past ,Business,2169,Below 100 DM,"[1, 4) Years",4,"Male, Married/Widowed",None,2,Car,28,None,Own,1,Skilled,1,yes,yes,Male,Married/Widowed,0
+None,24,existing credits paid back duly till now ,Radio/TV,2439,Below 100 DM,<1 Year,4,"Female, Divorced",None,4,Real Estate,35,None,Own,1,Skilled,1,yes,yes,Female,Divorced,0
+No Account,27,critical account/ other credits existing (not at this bank),Furniture,4526,Above 1000 DM,<1 Year,4,"Male, Single",None,2,Real Estate,32,Stores,Own,2,Unskilled Resident,2,yes,yes,Male,Single,1
+No Account,10,existing credits paid back duly till now ,Furniture,2210,Below 100 DM,"[1, 4) Years",2,"Male, Single",None,2,Real Estate,25,Bank,Rent,1,Unskilled Resident,1,no,yes,Male,Single,0
+No Account,15,existing credits paid back duly till now ,Furniture,2221,"[500, 1000) DM","[1, 4) Years",2,"Female, Divorced",None,4,Car,20,None,Rent,1,Skilled,1,no,yes,Female,Divorced,1
+None,18,existing credits paid back duly till now ,Radio/TV,2389,Below 100 DM,<1 Year,4,"Female, Divorced",None,1,Car,27,Stores,Own,1,Skilled,1,no,yes,Female,Divorced,1
+No Account,12,critical account/ other credits existing (not at this bank),Furniture,3331,Below 100 DM,Above 7 Years,2,"Male, Single",None,4,Life Insurance,42,Stores,Own,1,Skilled,1,no,yes,Male,Single,1
+No Account,36,existing credits paid back duly till now ,Business,7409,None,Above 7 Years,3,"Male, Single",None,2,Life Insurance,37,None,Own,2,Skilled,1,no,yes,Male,Single,1
+None,12,existing credits paid back duly till now ,Furniture,652,Below 100 DM,Above 7 Years,4,"Female, Divorced",None,4,Life Insurance,24,None,Rent,1,Skilled,1,no,yes,Female,Divorced,1
+No Account,36,delay in paying off in the past ,Furniture,7678,"[500, 1000) DM","[4, 7) Years",2,"Female, Divorced",None,4,Car,40,None,Own,2,Skilled,1,yes,yes,Female,Divorced,1
+Above 200 DM,6,critical account/ other credits existing (not at this bank),Car (New),1343,Below 100 DM,Above 7 Years,1,"Male, Single",None,4,Real Estate,46,None,Own,2,Skilled,2,no,no,Male,Single,1
+None,24,critical account/ other credits existing (not at this bank),Business,1382,"[100, 500) DM","[4, 7) Years",4,"Male, Single",None,1,Real Estate,26,None,Own,2,Skilled,1,yes,yes,Male,Single,1
+No Account,15,existing credits paid back duly till now ,Appliances,874,None,<1 Year,4,"Female, Divorced",None,1,Real Estate,24,None,Own,1,Skilled,1,no,yes,Female,Divorced,1
+None,12,existing credits paid back duly till now ,Furniture,3590,Below 100 DM,"[1, 4) Years",2,"Male, Single",Co-Applicant,2,Life Insurance,29,None,Own,1,Unskilled Resident,2,no,yes,Male,Single,1
+Below 200 DM,11,critical account/ other credits existing (not at this bank),Car (New),1322,Above 1000 DM,"[1, 4) Years",4,"Female, Divorced",None,4,Car,40,None,Own,2,Skilled,1,no,yes,Female,Divorced,1
+None,18,all credits at this bank paid back duly ,Radio/TV,1940,Below 100 DM,<1 Year,3,"Male, Single",Co-Applicant,4,None,36,Bank,Free,1,Executive,1,yes,yes,Male,Single,1
+No Account,36,existing credits paid back duly till now ,Radio/TV,3595,Below 100 DM,Above 7 Years,4,"Male, Single",None,2,Car,28,None,Own,1,Skilled,1,no,yes,Male,Single,1
+None,9,existing credits paid back duly till now ,Car (New),1422,Below 100 DM,<1 Year,3,"Male, Single",None,2,None,27,None,Free,1,Executive,1,yes,yes,Male,Single,0
+No Account,30,critical account/ other credits existing (not at this bank),Radio/TV,6742,None,"[4, 7) Years",2,"Male, Single",None,3,Life Insurance,36,None,Own,2,Skilled,1,no,yes,Male,Single,1
+No Account,24,existing credits paid back duly till now ,Car (Used),7814,Below 100 DM,"[4, 7) Years",3,"Male, Single",None,3,Car,38,None,Own,1,Executive,1,yes,yes,Male,Single,1
+No Account,24,existing credits paid back duly till now ,Car (Used),9277,None,"[1, 4) Years",2,"Male, Divorced",None,4,None,48,None,Free,1,Skilled,1,yes,yes,Male,Divorced,1
+Below 200 DM,30,critical account/ other credits existing (not at this bank),Car (New),2181,None,Above 7 Years,4,"Male, Single",None,4,Real Estate,36,None,Own,2,Skilled,1,no,yes,Male,Single,1
+No Account,18,critical account/ other credits existing (not at this bank),Radio/TV,1098,Below 100 DM,Unemployed,4,"Female, Divorced",None,4,Car,65,None,Own,2,"Unemployed, Unskilled",1,no,yes,Female,Divorced,1
+Below 200 DM,24,existing credits paid back duly till now ,Furniture,4057,Below 100 DM,"[4, 7) Years",3,"Male, Divorced",None,3,Car,43,None,Own,1,Skilled,1,yes,yes,Male,Divorced,0
+None,12,existing credits paid back duly till now ,Education,795,Below 100 DM,<1 Year,4,"Female, Divorced",None,4,Life Insurance,53,None,Own,1,Skilled,1,no,yes,Female,Divorced,0
+Below 200 DM,24,critical account/ other credits existing (not at this bank),Business,2825,None,"[4, 7) Years",4,"Male, Single",None,3,None,34,None,Own,2,Skilled,2,yes,yes,Male,Single,1
+Below 200 DM,48,existing credits paid back duly till now ,Business,15672,Below 100 DM,"[1, 4) Years",2,"Male, Single",None,2,Car,23,None,Own,1,Skilled,1,yes,yes,Male,Single,0
+No Account,36,critical account/ other credits existing (not at this bank),Car (New),6614,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Car,34,None,Own,2,Executive,1,yes,yes,Male,Single,1
+No Account,28,all credits at this bank paid back duly ,Car (Used),7824,None,<1 Year,3,"Male, Single",Guarantor,4,Real Estate,40,Bank,Rent,2,Skilled,2,yes,yes,Male,Single,1
+None,27,critical account/ other credits existing (not at this bank),Business,2442,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Car,43,Stores,Own,4,Executive,2,yes,yes,Male,Single,1
+No Account,15,critical account/ other credits existing (not at this bank),Radio/TV,1829,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Car,46,None,Own,2,Skilled,1,yes,yes,Male,Single,1
+None,12,critical account/ other credits existing (not at this bank),Car (New),2171,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,4,Life Insurance,38,Bank,Own,2,Unskilled Resident,1,no,no,Male,Single,1
+Below 200 DM,36,critical account/ other credits existing (not at this bank),Car (Used),5800,Below 100 DM,"[1, 4) Years",3,"Male, Single",None,4,Car,34,None,Own,2,Skilled,1,yes,yes,Male,Single,1
+No Account,18,critical account/ other credits existing (not at this bank),Radio/TV,1169,None,"[1, 4) Years",4,"Male, Single",None,3,Life Insurance,29,None,Own,2,Skilled,1,yes,yes,Male,Single,1
+No Account,36,delay in paying off in the past ,Car (Used),8947,None,"[4, 7) Years",3,"Male, Single",None,2,Car,31,Stores,Own,1,Executive,2,yes,yes,Male,Single,1
+None,21,existing credits paid back duly till now ,Radio/TV,2606,Below 100 DM,<1 Year,4,"Female, Divorced",None,4,Life Insurance,28,None,Rent,1,Executive,1,yes,yes,Female,Divorced,1
+No Account,12,critical account/ other credits existing (not at this bank),Furniture,1592,Above 1000 DM,"[4, 7) Years",3,"Female, Divorced",None,2,Life Insurance,35,None,Own,1,Skilled,1,no,no,Female,Divorced,1
+No Account,15,existing credits paid back duly till now ,Furniture,2186,None,"[4, 7) Years",1,"Female, Divorced",None,4,Real Estate,33,Bank,Rent,1,Unskilled Resident,1,no,yes,Female,Divorced,1
+None,18,existing credits paid back duly till now ,Furniture,4153,Below 100 DM,"[1, 4) Years",2,"Male, Single",Co-Applicant,3,Car,42,None,Own,1,Skilled,1,no,yes,Male,Single,0
+None,16,critical account/ other credits existing (not at this bank),Car (New),2625,Below 100 DM,Above 7 Years,2,"Male, Single",Guarantor,4,Life Insurance,43,Bank,Rent,1,Skilled,1,yes,yes,Male,Single,0
+No Account,20,critical account/ other credits existing (not at this bank),Car (New),3485,None,<1 Year,2,"Male, Divorced",None,4,Real Estate,44,None,Own,2,Skilled,1,yes,yes,Male,Divorced,1
+No Account,36,critical account/ other credits existing (not at this bank),Car (Used),10477,None,Above 7 Years,2,"Male, Single",None,4,None,42,None,Free,2,Skilled,1,no,yes,Male,Single,1
+No Account,15,existing credits paid back duly till now ,Radio/TV,1386,None,"[1, 4) Years",4,"Male, Married/Widowed",None,2,Real Estate,40,None,Rent,1,Skilled,1,yes,yes,Male,Married/Widowed,1
+No Account,24,existing credits paid back duly till now ,Radio/TV,1278,Below 100 DM,Above 7 Years,4,"Male, Single",None,1,Real Estate,36,None,Own,1,Executive,1,yes,yes,Male,Single,1
+None,12,existing credits paid back duly till now ,Radio/TV,1107,Below 100 DM,"[1, 4) Years",2,"Male, Single",None,2,Real Estate,20,None,Rent,1,Executive,2,yes,yes,Male,Single,1
+None,21,existing credits paid back duly till now ,Car (New),3763,None,"[4, 7) Years",2,"Male, Single",Co-Applicant,2,Real Estate,24,None,Own,1,Unskilled Resident,1,no,no,Male,Single,1
+Below 200 DM,36,existing credits paid back duly till now ,Education,3711,None,"[1, 4) Years",2,"Male, Married/Widowed",None,2,Car,27,None,Own,1,Skilled,1,no,yes,Male,Married/Widowed,1
+No Account,15,delay in paying off in the past ,Car (Used),3594,Below 100 DM,<1 Year,1,"Female, Divorced",None,2,Life Insurance,46,None,Own,2,Unskilled Resident,1,no,yes,Female,Divorced,1
+Below 200 DM,9,existing credits paid back duly till now ,Car (New),3195,None,"[1, 4) Years",1,"Female, Divorced",None,2,Real Estate,33,None,Own,1,Unskilled Resident,1,no,yes,Female,Divorced,1
+No Account,36,delay in paying off in the past ,Radio/TV,4454,Below 100 DM,"[1, 4) Years",4,"Female, Divorced",None,4,Real Estate,34,None,Own,2,Skilled,1,no,yes,Female,Divorced,1
+Below 200 DM,24,critical account/ other credits existing (not at this bank),Furniture,4736,Below 100 DM,<1 Year,2,"Female, Divorced",None,4,Car,25,Bank,Own,1,Unskilled Resident,1,no,yes,Female,Divorced,0
+Below 200 DM,30,existing credits paid back duly till now ,Radio/TV,2991,None,Above 7 Years,2,"Female, Divorced",None,4,Car,25,None,Own,1,Skilled,1,no,yes,Female,Divorced,1
+No Account,11,existing credits paid back duly till now ,Business,2142,Above 1000 DM,Above 7 Years,1,"Male, Divorced",None,2,Real Estate,28,None,Own,1,Skilled,1,yes,yes,Male,Divorced,1
+None,24,all credits at this bank paid back duly ,Business,3161,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,2,Life Insurance,31,None,Rent,1,Skilled,1,yes,yes,Male,Single,0
+Below 200 DM,48,no credits taken/ all credits paid back duly ,Others,18424,Below 100 DM,"[1, 4) Years",1,"Female, Divorced",None,2,Life Insurance,32,Bank,Own,1,Executive,1,yes,no,Female,Divorced,0
+No Account,10,existing credits paid back duly till now ,Car (Used),2848,"[100, 500) DM","[1, 4) Years",1,"Male, Single",Co-Applicant,2,Real Estate,32,None,Own,1,Skilled,2,no,yes,Male,Single,1
+None,6,existing credits paid back duly till now ,Car (New),14896,Below 100 DM,Above 7 Years,1,"Male, Single",None,4,None,68,Bank,Own,1,Executive,1,yes,yes,Male,Single,0
+None,24,existing credits paid back duly till now ,Furniture,2359,"[100, 500) DM",Unemployed,1,"Male, Divorced",None,1,Life Insurance,33,None,Own,1,Skilled,1,no,yes,Male,Divorced,0
+None,24,existing credits paid back duly till now ,Furniture,3345,Below 100 DM,Above 7 Years,4,"Male, Single",None,2,Life Insurance,39,None,Rent,1,Executive,1,yes,yes,Male,Single,0
+No Account,18,critical account/ other credits existing (not at this bank),Furniture,1817,Below 100 DM,"[1, 4) Years",4,"Female, Divorced",None,2,None,28,None,Own,2,Skilled,1,no,yes,Female,Divorced,1
+No Account,48,delay in paying off in the past ,Radio/TV,12749,"[500, 1000) DM","[4, 7) Years",4,"Male, Single",None,1,Car,37,None,Own,1,Executive,1,yes,yes,Male,Single,1
+None,9,existing credits paid back duly till now ,Radio/TV,1366,Below 100 DM,<1 Year,3,"Female, Divorced",None,4,Life Insurance,22,None,Rent,1,Skilled,1,no,yes,Female,Divorced,0
+Below 200 DM,12,existing credits paid back duly till now ,Car (New),2002,Below 100 DM,"[4, 7) Years",3,"Male, Single",None,4,Life Insurance,30,None,Rent,1,Skilled,2,yes,yes,Male,Single,1
+None,24,all credits at this bank paid back duly ,Furniture,6872,Below 100 DM,<1 Year,2,"Male, Divorced",None,1,Life Insurance,55,Bank,Own,1,Skilled,1,yes,yes,Male,Divorced,0
+None,12,all credits at this bank paid back duly ,Car (New),697,Below 100 DM,<1 Year,4,"Male, Single",None,2,Car,46,Bank,Own,2,Skilled,1,yes,yes,Male,Single,0
+None,18,critical account/ other credits existing (not at this bank),Furniture,1049,Below 100 DM,<1 Year,4,"Female, Divorced",None,4,Life Insurance,21,None,Rent,1,Skilled,1,no,yes,Female,Divorced,1
+None,48,existing credits paid back duly till now ,Car (Used),10297,Below 100 DM,"[4, 7) Years",4,"Male, Single",None,4,None,39,Stores,Free,3,Skilled,2,yes,yes,Male,Single,0
+No Account,30,existing credits paid back duly till now ,Radio/TV,1867,None,Above 7 Years,4,"Male, Single",None,4,Car,58,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+None,12,delay in paying off in the past ,Car (New),1344,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,2,Real Estate,43,None,Own,2,Unskilled Resident,2,no,yes,Male,Single,1
+None,24,existing credits paid back duly till now ,Furniture,1747,Below 100 DM,<1 Year,4,"Male, Single",Co-Applicant,1,Life Insurance,24,None,Own,1,Unskilled Resident,1,no,no,Male,Single,1
+Below 200 DM,9,existing credits paid back duly till now ,Radio/TV,1670,Below 100 DM,<1 Year,4,"Female, Divorced",None,2,Car,22,None,Own,1,Skilled,1,yes,yes,Female,Divorced,0
+No Account,9,critical account/ other credits existing (not at this bank),Car (New),1224,Below 100 DM,"[1, 4) Years",3,"Male, Single",None,1,Real Estate,30,None,Own,2,Skilled,1,no,yes,Male,Single,1
+No Account,12,critical account/ other credits existing (not at this bank),Radio/TV,522,"[500, 1000) DM",Above 7 Years,4,"Male, Single",None,4,Life Insurance,42,None,Own,2,Skilled,2,yes,yes,Male,Single,1
+None,12,existing credits paid back duly till now ,Radio/TV,1498,Below 100 DM,"[1, 4) Years",4,"Female, Divorced",None,1,Car,23,Bank,Own,1,Skilled,1,no,yes,Female,Divorced,1
+Below 200 DM,30,delay in paying off in the past ,Radio/TV,1919,"[100, 500) DM",<1 Year,4,"Male, Single",None,3,None,30,Stores,Own,2,Executive,1,no,yes,Male,Single,0
+Above 200 DM,9,existing credits paid back duly till now ,Radio/TV,745,Below 100 DM,"[1, 4) Years",3,"Female, Divorced",None,2,Real Estate,28,None,Own,1,Unskilled Resident,1,no,yes,Female,Divorced,0
+Below 200 DM,6,existing credits paid back duly till now ,Radio/TV,2063,Below 100 DM,<1 Year,4,"Male, Married/Widowed",None,3,Car,30,None,Rent,1,Executive,1,yes,yes,Male,Married/Widowed,1
+Below 200 DM,60,existing credits paid back duly till now ,Education,6288,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,4,None,42,None,Free,1,Skilled,1,no,yes,Male,Single,0
+No Account,24,critical account/ other credits existing (not at this bank),Car (Used),6842,None,"[1, 4) Years",2,"Male, Single",None,4,Life Insurance,46,None,Own,2,Executive,2,yes,yes,Male,Single,1
+No Account,12,existing credits paid back duly till now ,Car (New),3527,None,<1 Year,2,"Male, Single",None,3,Life Insurance,45,None,Own,1,Executive,2,yes,yes,Male,Single,1
+No Account,10,existing credits paid back duly till now ,Car (New),1546,Below 100 DM,"[1, 4) Years",3,"Male, Single",None,2,Real Estate,31,None,Own,1,Unskilled Resident,2,no,no,Male,Single,1
+No Account,24,existing credits paid back duly till now ,Furniture,929,None,"[4, 7) Years",4,"Male, Single",None,2,Car,31,Stores,Own,1,Skilled,1,yes,yes,Male,Single,1
+No Account,4,critical account/ other credits existing (not at this bank),Car (New),1455,Below 100 DM,"[4, 7) Years",2,"Male, Single",None,1,Real Estate,42,None,Own,3,Unskilled Resident,2,no,yes,Male,Single,1
+None,15,existing credits paid back duly till now ,Furniture,1845,Below 100 DM,<1 Year,4,"Female, Divorced",Guarantor,1,Life Insurance,46,None,Rent,1,Skilled,1,no,yes,Female,Divorced,1
+Below 200 DM,48,no credits taken/ all credits paid back duly ,Car (New),8358,"[500, 1000) DM",<1 Year,1,"Female, Divorced",None,1,Car,30,None,Own,2,Skilled,1,no,yes,Female,Divorced,1
+None,24,all credits at this bank paid back duly ,Furniture,3349,"[500, 1000) DM",<1 Year,4,"Male, Single",None,4,None,30,None,Free,1,Skilled,2,yes,yes,Male,Single,0
+No Account,12,existing credits paid back duly till now ,Car (New),2859,None,Unemployed,4,"Male, Single",None,4,None,38,None,Own,1,Executive,1,yes,yes,Male,Single,1
+No Account,18,existing credits paid back duly till now ,Furniture,1533,Below 100 DM,<1 Year,4,"Male, Married/Widowed",Co-Applicant,1,Life Insurance,43,None,Own,1,Unskilled Resident,2,no,yes,Male,Married/Widowed,0
+No Account,24,existing credits paid back duly till now ,Radio/TV,3621,"[100, 500) DM",Above 7 Years,2,"Male, Single",None,4,Car,31,None,Own,2,Skilled,1,no,yes,Male,Single,0
+Below 200 DM,18,critical account/ other credits existing (not at this bank),Business,3590,Below 100 DM,Unemployed,3,"Male, Married/Widowed",None,3,Car,40,None,Own,3,"Unemployed, Unskilled",2,yes,yes,Male,Married/Widowed,1
+None,36,delay in paying off in the past ,Business,2145,Below 100 DM,"[4, 7) Years",2,"Male, Single",None,1,Car,24,None,Own,2,Skilled,1,yes,yes,Male,Single,0
+Below 200 DM,24,existing credits paid back duly till now ,Car (Used),4113,"[500, 1000) DM",<1 Year,3,"Female, Divorced",None,4,Car,28,None,Rent,1,Skilled,1,no,yes,Female,Divorced,0
+No Account,36,existing credits paid back duly till now ,Furniture,10974,Below 100 DM,Unemployed,4,"Female, Divorced",None,2,Car,26,None,Own,2,Executive,1,yes,yes,Female,Divorced,0
+None,12,existing credits paid back duly till now ,Car (New),1893,Below 100 DM,"[1, 4) Years",4,"Female, Divorced",Guarantor,4,Life Insurance,29,None,Own,1,Skilled,1,yes,yes,Female,Divorced,1
+None,24,critical account/ other credits existing (not at this bank),Radio/TV,1231,Above 1000 DM,Above 7 Years,4,"Female, Divorced",None,4,Life Insurance,57,None,Rent,2,Executive,1,yes,yes,Female,Divorced,1
+Above 200 DM,30,critical account/ other credits existing (not at this bank),Radio/TV,3656,None,Above 7 Years,4,"Male, Single",None,4,Life Insurance,49,Stores,Own,2,Unskilled Resident,1,no,yes,Male,Single,1
+Below 200 DM,9,critical account/ other credits existing (not at this bank),Radio/TV,1154,Below 100 DM,Above 7 Years,2,"Male, Single",None,4,Real Estate,37,None,Own,3,Unskilled Resident,1,no,yes,Male,Single,1
+None,28,existing credits paid back duly till now ,Car (New),4006,Below 100 DM,"[1, 4) Years",3,"Male, Single",None,2,Car,45,None,Own,1,Unskilled Resident,1,no,yes,Male,Single,0
+Below 200 DM,24,existing credits paid back duly till now ,Furniture,3069,"[100, 500) DM",Above 7 Years,4,"Male, Single",None,4,None,30,None,Free,1,Skilled,1,no,yes,Male,Single,1
+No Account,6,critical account/ other credits existing (not at this bank),Radio/TV,1740,Below 100 DM,Above 7 Years,2,"Male, Married/Widowed",None,2,Real Estate,30,None,Rent,2,Skilled,1,no,yes,Male,Married/Widowed,1
+Below 200 DM,21,delay in paying off in the past ,Car (New),2353,Below 100 DM,"[1, 4) Years",1,"Male, Divorced",None,4,Life Insurance,47,None,Own,2,Skilled,1,no,yes,Male,Divorced,1
+No Account,15,existing credits paid back duly till now ,Car (New),3556,None,"[1, 4) Years",3,"Male, Single",None,2,None,29,None,Own,1,Skilled,1,no,yes,Male,Single,1
+No Account,24,existing credits paid back duly till now ,Radio/TV,2397,"[500, 1000) DM",Above 7 Years,3,"Male, Single",None,2,Car,35,Bank,Own,2,Skilled,1,yes,yes,Male,Single,0
+Below 200 DM,6,existing credits paid back duly till now ,Repairs,454,Below 100 DM,<1 Year,3,"Male, Married/Widowed",None,1,Life Insurance,22,None,Own,1,Unskilled Resident,1,no,yes,Male,Married/Widowed,1
+Below 200 DM,30,existing credits paid back duly till now ,Radio/TV,1715,None,"[1, 4) Years",4,"Female, Divorced",None,1,Car,26,None,Own,1,Skilled,1,no,yes,Female,Divorced,1
+Below 200 DM,27,critical account/ other credits existing (not at this bank),Radio/TV,2520,"[500, 1000) DM","[1, 4) Years",4,"Male, Single",None,2,Life Insurance,23,None,Own,2,Unskilled Resident,1,no,yes,Male,Single,0
+No Account,15,existing credits paid back duly till now ,Radio/TV,3568,Below 100 DM,Above 7 Years,4,"Female, Divorced",None,2,Car,54,Bank,Rent,1,Executive,1,yes,yes,Female,Divorced,1
+No Account,42,existing credits paid back duly till now ,Radio/TV,7166,None,"[4, 7) Years",2,"Male, Married/Widowed",None,4,Life Insurance,29,None,Rent,1,Skilled,1,yes,yes,Male,Married/Widowed,1
+None,11,critical account/ other credits existing (not at this bank),Car (New),3939,Below 100 DM,"[1, 4) Years",1,"Male, Single",None,2,Real Estate,40,None,Own,2,Unskilled Resident,2,no,yes,Male,Single,1
+Below 200 DM,15,existing credits paid back duly till now ,Repairs,1514,"[100, 500) DM","[1, 4) Years",4,"Male, Single",Guarantor,2,Real Estate,22,None,Own,1,Skilled,1,no,yes,Male,Single,1
+No Account,24,existing credits paid back duly till now ,Car (New),7393,Below 100 DM,"[1, 4) Years",1,"Male, Single",None,4,Life Insurance,43,None,Own,1,Unskilled Resident,2,no,yes,Male,Single,1
+None,24,all credits at this bank paid back duly ,Car (New),1193,Below 100 DM,Unemployed,1,"Female, Divorced",Co-Applicant,4,None,29,None,Rent,2,"Unemployed, Unskilled",1,no,yes,Female,Divorced,0
+None,60,existing credits paid back duly till now ,Business,7297,Below 100 DM,Above 7 Years,4,"Male, Single",Co-Applicant,4,None,36,None,Rent,1,Skilled,1,no,yes,Male,Single,0
+No Account,30,critical account/ other credits existing (not at this bank),Radio/TV,2831,Below 100 DM,"[1, 4) Years",4,"Female, Divorced",None,2,Car,33,None,Own,1,Skilled,1,yes,yes,Female,Divorced,1
+Above 200 DM,24,existing credits paid back duly till now ,Radio/TV,1258,"[500, 1000) DM","[1, 4) Years",3,"Female, Divorced",None,3,Car,57,None,Own,1,Unskilled Resident,1,no,yes,Female,Divorced,1
+Below 200 DM,6,existing credits paid back duly till now ,Radio/TV,753,Below 100 DM,"[1, 4) Years",2,"Female, Divorced",Guarantor,3,Real Estate,64,None,Own,1,Skilled,1,no,yes,Female,Divorced,1
+Below 200 DM,18,delay in paying off in the past ,Business,2427,None,Above 7 Years,4,"Male, Single",None,2,Life Insurance,42,None,Own,2,Skilled,1,no,yes,Male,Single,1
+No Account,24,delay in paying off in the past ,Car (New),2538,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Car,47,None,Own,2,Unskilled Resident,2,no,yes,Male,Single,0
+Below 200 DM,15,all credits at this bank paid back duly ,Car (New),1264,"[100, 500) DM","[1, 4) Years",2,"Male, Married/Widowed",None,2,Life Insurance,25,None,Rent,1,Skilled,1,no,yes,Male,Married/Widowed,0
+Below 200 DM,30,critical account/ other credits existing (not at this bank),Furniture,8386,Below 100 DM,"[4, 7) Years",2,"Male, Single",None,2,Life Insurance,49,None,Own,1,Skilled,1,no,yes,Male,Single,0
+No Account,48,existing credits paid back duly till now ,Business,4844,Below 100 DM,Unemployed,3,"Male, Single",None,2,Car,33,Bank,Rent,1,Executive,1,yes,yes,Male,Single,0
+Above 200 DM,21,existing credits paid back duly till now ,Car (New),2923,"[100, 500) DM","[1, 4) Years",1,"Female, Divorced",None,1,Car,28,Bank,Own,1,Executive,1,yes,yes,Female,Divorced,1
+None,36,existing credits paid back duly till now ,Car (Used),8229,Below 100 DM,"[1, 4) Years",2,"Male, Single",None,2,Life Insurance,26,None,Own,1,Skilled,2,no,yes,Male,Single,0
+No Account,24,critical account/ other credits existing (not at this bank),Furniture,2028,Below 100 DM,"[4, 7) Years",2,"Male, Single",None,2,Life Insurance,30,None,Own,2,Unskilled Resident,1,no,yes,Male,Single,1
+None,15,critical account/ other credits existing (not at this bank),Furniture,1433,Below 100 DM,"[1, 4) Years",4,"Female, Divorced",None,3,Life Insurance,25,None,Rent,2,Skilled,1,no,yes,Female,Divorced,1
+Above 200 DM,42,no credits taken/ all credits paid back duly ,Business,6289,Below 100 DM,<1 Year,2,"Male, Divorced",None,1,Life Insurance,33,None,Own,2,Skilled,1,no,yes,Male,Divorced,1
+No Account,13,existing credits paid back duly till now ,Radio/TV,1409,"[100, 500) DM",Unemployed,2,"Female, Divorced",None,4,Real Estate,64,None,Own,1,Skilled,1,no,yes,Female,Divorced,1
+None,24,existing credits paid back duly till now ,Car (Used),6579,Below 100 DM,Unemployed,4,"Male, Single",None,2,None,29,None,Free,1,Executive,1,yes,yes,Male,Single,1
+Below 200 DM,24,critical account/ other credits existing (not at this bank),Radio/TV,1743,Below 100 DM,Above 7 Years,4,"Male, Single",None,2,Life Insurance,48,None,Own,2,Unskilled Resident,1,no,yes,Male,Single,1
+No Account,12,critical account/ other credits existing (not at this bank),Education,3565,None,<1 Year,2,"Male, Single",None,1,Life Insurance,37,None,Own,2,Unskilled Resident,2,no,yes,Male,Single,1
+No Account,15,all credits at this bank paid back duly ,Radio/TV,1569,"[100, 500) DM",Above 7 Years,4,"Male, Single",None,4,Car,34,Bank,Own,1,Unskilled Resident,2,no,yes,Male,Single,1
+None,18,existing credits paid back duly till now ,Radio/TV,1936,None,"[4, 7) Years",2,"Male, Married/Widowed",None,4,Car,23,None,Rent,2,Unskilled Resident,1,no,yes,Male,Married/Widowed,1
+None,36,existing credits paid back duly till now ,Furniture,3959,Below 100 DM,Unemployed,4,"Male, Single",None,3,Life Insurance,30,None,Own,1,Executive,1,yes,yes,Male,Single,1
+No Account,12,existing credits paid back duly till now ,Car (New),2390,None,Above 7 Years,4,"Male, Single",None,3,Car,50,None,Own,1,Skilled,1,yes,yes,Male,Single,1
+No Account,12,existing credits paid back duly till now ,Furniture,1736,Below 100 DM,"[4, 7) Years",3,"Female, Divorced",None,4,Real Estate,31,None,Own,1,Unskilled Resident,1,no,yes,Female,Divorced,1
+None,30,existing credits paid back duly till now ,Car (Used),3857,Below 100 DM,"[1, 4) Years",4,"Male, Divorced",None,4,Life Insurance,40,None,Own,1,Executive,1,yes,yes,Male,Divorced,1
+No Account,12,existing credits paid back duly till now ,Radio/TV,804,Below 100 DM,Above 7 Years,4,"Male, Single",None,4,Car,38,None,Own,1,Skilled,1,no,yes,Male,Single,1
+None,45,existing credits paid back duly till now ,Radio/TV,1845,Below 100 DM,"[1, 4) Years",4,"Male, Single",None,4,None,23,None,Free,1,Skilled,1,yes,yes,Male,Single,0
+Below 200 DM,45,critical account/ other credits existing (not at this bank),Car (Used),4576,"[100, 500) DM",Unemployed,3,"Male, Single",None,4,Car,27,None,Own,1,Skilled,1,no,yes,Male,Single,1
